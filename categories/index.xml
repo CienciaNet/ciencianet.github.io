@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CienciaNet</title>
-    <link>https://ciencianet.com.ar/categories/</link>
+    <link>https://ciencianet.github.io/categories/</link>
     <description>Recent content in Categories on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://ciencianet.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

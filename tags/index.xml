@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CienciaNet</title>
-    <link>https://ciencianet.com.ar/tags/</link>
+    <link>https://ciencianet.github.io/tags/</link>
     <description>Recent content in Tags on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 18 Dec 2007 01:08:32 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Dec 2007 01:08:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitectura</title>
-      <link>https://ciencianet.com.ar/tags/arquitectura/</link>
+      <link>https://ciencianet.github.io/tags/arquitectura/</link>
       <pubDate>Tue, 18 Dec 2007 01:08:32 +0000</pubDate>
       
-      <guid>https://ciencianet.com.ar/tags/arquitectura/</guid>
+      <guid>https://ciencianet.github.io/tags/arquitectura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eficiencia energética</title>
-      <link>https://ciencianet.com.ar/tags/eficiencia-energ%C3%A9tica/</link>
+      <link>https://ciencianet.github.io/tags/eficiencia-energ%C3%A9tica/</link>
       <pubDate>Tue, 18 Dec 2007 01:08:32 +0000</pubDate>
       
-      <guid>https://ciencianet.com.ar/tags/eficiencia-energ%C3%A9tica/</guid>
+      <guid>https://ciencianet.github.io/tags/eficiencia-energ%C3%A9tica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biofísica</title>
-      <link>https://ciencianet.com.ar/tags/biof%C3%ADsica/</link>
+      <link>https://ciencianet.github.io/tags/biof%C3%ADsica/</link>
       <pubDate>Wed, 16 May 2007 02:14:07 +0000</pubDate>
       
-      <guid>https://ciencianet.com.ar/tags/biof%C3%ADsica/</guid>
+      <guid>https://ciencianet.github.io/tags/biof%C3%ADsica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nanotecnología</title>
-      <link>https://ciencianet.com.ar/tags/nanotecnolog%C3%ADa/</link>
+      <link>https://ciencianet.github.io/tags/nanotecnolog%C3%ADa/</link>
       <pubDate>Tue, 24 Apr 2007 02:34:12 +0000</pubDate>
       
-      <guid>https://ciencianet.com.ar/tags/nanotecnolog%C3%ADa/</guid>
+      <guid>https://ciencianet.github.io/tags/nanotecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sin categoría</title>
-      <link>https://ciencianet.com.ar/tags/sin-categor%C3%ADa/</link>
+      <link>https://ciencianet.github.io/tags/sin-categor%C3%ADa/</link>
       <pubDate>Sat, 31 Mar 2007 02:37:01 +0000</pubDate>
       
-      <guid>https://ciencianet.com.ar/tags/sin-categor%C3%ADa/</guid>
+      <guid>https://ciencianet.github.io/tags/sin-categor%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://ciencianet.com.ar/tags/index/</link>
+      <link>https://ciencianet.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ciencianet.com.ar/tags/index/</guid>
+      <guid>https://ciencianet.github.io/tags/index/</guid>
       <description></description>
     </item>
     
