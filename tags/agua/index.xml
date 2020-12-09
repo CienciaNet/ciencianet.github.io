@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agua on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/agua/</link>
+    <description>Recent content in Agua on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 10 Sep 2008 22:15:12 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/agua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capilaridad, diferencias de presión, transpiración, y.... Nuevo mecanismo para el transporte de agua en plantas vasculares</title>
+      <link>https://ciencianet.github.io/post/capilaridad-diferencias-de-presion-transpiracion-y-nuevo-mecanismo-para-el-transporte-de-agua-en-plantas-vasculares/</link>
+      <pubDate>Wed, 10 Sep 2008 22:15:12 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/capilaridad-diferencias-de-presion-transpiracion-y-nuevo-mecanismo-para-el-transporte-de-agua-en-plantas-vasculares/</guid>
+      <description>Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina. Mediante un modelo matemático simple, científicos argentinos proponen un mecanismo basado en consideraciones geométricas, que acercaría un poco más de luz sobre el aún incompleto conocimiento del fenómeno de transporte de agua en plantas vasculares.
+El transporte de agua y otras sustancias desde las raíces hasta la hoja es un problema de la fisiología vegetal que aún hoy en día deja más dudas que certezas a la hora de establecer los mecanismos que intervienen en este complejo e interesante proceso.</description>
+    </item>
+    
+  </channel>
+</rss>

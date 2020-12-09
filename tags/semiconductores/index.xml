@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semiconductores on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/semiconductores/</link>
+    <description>Recent content in Semiconductores on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 17 Aug 2010 20:47:16 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/semiconductores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celdas solares con nanohilos</title>
+      <link>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</link>
+      <pubDate>Tue, 17 Aug 2010 20:47:16 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</guid>
+      <description>Marcelo Cappelletti. Facultad de ingeniería. Universidad Nacional de La Plata.
+El avance a pasos agigantados de la nanotecnología brinda la posibilidad de nuevas investigaciones y desarrollos con aplicaciones en diversos campos tales como la informática, medicina o fuentes de energía alternativas, que prometen mejorar la calidad de vida de la humanidad y el medio ambiente en general.
+En este sentido, en el campo de almacenamiento, producción y conversión de energía, los dispositivos fotovoltaicos (dispositivos capaces de convertir energía solar en energía eléctrica) de unión p-n que emplean nanohilos semiconductores, presentan una clara ventaja respecto de los dispositivos convencionales de película delgada, en cuanto a tener una mayor eficiencia en la conversión de energía y un menor costo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/desarrollo/</link>
+    <description>Recent content in Desarrollo on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 Jun 2009 21:30:21 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/desarrollo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Ciencia? ¿Qué ciencia?</title>
+      <link>https://ciencianet.github.io/post/ciencia-que-ciencia/</link>
+      <pubDate>Fri, 19 Jun 2009 21:30:21 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/ciencia-que-ciencia/</guid>
+      <description>T. S. Grigera: Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (CONICET La Plata, UNLP, CIC)
+En Argentina, como en otros países del sur, ocurre un fenómeno llamado fuga de cerebros: jóvenes universitarios de distintas disciplinas científicas, formados mayoritariamente en la Universidad pública, emigran y desarrollan su carrera contribuyendo al desarrollo del conocimiento científico o técnico en algún país del norte.
+¿Por qué se van? La respuesta parece evidente: en Argentina los científicos no pueden trabajar razonablemente.</description>
+    </item>
+    
+  </channel>
+</rss>
