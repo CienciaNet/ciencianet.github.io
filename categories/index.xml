@@ -5,6 +5,61 @@
     <link>https://ciencianet.github.io/categories/</link>
     <description>Recent content in Categories on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 28 Apr 2018 14:59:04 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Física</title>
+      <link>https://ciencianet.github.io/categories/f%C3%ADsica/</link>
+      <pubDate>Sat, 28 Apr 2018 14:59:04 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/f%C3%ADsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinión</title>
+      <link>https://ciencianet.github.io/categories/opini%C3%B3n/</link>
+      <pubDate>Fri, 08 Apr 2011 01:58:48 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/opini%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingeniería</title>
+      <link>https://ciencianet.github.io/categories/ingenier%C3%ADa/</link>
+      <pubDate>Tue, 18 Dec 2007 01:08:32 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/ingenier%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biología</title>
+      <link>https://ciencianet.github.io/categories/biolog%C3%ADa/</link>
+      <pubDate>Wed, 16 May 2007 02:14:07 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/biolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Química</title>
+      <link>https://ciencianet.github.io/categories/qu%C3%ADmica/</link>
+      <pubDate>Wed, 16 May 2007 02:14:07 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/qu%C3%ADmica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fisicoquímica</title>
+      <link>https://ciencianet.github.io/categories/fisicoqu%C3%ADmica/</link>
+      <pubDate>Tue, 24 Apr 2007 02:34:12 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/fisicoqu%C3%ADmica/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
