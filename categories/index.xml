@@ -6,13 +6,31 @@
     <description>Recent content in Categories on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Apr 2018 14:59:04 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 May 2018 23:15:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biología</title>
+      <link>https://ciencianet.github.io/categories/biolog%C3%ADa/</link>
+      <pubDate>Tue, 01 May 2018 23:15:32 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/biolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Física</title>
       <link>https://ciencianet.github.io/categories/f%C3%ADsica/</link>
-      <pubDate>Sat, 28 Apr 2018 14:59:04 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 23:15:32 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/f%C3%ADsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anuncio</title>
+      <link>https://ciencianet.github.io/categories/anuncio/</link>
+      <pubDate>Fri, 29 Dec 2017 00:21:29 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/anuncio/</guid>
       <description></description>
     </item>
     
@@ -35,11 +53,20 @@
     </item>
     
     <item>
-      <title>Biología</title>
-      <link>https://ciencianet.github.io/categories/biolog%C3%ADa/</link>
-      <pubDate>Wed, 16 May 2007 02:14:07 +0000</pubDate>
+      <title>Educación</title>
+      <link>https://ciencianet.github.io/categories/educaci%C3%B3n/</link>
+      <pubDate>Thu, 22 Jul 2010 20:51:47 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/biolog%C3%ADa/</guid>
+      <guid>https://ciencianet.github.io/categories/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geología</title>
+      <link>https://ciencianet.github.io/categories/geolog%C3%ADa/</link>
+      <pubDate>Wed, 08 Aug 2007 01:39:30 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/geolog%C3%ADa/</guid>
       <description></description>
     </item>
     

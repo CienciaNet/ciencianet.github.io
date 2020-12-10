@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bacterias on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/bacterias/</link>
+    <description>Recent content in Bacterias on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 01 May 2018 23:15:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/bacterias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cómo hace una bacteria para sobrevivir en condiciones extremas? Nuevos avances acerca de cómo un motor molecular regula la dirección de transporte del cromosoma.</title>
+      <link>https://ciencianet.github.io/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</link>
+      <pubDate>Tue, 01 May 2018 23:15:32 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</guid>
+      <description>Augusto Borges y Osvaldo Chara. SysBio, Instituto de Física de Líquidos y Sistemas Biológicos (CONICET, UNLP), La Plata, Argentina.
+Las bacterias poseen la capacidad de intercambiar ADN como un mecanismo de adaptación y supervivencia. Para ello, se pueden valer de motores moleculares capaces de transportar ADN a través de membranas celulares a gran velocidad y con una dirección definida (i.e. la bacteria que posee el ADN debe asegurarse que la bacteria receptora reciba una copia completa de ADN una vez que el proceso se ha iniciado).</description>
+    </item>
+    
+  </channel>
+</rss>

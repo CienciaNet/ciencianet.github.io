@@ -6,7 +6,7 @@
     <description>Recent content on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Apr 2018 14:59:04 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 May 2018 23:15:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://ciencianet.github.io/archives/</link>
@@ -28,6 +28,16 @@ Hugo makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>¿Cómo hace una bacteria para sobrevivir en condiciones extremas? Nuevos avances acerca de cómo un motor molecular regula la dirección de transporte del cromosoma.</title>
+      <link>https://ciencianet.github.io/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</link>
+      <pubDate>Tue, 01 May 2018 23:15:32 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</guid>
+      <description>Augusto Borges y Osvaldo Chara. SysBio, Instituto de Física de Líquidos y Sistemas Biológicos (CONICET, UNLP), La Plata, Argentina.
+Las bacterias poseen la capacidad de intercambiar ADN como un mecanismo de adaptación y supervivencia. Para ello, se pueden valer de motores moleculares capaces de transportar ADN a través de membranas celulares a gran velocidad y con una dirección definida (i.e. la bacteria que posee el ADN debe asegurarse que la bacteria receptora reciba una copia completa de ADN una vez que el proceso se ha iniciado).</description>
+    </item>
+    
+    <item>
       <title>Patricia Massolo - La mujer que nunca conocí</title>
       <link>https://ciencianet.github.io/post/patricia-massolo/</link>
       <pubDate>Sat, 28 Apr 2018 14:59:04 +0000</pubDate>
@@ -35,6 +45,16 @@ Hugo makes use of a variety of open source projects including:
       <guid>https://ciencianet.github.io/post/patricia-massolo/</guid>
       <description>Paula Bergero. Investigadora de CONICET en el INIFTA (Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas). Docente en la UNLP.
 La mujer que nunca conociste es el nombre de una campaña de Wikipedia destinada a visibilizar el trabajo de las mujeres en la cual se invita a crear entradas sobre mujeres destacadas en alguna de las áreas del desarrollo humano. La ciencia es una de las áreas en la que los aportes de las mujeres no han sido suficientemente difundidos o valorados.</description>
+    </item>
+    
+    <item>
+      <title>CienciaNet nuevamente en línea</title>
+      <link>https://ciencianet.github.io/post/ciencianet-nuevamente-en-linea/</link>
+      <pubDate>Fri, 29 Dec 2017 00:21:29 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/ciencianet-nuevamente-en-linea/</guid>
+      <description>En septiembre de 2016 finalizó el contrato que teníamos con la empresa que nos brindaba el servicio de hosting. Sin recursos para relocalizar el sitio, lo archivamos.
+Poco tiempo después, gracias a la dedicación de Paula Bergero pudimos obtener un nuevo alojamiento del sitio. Finalmente, terminando el año, hemos podido reconstruir todos los artículos publicados desde el inicio en marzo de 2007. En este tiempo CienciaNet produjo 137 artículos. Aún nos queda pulir detalles de este nuevo sitio, pero estamos activos.</description>
     </item>
     
     <item>
@@ -46,6 +66,16 @@ La mujer que nunca conociste es el nombre de una campaña de Wikipedia destinada
       <description>Manuel Carlevaro. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET).
 En la oficina vecina a la que ocupo en el IFLYSIB trabaja Santiago Grigera, responsable de la flamante instalación y puesta en marcha del Laboratorio de Bajas Temperaturas (BT La Plata). Aprovechamos una pausa durante una tarde de junio para charlar sobre esta singularidad térmica en el Universo. CN: -¿Qué actividad se realiza en el BT La Plata?
 SG: -La idea básica es que en el Laboratorio se pueden alcanzar temperaturas muy bajas y campos magnéticos muy altos.</description>
+    </item>
+    
+    <item>
+      <title>CienciaNet gana proyecto de CONICET y expande su política editorial</title>
+      <link>https://ciencianet.github.io/post/ciencianet-gana-proyecto-de-conicet-y-expande-su-politica-editorial/</link>
+      <pubDate>Mon, 26 Aug 2013 00:49:10 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/ciencianet-gana-proyecto-de-conicet-y-expande-su-politica-editorial/</guid>
+      <description>El Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina (CONICET) ha calificado a CienciaNet con el primer puesto en el orden de mérito en su Convocatoria 2012 para Proyectos de Divulgación. La financiación otorgada por CONICET permitirá sostener en el tiempo este portal y enriquecer su contenido.
+CienciaNet invita a investigadores del sistema científico nacional y a periodistas científicos a enviar notas cortas de divulgación, para ser consideradas para su publicación en nuestro portal.</description>
     </item>
     
     <item>
@@ -78,6 +108,17 @@ Los profesores Bauke Dijkstra y Lubbert Dijkhuizen de la Universidad de Groninge
       <description>Marcelo Cappelletti. Facultad de ingeniería. Universidad Nacional de La Plata.
 El avance a pasos agigantados de la nanotecnología brinda la posibilidad de nuevas investigaciones y desarrollos con aplicaciones en diversos campos tales como la informática, medicina o fuentes de energía alternativas, que prometen mejorar la calidad de vida de la humanidad y el medio ambiente en general.
 En este sentido, en el campo de almacenamiento, producción y conversión de energía, los dispositivos fotovoltaicos (dispositivos capaces de convertir energía solar en energía eléctrica) de unión p-n que emplean nanohilos semiconductores, presentan una clara ventaja respecto de los dispositivos convencionales de película delgada, en cuanto a tener una mayor eficiencia en la conversión de energía y un menor costo.</description>
+    </item>
+    
+    <item>
+      <title>Cinemática: de los números a las representaciones algebraicas</title>
+      <link>https://ciencianet.github.io/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</link>
+      <pubDate>Thu, 22 Jul 2010 20:51:47 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</guid>
+      <description>Paula Bergero. Facultad de Ciencias Exactas (UNLP).
+Trabajos previos (Redish; 2005, 2009) muestran que los matemáticos hacen una lectura diferente de las ecuaciones respecto de la que hacen los físicos, quienes incluyen cuestiones como las unidades, la diferencia entre variables, condiciones iniciales y constantes y las cuestiones de notación. El conocimiento de matemática parece entonces necesario pero no suficiente para lograr un aprendizaje en física.
+Con el objetivo de describir e interpretar los mecanismos de los estudiantes al resolver problemas de física las investigadoras tomaron un cuestionario a alumnos universitarios.</description>
     </item>
     
     <item>
@@ -123,6 +164,16 @@ En los últimos tiempos se han difundido diversos reclamos de naturaleza políti
     </item>
     
     <item>
+      <title>CienciaNet ganó un subsidio de la AFA</title>
+      <link>https://ciencianet.github.io/post/ciencianet-gano-un-subsidio-de-la-afa/</link>
+      <pubDate>Sun, 20 Apr 2008 00:05:26 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/ciencianet-gano-un-subsidio-de-la-afa/</guid>
+      <description>Nuestro portal de divulgación científica ganó un subsidio de la Asociación Física Argentina (AFA) en el marco de una convocatoria de proyectos para el Incentivo de Vocaciones para el estudio de la Física (INVOFI).
+La convocatoria cerró el día 15 de Octubre de 2007, presentándose 13 proyectos de distintos puntos del país. El Jurado para evaluarlos quedó conformado por: Enrique Coleonis (FAMAF), Laura Butteler (FAMAF) y Julia Salinas (UNT). Durante el mes de diciembre, una comisión integrada por tres socios de la AFA realizó un estudio de las propuestas y escogió 5 de estos proyectos para ser financiados durante 2008.</description>
+    </item>
+    
+    <item>
       <title>Bolas de acero hacen salpicaduras en la arena</title>
       <link>https://ciencianet.github.io/post/bolas-de-acero-hacen-salpicaduras-en-la-arena/</link>
       <pubDate>Wed, 19 Mar 2008 00:30:24 +0000</pubDate>
@@ -152,6 +203,17 @@ El estudio muestra que el cuidado de los habitantes en el uso de recursos elemen
       <description>Pablo Miguel Jacovkis. Facultad de Ciencias Exactas y Naturales y Facultad de Ingeniería. Universidad de Buenos Aires.
 Como todos sabemos (y sufrimos) la Argentina está remontando una crisis política, económica, social y moral como probablemente no se recuerde desde la época de Rosas, y seguramente como ningún argentino recuerde haber experimentado alguna otra vez en su vida.
 En algún sentido me atrevería a decir que es mayor que en los tiempos de Rosas, porque en esa época los proscriptos tenían confianza en un futuro mejor, e ideaban una Argentina posible; tanto el formidable Facundo como las Bases y puntos de partida para la organización política de la Confederación Argentina eran análisis de lo que se debía cambiar y de cómo se debía cambiar.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo se formó el Cerro Azul en la provincia de La Pampa?</title>
+      <link>https://ciencianet.github.io/post/como-se-formo-el-cerro-azul-en-la-provincia-de-la-pampa/</link>
+      <pubDate>Wed, 08 Aug 2007 01:39:30 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/como-se-formo-el-cerro-azul-en-la-provincia-de-la-pampa/</guid>
+      <description>Graciela Visconti: Facultad de Ciencias Exactas y Naturales (UNLPam).
+El estudio sedimentológico de un conjunto de rocas que afloran en el centro-este de la provincia de La Pampa permitió conocer el ambiente en el cual se formaron, durante un lapso de tiempo comprendido entre los 9 y 5 millones de años de antigüedad (Mioceno superior).
+Este conjunto, de más de 100 metros de espesor, está constituido por limolitas arcillosas y arenosas, y ha sido depositado principalmente por acción del viento.</description>
     </item>
     
     <item>
