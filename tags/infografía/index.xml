@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infografía on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/infograf%C3%ADa/</link>
+    <description>Recent content in Infografía on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 09 Mar 2013 01:11:21 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/infograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De la difusión de partículas a la difusión de la información: visualizando datos geoestadísticos mediante cartogramas</title>
+      <link>https://ciencianet.github.io/post/de-la-difusion-de-particulas-a-la-difusion-de-la-informacion-visualizando-datos-geoestadisticos-mediante-cartogramas/</link>
+      <pubDate>Sat, 09 Mar 2013 01:11:21 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/de-la-difusion-de-particulas-a-la-difusion-de-la-informacion-visualizando-datos-geoestadisticos-mediante-cartogramas/</guid>
+      <description>Karina Mazzitello (Universidad de Mar del Plata) y Julián Candia (Universidad Nacional de La Plata).
+La forma tradicional que se utiliza para visualizar resultados de censos y datos estadísticos en general es a través de diagramas de barras, de tortas y de cajas. En un diagrama de tortas a cada dato de una variable estadística dada le corresponde una porción de tamaño proporcional a su valor. Si el número de valores a representar es muy grande el diagrama de tortas resulta ilegible, debido a la gran cantidad de porciones requeridas en que se debería dividir la torta.</description>
+    </item>
+    
+  </channel>
+</rss>
