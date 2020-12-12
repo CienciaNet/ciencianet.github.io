@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materiales on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/materiales/</link>
+    <description>Recent content in Materiales on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Mar 2008 00:43:03 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/materiales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El grafeno continua sorprendiendo</title>
+      <link>https://ciencianet.github.io/post/el-grafeno-continua-sorprendiendo/</link>
+      <pubDate>Tue, 18 Mar 2008 00:43:03 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/el-grafeno-continua-sorprendiendo/</guid>
+      <description>Manuel Carlevaro: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET-UNLP) y Universidad Tecnológica Nacional.
+¿Hay algo que el grafeno -láminas de carbono de solo un átomo de espesor- no pueda hacer? Desde que este material fuera descubierto en 2004, ha mostrado ser un conductor eléctrico extremadamente bueno; un semiconductor que puede ser utilizado para crear transistores; un material muy resistente que puede utilizarse para hacer membranas ultra delgadas. Ahora, investigadores en Estados Unidos han confirmado que el grafeno puede ser también un muy buen conductor del calor.</description>
+    </item>
+    
+  </channel>
+</rss>
