@@ -6,7 +6,16 @@
     <description>Recent content in Categories on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 May 2018 23:15:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jul 2018 03:53:12 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Física</title>
+      <link>https://ciencianet.github.io/categories/f%C3%ADsica/</link>
+      <pubDate>Wed, 04 Jul 2018 03:53:12 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/f%C3%ADsica/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Biología</title>
       <link>https://ciencianet.github.io/categories/biolog%C3%ADa/</link>
@@ -17,11 +26,29 @@
     </item>
     
     <item>
-      <title>Física</title>
-      <link>https://ciencianet.github.io/categories/f%C3%ADsica/</link>
-      <pubDate>Tue, 01 May 2018 23:15:32 +0000</pubDate>
+      <title>Psiquiatría</title>
+      <link>https://ciencianet.github.io/categories/psiquiatr%C3%ADa/</link>
+      <pubDate>Sun, 15 Apr 2018 00:32:21 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/f%C3%ADsica/</guid>
+      <guid>https://ciencianet.github.io/categories/psiquiatr%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educación</title>
+      <link>https://ciencianet.github.io/categories/educaci%C3%B3n/</link>
+      <pubDate>Fri, 06 Apr 2018 15:14:29 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epistemología</title>
+      <link>https://ciencianet.github.io/categories/epistemolog%C3%ADa/</link>
+      <pubDate>Fri, 06 Apr 2018 15:14:29 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/epistemolog%C3%ADa/</guid>
       <description></description>
     </item>
     
@@ -35,11 +62,47 @@
     </item>
     
     <item>
+      <title>Agronomía</title>
+      <link>https://ciencianet.github.io/categories/agronom%C3%ADa/</link>
+      <pubDate>Sat, 28 Dec 2013 00:24:31 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/agronom%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecología</title>
+      <link>https://ciencianet.github.io/categories/ecolog%C3%ADa/</link>
+      <pubDate>Sat, 28 Dec 2013 00:24:31 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/ecolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurociencia</title>
+      <link>https://ciencianet.github.io/categories/neurociencia/</link>
+      <pubDate>Sat, 09 Apr 2011 01:55:22 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/neurociencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Opinión</title>
       <link>https://ciencianet.github.io/categories/opini%C3%B3n/</link>
       <pubDate>Fri, 08 Apr 2011 01:58:48 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/opini%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociedad</title>
+      <link>https://ciencianet.github.io/categories/sociedad/</link>
+      <pubDate>Mon, 29 Nov 2010 20:30:15 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/sociedad/</guid>
       <description></description>
     </item>
     
@@ -53,20 +116,29 @@
     </item>
     
     <item>
-      <title>Educación</title>
-      <link>https://ciencianet.github.io/categories/educaci%C3%B3n/</link>
-      <pubDate>Thu, 22 Jul 2010 20:51:47 +0000</pubDate>
+      <title>Sociología</title>
+      <link>https://ciencianet.github.io/categories/sociolog%C3%ADa/</link>
+      <pubDate>Wed, 01 Apr 2009 21:38:01 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/educaci%C3%B3n/</guid>
+      <guid>https://ciencianet.github.io/categories/sociolog%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ecología</title>
-      <link>https://ciencianet.github.io/categories/ecolog%C3%ADa/</link>
-      <pubDate>Wed, 19 Mar 2008 00:37:43 +0000</pubDate>
+      <title>Medicina</title>
+      <link>https://ciencianet.github.io/categories/medicina/</link>
+      <pubDate>Sat, 21 Jun 2008 23:38:24 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/ecolog%C3%ADa/</guid>
+      <guid>https://ciencianet.github.io/categories/medicina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Química</title>
+      <link>https://ciencianet.github.io/categories/qu%C3%ADmica/</link>
+      <pubDate>Tue, 17 Jun 2008 23:43:06 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/qu%C3%ADmica/</guid>
       <description></description>
     </item>
     
@@ -80,11 +152,11 @@
     </item>
     
     <item>
-      <title>Química</title>
-      <link>https://ciencianet.github.io/categories/qu%C3%ADmica/</link>
-      <pubDate>Wed, 16 May 2007 02:14:07 +0000</pubDate>
+      <title>Bioquímica</title>
+      <link>https://ciencianet.github.io/categories/bioqu%C3%ADmica/</link>
+      <pubDate>Sat, 02 Jun 2007 02:05:03 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/qu%C3%ADmica/</guid>
+      <guid>https://ciencianet.github.io/categories/bioqu%C3%ADmica/</guid>
       <description></description>
     </item>
     

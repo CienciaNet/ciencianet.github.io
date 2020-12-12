@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neurociencias on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/neurociencias/</link>
+    <description>Recent content in Neurociencias on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 15 Apr 2018 00:32:21 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/neurociencias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagnóstico de estados psicóticos y teorías del sueño usando análisis automático del habla</title>
+      <link>https://ciencianet.github.io/post/diagnostico-de-estados-psicoticos-y-teorias-del-sueno-usando-analisis-automatico-del-habla/</link>
+      <pubDate>Sun, 15 Apr 2018 00:32:21 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/diagnostico-de-estados-psicoticos-y-teorias-del-sueno-usando-analisis-automatico-del-habla/</guid>
+      <description>Bruno Bianchi. Universidad de Buenos Aires.
+La complejidad del lenguaje nos permite lograr expresar nuestros pensamientos y sentimientos de forma muy precisa. Sin embargo, esa misma complejidad podría dificultar su comprensión. Aquellos que hablamos una segunda lengua de forma no nativa (o sea, que aprendimos de grandes y no convivimos con esa lengua) lo sabemos muy bien. En cada conversación, en cada texto, se nos pasa por alto información que el emisor nos quiso dar.</description>
+    </item>
+    
+  </channel>
+</rss>

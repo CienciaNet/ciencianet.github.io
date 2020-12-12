@@ -6,7 +6,17 @@
     <description>Recent content in Educación on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jul 2010 20:51:47 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Apr 2018 15:14:29 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿De qué signo sos? Viaje en el tiempo por algunas concepciones del mundo</title>
+      <link>https://ciencianet.github.io/post/de-que-signo-sos-viaje-en-el-tiempo-por-algunas-concepciones-del-mundo/</link>
+      <pubDate>Fri, 06 Apr 2018 15:14:29 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/de-que-signo-sos-viaje-en-el-tiempo-por-algunas-concepciones-del-mundo/</guid>
+      <description>Paula Bergero. Investigadora de CONICET en el INIFTA (Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas). Docente en la UNLP.
+En este artículo reseñamos el trabajo “Un recorrido histórico por algunas concepciones del mundo”. de Diego Petrucci, en el cual se efectúa un recorrido histórico que tiene como ejes las ideas que, desde la antigüedad, han influido sobre nuestras concepciones del mundo. El trabajo tiene el objetivo de fomentar la reflexión de los docentes de ciencia sobre la forma en que concebimos el mundo, ya que las diversas representaciones han definido tradiciones que impregnan actualmente nuestra cultura y que atraviesan las visiones científicas de cualquier disciplina.</description>
+    </item>
+    
     <item>
       <title>Cinemática: de los números a las representaciones algebraicas</title>
       <link>https://ciencianet.github.io/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</link>
@@ -16,6 +26,17 @@
       <description>Paula Bergero. Facultad de Ciencias Exactas (UNLP).
 Trabajos previos (Redish; 2005, 2009) muestran que los matemáticos hacen una lectura diferente de las ecuaciones respecto de la que hacen los físicos, quienes incluyen cuestiones como las unidades, la diferencia entre variables, condiciones iniciales y constantes y las cuestiones de notación. El conocimiento de matemática parece entonces necesario pero no suficiente para lograr un aprendizaje en física.
 Con el objetivo de describir e interpretar los mecanismos de los estudiantes al resolver problemas de física las investigadoras tomaron un cuestionario a alumnos universitarios.</description>
+    </item>
+    
+    <item>
+      <title>Detección de estilos de aprendizaje utilizando redes bayesianas</title>
+      <link>https://ciencianet.github.io/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</link>
+      <pubDate>Sun, 03 Feb 2008 00:57:09 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</guid>
+      <description>Manuel Carlevaro. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.
+Los estudiantes se caracterizan por poseer diversos estilos de aprendizaje, dependiendo de cómo seleccionan la información recibida y su posterior procesamiento en diversas formas. En el diseño de sistemas educativos ví­a web, es deseable que todos los alumnos puedan aprender independientemente de sus diferentes estilos de aprendizaje.
+En un trabajo publicado recientemente en Computers &amp;amp; Education, los investigadores Patricio Garcí­a, Analía Amandi, Silvia Schiaffino y Marcelo Campo, del Instituto de Sistema Tandil (ISISTAN) pertenenciente a la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNCPBA), modelaron una red bayesiana para detectar los diferentes estilos de aprendizaje de alumnos de un curso vía web de Inteligencia Artificial.</description>
     </item>
     
   </channel>

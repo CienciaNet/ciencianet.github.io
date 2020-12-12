@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciencia Hoy on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/ciencia-hoy/</link>
+    <description>Recent content in Ciencia Hoy on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 Oct 2007 01:24:02 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/ciencia-hoy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Divulgación científica y tecnológica. Un ejemplo</title>
+      <link>https://ciencianet.github.io/post/divulgacion-cientifica-y-tecnologica-un-ejemplo/</link>
+      <pubDate>Fri, 19 Oct 2007 01:24:02 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/divulgacion-cientifica-y-tecnologica-un-ejemplo/</guid>
+      <description>Luis Pugnaloni Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+La revista argentina de divulgación científica y tecnológica Ciencia Hoy cumple 100 números; una publicación de la mejor calidad producida por una asociación civil sin fines de lucro. Que una producción de este tipo continúe tan viva después de 20 años es ejemplificador para todos. CienciaNet conversó con Aníbal Gattone, uno de los editores responsables de Ciencia Hoy.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red bayesiana on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/red-bayesiana/</link>
+    <description>Recent content in Red bayesiana on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 03 Feb 2008 00:57:09 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/red-bayesiana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detección de estilos de aprendizaje utilizando redes bayesianas</title>
+      <link>https://ciencianet.github.io/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</link>
+      <pubDate>Sun, 03 Feb 2008 00:57:09 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</guid>
+      <description>Manuel Carlevaro. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.
+Los estudiantes se caracterizan por poseer diversos estilos de aprendizaje, dependiendo de cómo seleccionan la información recibida y su posterior procesamiento en diversas formas. En el diseño de sistemas educativos ví­a web, es deseable que todos los alumnos puedan aprender independientemente de sus diferentes estilos de aprendizaje.
+En un trabajo publicado recientemente en Computers &amp;amp; Education, los investigadores Patricio Garcí­a, Analía Amandi, Silvia Schiaffino y Marcelo Campo, del Instituto de Sistema Tandil (ISISTAN) pertenenciente a la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNCPBA), modelaron una red bayesiana para detectar los diferentes estilos de aprendizaje de alumnos de un curso vía web de Inteligencia Artificial.</description>
+    </item>
+    
+  </channel>
+</rss>
