@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Física no lineal on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/f%C3%ADsica-no-lineal/</link>
+    <description>Recent content in Física no lineal on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 24 Aug 2007 01:30:37 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/f%C3%ADsica-no-lineal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El problema de Fermi, Pasta y Ulam: “Un pequeño descubrimiento”</title>
+      <link>https://ciencianet.github.io/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</link>
+      <pubDate>Fri, 24 Aug 2007 01:30:37 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</guid>
+      <description>Fernando Vericat: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+A principios de 1952 la computadora MANIAC-I (Mathematical Analyzer Numerical Integrator And Calculator) fue puesta en servicio en Los Alamos. A mediados de ese mismo año, el físico Enrico Fermi decidió poner a prueba la potencialidad de la misma y propuso considerar la posibilidad de utilizarla como herramienta para investigar problemas dinámicos no lineales mediante “experimentos” numéricos. Con ese fin se asoció con el especialista en computación John Pasta y el matemático Stanislaw Ulam.</description>
+    </item>
+    
+  </channel>
+</rss>
