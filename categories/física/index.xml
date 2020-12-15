@@ -89,6 +89,27 @@ Los profesores Bauke Dijkstra y Lubbert Dijkhuizen de la Universidad de Groninge
     </item>
     
     <item>
+      <title>Estabilidad como un mecanismo de selección natural en redes interactuantes</title>
+      <link>https://ciencianet.github.io/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</link>
+      <pubDate>Tue, 26 Oct 2010 20:34:18 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</guid>
+      <description>Pablo Gleiser. Centro Atómico Bariloche.
+Una gran variedad de sistemas en la naturaleza pueden describirse como redes, donde las unidades del sistema están representadas por nodos, y la interacción entre estas unidades está representada por conexiones entre los nodos. Así, podemos pensar al cerebro como una red de neuronas, a una organización social como una red de personas, o a Internet como una red de computadoras.
+Muchas de estas redes poseen propiedades específicas que no se observan en sistemas aleatorios donde los nodos son conectados al azar.</description>
+    </item>
+    
+    <item>
+      <title>Escuela Internacional de Gravedad Cuántica</title>
+      <link>https://ciencianet.github.io/post/escuela-internacional-de-gravedad-cuantica/</link>
+      <pubDate>Sat, 04 Sep 2010 20:42:43 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/escuela-internacional-de-gravedad-cuantica/</guid>
+      <description>Nicolás Grandi. Instituto de Física La Plata.
+Entre el 19 y el 27 de julio de 2010, en el Departamento de Física de la Universidad Nacional de La Plata, tuvo lugar la International School in Quantum Gravity, que reunió a un centenar de asistentes entre estudiantes e investigadores, provenientes de prestigiosos institutos de más de diez países. La escuela consistió en una serie de lectures concentradas en uno de los problemas abiertos más intrigantes de la física teórica contemporánea: el comportamiento cuántico de la gravedad.</description>
+    </item>
+    
+    <item>
       <title>Celdas solares con nanohilos</title>
       <link>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</link>
       <pubDate>Tue, 17 Aug 2010 20:47:16 +0000</pubDate>
@@ -108,6 +129,17 @@ En este sentido, en el campo de almacenamiento, producción y conversión de ene
       <description>Diego Vallejo: Facultad de Ingeniería - Universidad Nacional de La Plata. En colaboración con Sandra Maguid, Universidad Nacional de Quilmes.
 Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina.
 Cáncer: un conjunto de enfermedades que desequilibran el control celular. Aparecen células que se multiplican en exceso y adquieren carácter maligno. Al cáncer lo sufren los que lo padecen y los que están cerca de los que lo padecen.</description>
+    </item>
+    
+    <item>
+      <title>¿Es posible controlar la luz difractada por una red de difracción?</title>
+      <link>https://ciencianet.github.io/post/es-posible-controlar-la-luz-difractada-por-una-red-de-difraccion/</link>
+      <pubDate>Fri, 27 Feb 2009 21:55:10 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/es-posible-controlar-la-luz-difractada-por-una-red-de-difraccion/</guid>
+      <description>Manuel Carlevaro. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina.
+¡Sí!...y se logra empleando elementos dispersores distribuidos de forma determinada. Científicos argentinos han estudiado en forma numérica este fenómeno y lograron dicho dominio utilizando un conjunto de cilindros de sección circular. Lo que es aún más sorprendente es que la predicción de las direcciones en que se intensificarán la luz reflejada y la luz transmitida es independiente del material de los cilindros y de la polarización de la luz incidente.</description>
     </item>
     
     <item>
@@ -152,6 +184,17 @@ El transporte de agua y otras sustancias desde las raíces hasta la hoja es un p
     </item>
     
     <item>
+      <title>Experimentos con rayos que hicieron historia</title>
+      <link>https://ciencianet.github.io/post/experimentos-con-rayos-que-hicieron-historia/</link>
+      <pubDate>Thu, 22 May 2008 23:46:49 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/experimentos-con-rayos-que-hicieron-historia/</guid>
+      <description>Paula Bergero. Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (CONICET-UNLP-CIC).
+Relato presentado en el Museo de Física de la Universidad Nacional de La Plata durante la Noche de los Museos 2008.
+En la década de 1870, el británico William Crookes, reconocido químico de la época, creyó que había encontrado un nuevo estado de la materia que se sumaba a los tres ya conocidos (sólido, líquido y gaseoso): la materia radiante.</description>
+    </item>
+    
+    <item>
       <title>Bolas de acero hacen salpicaduras en la arena</title>
       <link>https://ciencianet.github.io/post/bolas-de-acero-hacen-salpicaduras-en-la-arena/</link>
       <pubDate>Wed, 19 Mar 2008 00:30:24 +0000</pubDate>
@@ -170,6 +213,26 @@ Estos resultados arrojan nueva luz sobre la relación entre sistemas granulares 
       <guid>https://ciencianet.github.io/post/el-grafeno-continua-sorprendiendo/</guid>
       <description>Manuel Carlevaro: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET-UNLP) y Universidad Tecnológica Nacional.
 ¿Hay algo que el grafeno -láminas de carbono de solo un átomo de espesor- no pueda hacer? Desde que este material fuera descubierto en 2004, ha mostrado ser un conductor eléctrico extremadamente bueno; un semiconductor que puede ser utilizado para crear transistores; un material muy resistente que puede utilizarse para hacer membranas ultra delgadas. Ahora, investigadores en Estados Unidos han confirmado que el grafeno puede ser también un muy buen conductor del calor.</description>
+    </item>
+    
+    <item>
+      <title>El problema de Fermi, Pasta y Ulam: “Un pequeño descubrimiento”</title>
+      <link>https://ciencianet.github.io/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</link>
+      <pubDate>Fri, 24 Aug 2007 01:30:37 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</guid>
+      <description>Fernando Vericat: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+A principios de 1952 la computadora MANIAC-I (Mathematical Analyzer Numerical Integrator And Calculator) fue puesta en servicio en Los Alamos. A mediados de ese mismo año, el físico Enrico Fermi decidió poner a prueba la potencialidad de la misma y propuso considerar la posibilidad de utilizarla como herramienta para investigar problemas dinámicos no lineales mediante “experimentos” numéricos. Con ese fin se asoció con el especialista en computación John Pasta y el matemático Stanislaw Ulam.</description>
+    </item>
+    
+    <item>
+      <title>Fí­sicos juegan a los flippers para mejorar procesos industriales</title>
+      <link>https://ciencianet.github.io/post/fisicos-juegan-a-los-flippers-para-mejorar-procesos-industriales/</link>
+      <pubDate>Fri, 13 Jul 2007 01:48:17 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/fisicos-juegan-a-los-flippers-para-mejorar-procesos-industriales/</guid>
+      <description>Luis Pugnaloni. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+Un grupo de investigadores publicó un estudio sobre el camino aleatorio que sigue una pelotita que rueda por una mesa inclinada con obstáculos; un fenómeno que importa a los fanáticos de los flippers. Se conoce desde hace más de un siglo que la posición donde cae la pelotita al final de la mesa tiene una distribución de probabilidad con la forma de una campana de Gauss si la pelotita nunca toca los lados de la mesa.</description>
     </item>
     
     <item>

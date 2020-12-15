@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grafos on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/grafos/</link>
+    <description>Recent content in Grafos on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 26 Oct 2010 20:34:18 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/grafos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estabilidad como un mecanismo de selección natural en redes interactuantes</title>
+      <link>https://ciencianet.github.io/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</link>
+      <pubDate>Tue, 26 Oct 2010 20:34:18 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</guid>
+      <description>Pablo Gleiser. Centro Atómico Bariloche.
+Una gran variedad de sistemas en la naturaleza pueden describirse como redes, donde las unidades del sistema están representadas por nodos, y la interacción entre estas unidades está representada por conexiones entre los nodos. Así, podemos pensar al cerebro como una red de neuronas, a una organización social como una red de personas, o a Internet como una red de computadoras.
+Muchas de estas redes poseen propiedades específicas que no se observan en sistemas aleatorios donde los nodos son conectados al azar.</description>
+    </item>
+    
+  </channel>
+</rss>

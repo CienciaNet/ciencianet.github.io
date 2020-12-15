@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galton on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/galton/</link>
+    <description>Recent content in Galton on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 13 Jul 2007 01:48:17 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/galton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fí­sicos juegan a los flippers para mejorar procesos industriales</title>
+      <link>https://ciencianet.github.io/post/fisicos-juegan-a-los-flippers-para-mejorar-procesos-industriales/</link>
+      <pubDate>Fri, 13 Jul 2007 01:48:17 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/fisicos-juegan-a-los-flippers-para-mejorar-procesos-industriales/</guid>
+      <description>Luis Pugnaloni. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+Un grupo de investigadores publicó un estudio sobre el camino aleatorio que sigue una pelotita que rueda por una mesa inclinada con obstáculos; un fenómeno que importa a los fanáticos de los flippers. Se conoce desde hace más de un siglo que la posición donde cae la pelotita al final de la mesa tiene una distribución de probabilidad con la forma de una campana de Gauss si la pelotita nunca toca los lados de la mesa.</description>
+    </item>
+    
+  </channel>
+</rss>

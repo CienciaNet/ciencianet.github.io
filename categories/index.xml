@@ -6,7 +6,16 @@
     <description>Recent content in Categories on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 04 Jul 2018 03:53:12 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Sep 2018 22:13:05 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sociedad</title>
+      <link>https://ciencianet.github.io/categories/sociedad/</link>
+      <pubDate>Sun, 09 Sep 2018 22:13:05 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/sociedad/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Física</title>
       <link>https://ciencianet.github.io/categories/f%C3%ADsica/</link>
@@ -62,6 +71,15 @@
     </item>
     
     <item>
+      <title>Epidemiología</title>
+      <link>https://ciencianet.github.io/categories/epidemiolog%C3%ADa/</link>
+      <pubDate>Thu, 28 Jan 2016 22:12:59 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/epidemiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Agronomía</title>
       <link>https://ciencianet.github.io/categories/agronom%C3%ADa/</link>
       <pubDate>Sat, 28 Dec 2013 00:24:31 +0000</pubDate>
@@ -107,15 +125,6 @@
     </item>
     
     <item>
-      <title>Sociedad</title>
-      <link>https://ciencianet.github.io/categories/sociedad/</link>
-      <pubDate>Mon, 29 Nov 2010 20:30:15 +0000</pubDate>
-      
-      <guid>https://ciencianet.github.io/categories/sociedad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ingeniería</title>
       <link>https://ciencianet.github.io/categories/ingenier%C3%ADa/</link>
       <pubDate>Tue, 17 Aug 2010 20:47:16 +0000</pubDate>
@@ -134,29 +143,20 @@
     </item>
     
     <item>
-      <title>Etología</title>
-      <link>https://ciencianet.github.io/categories/etolog%C3%ADa/</link>
-      <pubDate>Thu, 20 Nov 2008 22:04:37 +0000</pubDate>
-      
-      <guid>https://ciencianet.github.io/categories/etolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Química</title>
       <link>https://ciencianet.github.io/categories/qu%C3%ADmica/</link>
-      <pubDate>Tue, 17 Jun 2008 23:43:06 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2009 21:43:25 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/qu%C3%ADmica/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fìsica</title>
-      <link>https://ciencianet.github.io/categories/f%C3%ACsica/</link>
-      <pubDate>Fri, 24 Aug 2007 01:30:37 +0000</pubDate>
+      <title>Etología</title>
+      <link>https://ciencianet.github.io/categories/etolog%C3%ADa/</link>
+      <pubDate>Thu, 20 Nov 2008 22:04:37 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/f%C3%ACsica/</guid>
+      <guid>https://ciencianet.github.io/categories/etolog%C3%ADa/</guid>
       <description></description>
     </item>
     

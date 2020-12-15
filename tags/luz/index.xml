@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luz on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/luz/</link>
+    <description>Recent content in Luz on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 27 Feb 2009 21:55:10 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/luz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Es posible controlar la luz difractada por una red de difracción?</title>
+      <link>https://ciencianet.github.io/post/es-posible-controlar-la-luz-difractada-por-una-red-de-difraccion/</link>
+      <pubDate>Fri, 27 Feb 2009 21:55:10 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/es-posible-controlar-la-luz-difractada-por-una-red-de-difraccion/</guid>
+      <description>Manuel Carlevaro. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina.
+¡Sí!...y se logra empleando elementos dispersores distribuidos de forma determinada. Científicos argentinos han estudiado en forma numérica este fenómeno y lograron dicho dominio utilizando un conjunto de cilindros de sección circular. Lo que es aún más sorprendente es que la predicción de las direcciones en que se intensificarán la luz reflejada y la luz transmitida es independiente del material de los cilindros y de la polarización de la luz incidente.</description>
+    </item>
+    
+  </channel>
+</rss>
