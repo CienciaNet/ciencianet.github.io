@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenguajes on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/lenguajes/</link>
+    <description>Recent content in Lenguajes on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 16 Feb 2010 20:55:51 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/lenguajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La evolución de los lenguajes y la física contemporánea</title>
+      <link>https://ciencianet.github.io/post/la-evolucion-de-los-lenguajes-y-la-fisica-contemporanea/</link>
+      <pubDate>Tue, 16 Feb 2010 20:55:51 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/la-evolucion-de-los-lenguajes-y-la-fisica-contemporanea/</guid>
+      <description>Gabriel Baglietto. Instituto de investigaciones Fisicoquímicas Teóricas y Aplicadas (CONICET, UNLP).
+La amplitud de los temas tratados por la física hoy en día es sorprendente. Además de la temática tradicionalmente asociada a esta disciplina, existe una gran variedad de artículos en revistas de física sobre economía, música, ecología, inteligencia artificial, demografía, redes sociales, etc. ¿Qué tipo de aporte puede realizar un físico en estos campos? En este artículo comentamos el trabajo realizado por un físico del Instituto Balseiro para entender la evolución de los idiomas.</description>
+    </item>
+    
+  </channel>
+</rss>

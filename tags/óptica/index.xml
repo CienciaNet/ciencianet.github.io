@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Óptica on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/%C3%B3ptica/</link>
+    <description>Recent content in Óptica on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 12 Mar 2008 00:46:51 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/%C3%B3ptica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identificación automática de objetos en imágenes con ruido</title>
+      <link>https://ciencianet.github.io/post/identificacion-automatica-de-objetos-en-imagenes-con-ruido/</link>
+      <pubDate>Wed, 12 Mar 2008 00:46:51 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/identificacion-automatica-de-objetos-en-imagenes-con-ruido/</guid>
+      <description>Luis Pugnaloni. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+Hacer que una computadora detecte objetos en una imagen es un problema central. Pensemos en la necesidad de diferenciar y medir los espacios cultivados, forestados y urbanos a partir de imágenes aéreas o satelitales de todo el país. Investigadores de la Universidad de Buenos Aires presentaron un estudio donde comparan varios métodos de detección de bordes de objetos en imágenes con un tipo de ruido llamado &amp;quot;speckle&amp;quot; que aparece, por ejemplo, al usar luz láser.</description>
+    </item>
+    
+  </channel>
+</rss>

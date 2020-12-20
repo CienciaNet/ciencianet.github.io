@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AdS/CFT on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/ads/cft/</link>
+    <description>Recent content in AdS/CFT on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://ciencianet.github.io/tags/ads/cft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La conjetura de Maldacena</title>
+      <link>https://ciencianet.github.io/post/la-conjetura-de-maldacena/</link>
+      <pubDate>Wed, 06 Feb 2013 01:15:02 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/la-conjetura-de-maldacena/</guid>
+      <description>Gastón Giribet. Universidad de Buenos Aires y CONICET.
+Gastón Giribet comparte con CienciaNet su columna para el diario La Prensa, publicada en la edición en papel del lunes 7/1/13, donde ofrece una descripción de la idea detrás de la llamada &#39;conjetura de Maldacena&#39;. Para leer la nota del mismo diario, donde Juan Maldacena comenta su trabajo, cliquear aquí.
+Algunas conferencias del propio Maldacena sobre su valiosa contribución, que cumplió 10 años en 2007, pueden encontrarse aquí: http://video.</description>
+    </item>
+    
+  </channel>
+</rss>
