@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chagas on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/chagas/</link>
+    <description>Recent content in Chagas on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 17 Jul 2016 22:02:42 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/chagas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matemáticas para estudiar el corazón: Pérdida de correlaciones de largo alcance en el ritmo cardíaco de enfermos de Chagas</title>
+      <link>https://ciencianet.github.io/post/matematicas-para-estudiar-el-corazon-perdida-de-correlaciones-de-largo-alcance-en-el-ritmo-cardiaco-de-enfermos-de-chagas/</link>
+      <pubDate>Sun, 17 Jul 2016 22:02:42 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/matematicas-para-estudiar-el-corazon-perdida-de-correlaciones-de-largo-alcance-en-el-ritmo-cardiaco-de-enfermos-de-chagas/</guid>
+      <description>Paula Bergero. Investigadora de CONICET en el INIFTA (Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas). Docente en la UNLP.
+En este artículo reseñamos el trabajo “Losses of Long-Range Correlation in the Heart Rate Variability of Patients With Chagas’ Disease”, publicado en la edición de Junio de 2016 de la revista Global Heart. Los investigadores Isabel Irurzun, Magdalena Defeo, Regina de Battista y Eduardo Mola presentaron recientemente los resultados de un desarrollo proveniente de técnicas de análisis de series temporales a registros electrocardiográficos de personas con la enfermedad de Chagas.</description>
+    </item>
+    
+  </channel>
+</rss>

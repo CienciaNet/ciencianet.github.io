@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmología on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/cosmolog%C3%ADa/</link>
+    <description>Recent content in Cosmología on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 19 Aug 2018 23:49:23 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/cosmolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La teoría de la relatividad y el centro galáctico</title>
+      <link>https://ciencianet.github.io/post/la-teoria-de-la-relatividad-y-el-centro-galactico/</link>
+      <pubDate>Sun, 19 Aug 2018 23:49:23 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/la-teoria-de-la-relatividad-y-el-centro-galactico/</guid>
+      <description>Gaston Giribet. Center for Cosmology and Particle Physics de New York University, Universidad de Buenos Aires y CONICET.
+La vía láctea, galáctica espiral de la que nuestro sistema solar forma modesta parte, alberga en su centro un enorme agujero negro cuya masa es cuatro millones de veces superior a la de nuestro sol. Sus coordenadas ubican al astro central en la región del cielo que los antiguos convinieron en llamar la constelación de Sagitario, hecho que explica en parte su nombre: Sagittarius A.</description>
+    </item>
+    
+    <item>
+      <title>Materia oscura, ondas gravitacionales y agujeros negros primordiales</title>
+      <link>https://ciencianet.github.io/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</link>
+      <pubDate>Thu, 19 Apr 2018 15:31:31 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</guid>
+      <description>Gastón Giribet. Investigador del Center for Cosmology and Particle Physics de New York University. Profesor de la UBA e Investigador Principal del CONICET.
+Trabajos recientes sugieren que una parte importante (se estima que hasta un 1%) de la materia oscura del universo podría estar formada por agujeros negros primordiales; es decir, por agujeros negros que no se formaron a partir de la muerte de estrellas sino que existen desde los orígenes del universo.</description>
+    </item>
+    
+  </channel>
+</rss>

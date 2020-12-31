@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nanotubos on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/nanotubos/</link>
+    <description>Recent content in Nanotubos on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 19 Mar 2008 00:26:39 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/nanotubos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nanotubos contrabandean moléculas anti-VIH dentro de células</title>
+      <link>https://ciencianet.github.io/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</link>
+      <pubDate>Wed, 19 Mar 2008 00:26:39 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</guid>
+      <description>Manuel Carlevaro: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET-UNLP) y Universidad Tecnológica Nacional.
+Nanotubos de carbono han sido utilizados para contrabandear moléculas que bloquean el VIH dentro de células humanas. Aunque es un resultado preliminar, el descubrimiento podría conducir a nuevos tratamientos contra el virus. Una característica de la ribointerferencia, las moléculas de ARN interferente pequeño (ARNip), han sido sugeridas como tratamiento contra el VIH en el pasado. Su capacidad de destrucción del ARN mensajero permite utilizarlas para bloquear la producción de células superficiales receptoras de proteínas de las que depende el VIH para invadir células del sistema inmunológico conocidas como linfocitos T.</description>
+    </item>
+    
+  </channel>
+</rss>

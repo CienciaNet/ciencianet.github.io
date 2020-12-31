@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrónica on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/electr%C3%B3nica/</link>
+    <description>Recent content in Electrónica on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 13 Aug 2007 01:32:00 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/electr%C3%B3nica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo técnico y lo humano en el desarrollo en electrónica</title>
+      <link>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</link>
+      <pubDate>Mon, 13 Aug 2007 01:32:00 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</guid>
+      <description>Diego Vallejo: Departamento de Ciencias Básicas, Facultad de Ingeniería, Universidad Nacional de La Plata.
+Sin ciencia sería muy difícil mantener un estilo de vida como el que pretendemos tener. ¿Qué cambia en un dispositivo electrónico cuando éste es llevado al espacio exterior? ¿Cómo se modifica un elemento de un circuito eléctrico frente al cambio de un material por otro? Y con una mirada más amplia: ¿qué contexto humano motiva y promueve el anteriormente citado trabajo de investigación?</description>
+    </item>
+    
+  </channel>
+</rss>

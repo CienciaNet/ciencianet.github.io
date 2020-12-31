@@ -19,7 +19,7 @@
     <item>
       <title>Física</title>
       <link>https://ciencianet.github.io/categories/f%C3%ADsica/</link>
-      <pubDate>Wed, 04 Jul 2018 03:53:12 +0000</pubDate>
+      <pubDate>Sun, 19 Aug 2018 23:49:23 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/f%C3%ADsica/</guid>
       <description></description>
@@ -62,11 +62,11 @@
     </item>
     
     <item>
-      <title>Anuncio</title>
-      <link>https://ciencianet.github.io/categories/anuncio/</link>
-      <pubDate>Fri, 29 Dec 2017 00:21:29 +0000</pubDate>
+      <title>0</title>
+      <link>https://ciencianet.github.io/categories/0/</link>
+      <pubDate>Mon, 11 Jul 2016 22:05:30 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/categories/anuncio/</guid>
+      <guid>https://ciencianet.github.io/categories/0/</guid>
       <description></description>
     </item>
     
@@ -76,6 +76,24 @@
       <pubDate>Thu, 28 Jan 2016 22:12:59 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/epidemiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biotecnología</title>
+      <link>https://ciencianet.github.io/categories/biotecnolog%C3%ADa/</link>
+      <pubDate>Tue, 25 Feb 2014 00:08:00 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/biotecnolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Química</title>
+      <link>https://ciencianet.github.io/categories/qu%C3%ADmica/</link>
+      <pubDate>Tue, 25 Feb 2014 00:08:00 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/qu%C3%ADmica/</guid>
       <description></description>
     </item>
     
@@ -107,11 +125,56 @@
     </item>
     
     <item>
+      <title>Antropología</title>
+      <link>https://ciencianet.github.io/categories/antropolog%C3%ADa/</link>
+      <pubDate>Thu, 03 Oct 2013 00:43:18 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/antropolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociología</title>
+      <link>https://ciencianet.github.io/categories/sociolog%C3%ADa/</link>
+      <pubDate>Thu, 03 Oct 2013 00:43:18 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/sociolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anuncio</title>
+      <link>https://ciencianet.github.io/categories/anuncio/</link>
+      <pubDate>Mon, 26 Aug 2013 00:49:10 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/anuncio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Opinión</title>
       <link>https://ciencianet.github.io/categories/opini%C3%B3n/</link>
       <pubDate>Fri, 09 Nov 2012 01:20:01 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/opini%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NN</title>
+      <link>https://ciencianet.github.io/categories/nn/</link>
+      <pubDate>Tue, 20 Mar 2012 01:31:49 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ética</title>
+      <link>https://ciencianet.github.io/categories/%C3%A9tica/</link>
+      <pubDate>Tue, 20 Mar 2012 01:31:49 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/%C3%A9tica/</guid>
       <description></description>
     </item>
     
@@ -143,24 +206,6 @@
     </item>
     
     <item>
-      <title>Sociología</title>
-      <link>https://ciencianet.github.io/categories/sociolog%C3%ADa/</link>
-      <pubDate>Wed, 01 Apr 2009 21:38:01 +0000</pubDate>
-      
-      <guid>https://ciencianet.github.io/categories/sociolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Química</title>
-      <link>https://ciencianet.github.io/categories/qu%C3%ADmica/</link>
-      <pubDate>Mon, 30 Mar 2009 21:43:25 +0000</pubDate>
-      
-      <guid>https://ciencianet.github.io/categories/qu%C3%ADmica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Biofísica</title>
       <link>https://ciencianet.github.io/categories/biof%C3%ADsica/</link>
       <pubDate>Wed, 11 Mar 2009 21:52:35 +0000</pubDate>
@@ -188,6 +233,15 @@
     </item>
     
     <item>
+      <title>Economía</title>
+      <link>https://ciencianet.github.io/categories/econom%C3%ADa/</link>
+      <pubDate>Fri, 21 Dec 2007 01:02:54 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/categories/econom%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Geología</title>
       <link>https://ciencianet.github.io/categories/geolog%C3%ADa/</link>
       <pubDate>Wed, 08 Aug 2007 01:39:30 +0000</pubDate>
@@ -202,15 +256,6 @@
       <pubDate>Sat, 02 Jun 2007 02:05:03 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/categories/bioqu%C3%ADmica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economía</title>
-      <link>https://ciencianet.github.io/categories/econom%C3%ADa/</link>
-      <pubDate>Fri, 25 May 2007 02:11:24 +0000</pubDate>
-      
-      <guid>https://ciencianet.github.io/categories/econom%C3%ADa/</guid>
       <description></description>
     </item>
     

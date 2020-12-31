@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pertussis on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/pertussis/</link>
+    <description>Recent content in Pertussis on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Oct 2010 20:37:52 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/pertussis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelo matemático para la propagación de la tos convulsa en Argentina</title>
+      <link>https://ciencianet.github.io/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</link>
+      <pubDate>Mon, 25 Oct 2010 20:37:52 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</guid>
+      <description>Paula Bergero. Facultad de Ciencias Exactas (UNLP).
+La tos convulsa, también llamada coqueluche o pertussis, es una enfermedad infecciosa respiratoria inmunoprevenible causada por la bacteria Bordetella pertussis. Se caracteriza por episodios muy intensos de tos que pueden prolongarse por varias semanas, y en el caso de niños pequeños puede causar complicaciones y hasta la muerte. En los adultos los síntomas suelen ser más leves. La enfermedad se transmite de persona a persona a través de gotitas de aerosol dispersadas por la tos de un infectado.</description>
+    </item>
+    
+  </channel>
+</rss>

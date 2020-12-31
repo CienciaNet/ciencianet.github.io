@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quimioterapia on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/quimioterapia/</link>
+    <description>Recent content in Quimioterapia on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 27 Jun 2007 01:54:52 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/quimioterapia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelo matemático para el tratamiento de quimioterapia sobre tumores cancerosos</title>
+      <link>https://ciencianet.github.io/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</link>
+      <pubDate>Wed, 27 Jun 2007 01:54:52 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</guid>
+      <description>El cáncer es originado por la mutación en una única célula que exhibe un crecimiento descontrolado, rompiendo la cooperación que mantiene la integridad del organismo. Un modelo matemático permite simular el crecimiento de un tumor de células cancerosas y los efectos que la quimioterapia tiene sobre él.
+El trabajo de S. Menchón y C. Condat, de la Facultad de Matemática, Astronomía y Física de la Universidad Nacional de Córdoba, presenta un modelo mesoscópico de comportamiento de un tumor.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomimética on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/biomim%C3%A9tica/</link>
+    <description>Recent content in Biomimética on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 06 Jul 2009 21:25:28 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/biomim%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más vale MAV en compu que cien volando</title>
+      <link>https://ciencianet.github.io/post/mas-vale-mav-en-compu-que-cien-volando/</link>
+      <pubDate>Mon, 06 Jul 2009 21:25:28 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/mas-vale-mav-en-compu-que-cien-volando/</guid>
+      <description>Ramiro Irastorza: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
+Desde la década pasada existe un gran interés por los micro-vehículos aéreos autónomos (MAVs). La meta de los investigadores es desarrollar una nueva generación de MAVs que posean una dimensión máxima de 15 cm, un peso límite de 100 gr, y una autonomía máxima de mas de 90 minutos (los MAVs existentes no se superan los 30 minutos).</description>
+    </item>
+    
+  </channel>
+</rss>

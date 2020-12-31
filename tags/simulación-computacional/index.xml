@@ -6,7 +6,17 @@
     <description>Recent content in Simulación computacional on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Apr 2007 02:25:31 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/simulaci%C3%B3n-computacional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jun 2007 01:54:52 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/simulaci%C3%B3n-computacional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelo matemático para el tratamiento de quimioterapia sobre tumores cancerosos</title>
+      <link>https://ciencianet.github.io/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</link>
+      <pubDate>Wed, 27 Jun 2007 01:54:52 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</guid>
+      <description>El cáncer es originado por la mutación en una única célula que exhibe un crecimiento descontrolado, rompiendo la cooperación que mantiene la integridad del organismo. Un modelo matemático permite simular el crecimiento de un tumor de células cancerosas y los efectos que la quimioterapia tiene sobre él.
+El trabajo de S. Menchón y C. Condat, de la Facultad de Matemática, Astronomía y Física de la Universidad Nacional de Córdoba, presenta un modelo mesoscópico de comportamiento de un tumor.</description>
+    </item>
+    
     <item>
       <title>El Oxígeno y las Hemo-proteínas: una danza estudiada por simulación</title>
       <link>https://ciencianet.github.io/post/el-oxigeno-y-las-hemo-proteinas-una-danza-estudiada-por-simulacion/</link>
