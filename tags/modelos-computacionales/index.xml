@@ -6,7 +6,57 @@
     <description>Recent content in Modelos computacionales on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Aug 2007 01:32:00 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/modelos-computacionales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2015 22:22:53 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/modelos-computacionales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supercomputadoras para el diseño de fármacos</title>
+      <link>https://ciencianet.github.io/post/supercomputadoras-para-el-diseno-de-farmacos/</link>
+      <pubDate>Sat, 14 Feb 2015 22:22:53 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/supercomputadoras-para-el-diseno-de-farmacos/</guid>
+      <description>Diego Masone. CONICET - Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo.
+La mayor parte de los procesos biológicos que tienen lugar en los seres vivos involucran interacciones entre proteínas, estas agrupaciones organizadas de aminoácidos que cumplen funciones vitales de la célula. Es así que la correcta identificación y caracterización de las interacciones entre proteínas y el conocimiento de la estructura y las propiedades de los complejos que forman, resulta crucial a la hora de comprender cómo funcionan las células.</description>
+    </item>
+    
+    <item>
+      <title>Una reconstrucción matemáticamente asistida del foco inicial de la epidemia de fiebre amarilla en Buenos Aires (1871)</title>
+      <link>https://ciencianet.github.io/post/una-reconstruccion-matematicamente-asistida-del-foco-inicial-de-la-epidemia-de-fiebre-amarilla-en-buenos-aires-1871/</link>
+      <pubDate>Wed, 08 Jan 2014 00:12:33 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/una-reconstruccion-matematicamente-asistida-del-foco-inicial-de-la-epidemia-de-fiebre-amarilla-en-buenos-aires-1871/</guid>
+      <description>Hernán Solari. Departamento de Física, Facultad de Ciencias Exactas y Naturales, UBA.
+La epidemia de fiebre amarilla que asoló la Ciudad de Buenos Aires en 1871 dejó una huella imborrable en la memoria colectiva. Con sus aproximadamente 177.787 habitantes, la ciudad sufrió alrededor de 13.025 muertes por causa de la fiebre, es decir, más de 7 muertos cada 100 habitantes; una tasa de mortalidad altísima aún para una enfermedad con alta tasa de mortalidad como la Fiebre Amarilla.</description>
+    </item>
+    
+    <item>
+      <title>Variables financieras y personas de a pie</title>
+      <link>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</link>
+      <pubDate>Fri, 29 Nov 2013 00:29:32 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</guid>
+      <description>Daniel Parisi. Instituto Tecnológico Buenos Aires y CONICET.
+[La fotografía muestra el piso de la Bolsa de Comercio de Nueva York. La dinámica de las personas caminando por ese espacio físico tal vez esté más relacionada de lo que parece con la dinámica de los precios de las acciones que estos mismos agentes generan. En un estudio reciente mostramos que un sistema de peatones simulados exhibe características muy similares a las que se observan en las series de precios de activos financieros o divisas.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el movimiento democrático a escala molecular en líquidos a baja temperatura</title>
+      <link>https://ciencianet.github.io/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</link>
+      <pubDate>Tue, 23 Mar 2010 20:53:28 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</guid>
+      <description>J. Ariel Rodriguez Fris. Universidad Nacional del Sur.
+El movimiento de los átomos, moléculas e iones que conforman un líquido cuando, en promedio, se desplazan el equivalente a su tamaño a partir de su posición inicial se la denomina relajación estructural. La dinámica de relajación estructural de líquidos a baja temperatura es heterogénea en tiempo y espacio. Es decir que dicha dinámica es muy diferente de una región a otra y además cambia en el tiempo.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué sucede dentro un líquido cuando se transforma en un vidrio?</title>
+      <link>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</link>
+      <pubDate>Mon, 29 Jun 2009 21:29:16 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</guid>
+      <description>Rodolfo Borzi. Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA).
+Las computadoras nos permiten simular y explorar microscópicamente líquidos y sólidos, y también materiales que parecen tener similitudes con ambos: los llamamos vidrios estructurales. Los vidrios son rígidos, como los cristales, pero con una estructura atómica que parece desordenada, como en los líquidos. Pese a ello, resultados recientes muestran que una cierta forma de orden comienza a establecerse en un líquido antes de vitrificarse.</description>
+    </item>
+    
     <item>
       <title>Lo técnico y lo humano en el desarrollo en electrónica</title>
       <link>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</link>
@@ -15,6 +65,15 @@
       <guid>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</guid>
       <description>Diego Vallejo: Departamento de Ciencias Básicas, Facultad de Ingeniería, Universidad Nacional de La Plata.
 Sin ciencia sería muy difícil mantener un estilo de vida como el que pretendemos tener. ¿Qué cambia en un dispositivo electrónico cuando éste es llevado al espacio exterior? ¿Cómo se modifica un elemento de un circuito eléctrico frente al cambio de un material por otro? Y con una mirada más amplia: ¿qué contexto humano motiva y promueve el anteriormente citado trabajo de investigación?</description>
+    </item>
+    
+    <item>
+      <title>Reptiles moleculares</title>
+      <link>https://ciencianet.github.io/post/reptiles-moleculares/</link>
+      <pubDate>Wed, 28 Mar 2007 02:39:00 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/reptiles-moleculares/</guid>
+      <description>Un estudio teórico muestra cómo moléculas largas en forma de cadena reptan como gusanos al ser puestas bajo un campo eléctrico. Un modelo muy simple de cuentas de collar que se mueven a lo largo de una recta ayuda a analizar la velocidad con que repta una molécula polimérica bajo la acción de un campo eléctrico. El trabajo de G. Terranova, H. O. Mártin y C. M. Aldao, investigadores de la Universidad Nacional de Mar del Plata y del CONICET, presenta resultados analíticos para un modelo muy simple de una cadena de partículas de longitud arbitraria que se mueve en una red unidimensional bajo la acción conjunta de una fuerza externa y de la agitación browniana.</description>
     </item>
     
   </channel>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fisica on CienciaNet</title>
+    <link>https://ciencianet.github.io/categories/fisica/</link>
+    <description>Recent content in Fisica on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 26 Jan 2018 16:04:53 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/fisica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué estación te va mejor? Cambios estacionales de luz y competencia de cianobacterias</title>
+      <link>https://ciencianet.github.io/post/que-estacion-te-va-mejor-cambios-estacionales-de-luz-y-competencia-de-cianobacterias/</link>
+      <pubDate>Fri, 26 Jan 2018 16:04:53 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/que-estacion-te-va-mejor-cambios-estacionales-de-luz-y-competencia-de-cianobacterias/</guid>
+      <description>Paula Bergero. Investigadora de CONICET en el INIFTA (Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas). Docente en la UNLP.
+En esta reseña abordamos el artículo “What season suits you best? Seasonal light changes and cyanobacterial competition” realizado por los investigadores de CONICET Guadalupe Cascallares y Pablo M. Gleiser, del Centro Atómico Bariloche. En él estudian el papel que juega en la competencia entre diferentes cepas de cianobacterias la relación entre su ritmo circadiano y la distribución diaria de horas de luz y oscuridad.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué nota escuchamos durante un vibrato?</title>
+      <link>https://ciencianet.github.io/post/que-nota-escuchamos-durante-un-vibrato/</link>
+      <pubDate>Tue, 09 Mar 2010 20:54:39 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/que-nota-escuchamos-durante-un-vibrato/</guid>
+      <description>Damián H. Zanette. Centro Atómico Bariloche.
+El vibrato es un recurso expresivo usado por cantantes y ejecutantes de instrumentos de cuerda para agregar textura sonora a la música. Consiste en variar levemente y muy rápido (varias veces por segundo) la altura de la nota que se canta o se toca –es decir, la frecuencia del sonido– produciendo una vibración característica.
+Hay quien dice que el vibrato sirve para disimular notas desafinadas, pero los experimentos muestran que el oyente percibe, además de la vibración, una nota de altura constante y bien definida.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué sucede dentro un líquido cuando se transforma en un vidrio?</title>
+      <link>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</link>
+      <pubDate>Mon, 29 Jun 2009 21:29:16 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</guid>
+      <description>Rodolfo Borzi. Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA).
+Las computadoras nos permiten simular y explorar microscópicamente líquidos y sólidos, y también materiales que parecen tener similitudes con ambos: los llamamos vidrios estructurales. Los vidrios son rígidos, como los cristales, pero con una estructura atómica que parece desordenada, como en los líquidos. Pese a ello, resultados recientes muestran que una cierta forma de orden comienza a establecerse en un líquido antes de vitrificarse.</description>
+    </item>
+    
+  </channel>
+</rss>

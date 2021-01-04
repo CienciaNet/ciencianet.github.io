@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flujo on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/flujo/</link>
+    <description>Recent content in Flujo on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 05 Aug 2010 20:48:31 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/flujo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reciente avance en física de medios granulares</title>
+      <link>https://ciencianet.github.io/post/reciente-avance-en-fisica-de-medios-granulares/</link>
+      <pubDate>Thu, 05 Aug 2010 20:48:31 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/reciente-avance-en-fisica-de-medios-granulares/</guid>
+      <description>Andrés D. Medus. Estudiante de doctorado del Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
+Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina.
+Investigadores del Grupo de Medios Porosos de la Facultad de Ingeniería de la UBA en colaboración con pares de la Universidad de la Plata y de la Universidad de Lyon (Francia), demostraron experimentalmente que el flujo de material granular a través de un orificio resulta independiente de la presión en la base del recipiente contenedor, derrumbando de este modo un antiguo postulado de la Física de Medios Granulares.</description>
+    </item>
+    
+  </channel>
+</rss>

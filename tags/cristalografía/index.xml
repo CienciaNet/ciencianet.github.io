@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristalografía on CienciaNet</title>
+    <link>https://ciencianet.github.io/tags/cristalograf%C3%ADa/</link>
+    <description>Recent content in Cristalografía on CienciaNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 14 Feb 2015 22:22:53 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/cristalograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supercomputadoras para el diseño de fármacos</title>
+      <link>https://ciencianet.github.io/post/supercomputadoras-para-el-diseno-de-farmacos/</link>
+      <pubDate>Sat, 14 Feb 2015 22:22:53 +0000</pubDate>
+      
+      <guid>https://ciencianet.github.io/post/supercomputadoras-para-el-diseno-de-farmacos/</guid>
+      <description>Diego Masone. CONICET - Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo.
+La mayor parte de los procesos biológicos que tienen lugar en los seres vivos involucran interacciones entre proteínas, estas agrupaciones organizadas de aminoácidos que cumplen funciones vitales de la célula. Es así que la correcta identificación y caracterización de las interacciones entre proteínas y el conocimiento de la estructura y las propiedades de los complejos que forman, resulta crucial a la hora de comprender cómo funcionan las células.</description>
+    </item>
+    
+  </channel>
+</rss>
