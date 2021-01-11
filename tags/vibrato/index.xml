@@ -13,9 +13,21 @@
       <pubDate>Tue, 09 Mar 2010 20:54:39 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/post/que-nota-escuchamos-durante-un-vibrato/</guid>
-      <description>Damián H. Zanette. Centro Atómico Bariloche.
-El vibrato es un recurso expresivo usado por cantantes y ejecutantes de instrumentos de cuerda para agregar textura sonora a la música. Consiste en variar levemente y muy rápido (varias veces por segundo) la altura de la nota que se canta o se toca –es decir, la frecuencia del sonido– produciendo una vibración característica.
-Hay quien dice que el vibrato sirve para disimular notas desafinadas, pero los experimentos muestran que el oyente percibe, además de la vibración, una nota de altura constante y bien definida.</description>
+      <description>
+        
+          &lt;p&gt;&lt;strong&gt;Damián H. Zanette.&lt;/strong&gt; Centro Atómico Bariloche.&lt;/p&gt;
+&lt;p&gt;El vibrato es un recurso expresivo usado por cantantes y ejecutantes de instrumentos de cuerda para agregar textura sonora a la música. Consiste en variar levemente y muy rápido (varias veces por segundo) la altura de la nota que se canta o se toca –es decir, la frecuencia del sonido– produciendo una vibración característica.&lt;/p&gt;
+&lt;p&gt;Hay quien dice que el vibrato sirve para disimular notas desafinadas, pero los experimentos muestran que el oyente percibe, además de la vibración, una nota de altura constante y bien definida. Si la frecuencia del sonido está variando, ¿qué altura tiene la nota que escuchamos en un vibrato? La relación entre las propiedades físicas de un estímulo sensorial –por ejemplo, una señal acústica– y la sensación que nos produce es uno de los problemas más apasionantes del campo interdisciplinario de las neurociencias.&lt;/p&gt;
+&lt;p&gt;Recientemente, Bruno Mesz y Manuel Eguia, del Laboratorio de Acústica y Percepción Sonora de la Universidad Nacional de Quilmes, han investigado cómo el sistema auditivo convierte al vibrato en una nota única. En primer lugar, realizaron experimentos para comparar las notas percibidas durante vibratos producidos por diferentes perfiles de variación de la frecuencia del sonido. Investigaciones anteriores sugerían que, cuando la variación es simétrica alrededor de un valor dado, la frecuencia percibida es la media geométrica de esa variación. Para variaciones asimétricas, no inesperadamente, Mesz y Eguia encontraron que la nota que oímos es más aguda cuando la frecuencia pasa más tiempo en valores relativamente altos, y viceversa.&lt;/p&gt;
+&lt;p&gt;La contribución clave de estos investigadores es haber propuesto un modelo matemático que describe fenomenológicamente el proceso mediante el cual los canales auditivos del sistema nervioso integran la señal de frecuencia variable para generar una nota bien definida. Este modelo se basa en analizar una representación del sonido introducida en 2005, en otros, por el físico argentino Marcelo Magnasco, y describe correctamente los resultados experimentales.&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos más interesantes del mecanismo propuesto es que tiene en cuenta la información contenida en la distribución de fases de la señal sonora. En el oído, podría estar implementado mediante la detección del intervalo de tiempo entre las señales nerviosas provenientes de diferentes fibras auditivas. El modelo combina dos ingredientes de la señal acústica que muchas veces se han considerado como elementos contrapuestos en el proceso auditivo: la codificación temporal dada por las fases de las ondas, y la distribución de sus frecuencias y amplitudes. Bruno Mesz es matemático y, además, es un destacado pianista especializado en música contemporánea. Manuel Eguia, profesor de la Universidad de Quilmes, es físico.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo original&lt;/strong&gt;: B. A. Mesz and M. C. Eguia, The Pitch of Vibrato Tones. &lt;em&gt;&lt;a href=&#34;https://books.google.com.ar/books?hl=en&amp;amp;lr=&amp;amp;id=w_sVnZjUsPoC&amp;amp;oi=fnd&amp;amp;pg=PA126&amp;amp;dq=B.+A.+Mesz+and+M.+C.+Eguia,+The+Pitch+of+Vibrato+Tones.+A+Model+Based+on+Instantaneous+Frequency+Decomposition,+Ann.+N.+Y.+Acad.+Sci.+1169,+126-130+(2009).&amp;amp;ots=z1dxn9jgLe&amp;amp;sig=ECS7YpkuWiMPG5Umyl_jdERRPok#v=onepage&amp;amp;q&amp;amp;f=false&#34;&gt;A Model Based on Instantaneous Frequency Decomposition&lt;/a&gt;&lt;/em&gt;, Ann. N. Y. Acad. Sci. 1169, 126-130 (2009).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instituciones&lt;/strong&gt;: &lt;a href=&#34;http://www.unq.edu.ar/&#34;&gt;Universidad Nacional de Quilmes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contacto&lt;/strong&gt;: Manuel Eguia (E-mail: &lt;a href=&#34;mailto:meguia@unq.edu.ar&#34;&gt;meguia@unq.edu.ar&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Más información:&lt;/strong&gt; &lt;a href=&#34;http://es.wikipedia.org/wiki/Vibrato&#34;&gt;Vibrato&lt;/a&gt;&lt;/p&gt;
+
+        
+      </description>
     </item>
     
   </channel>

@@ -13,9 +13,28 @@
       <pubDate>Thu, 05 Aug 2010 20:48:31 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/post/reciente-avance-en-fisica-de-medios-granulares/</guid>
-      <description>Andrés D. Medus. Estudiante de doctorado del Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
-Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina.
-Investigadores del Grupo de Medios Porosos de la Facultad de Ingeniería de la UBA en colaboración con pares de la Universidad de la Plata y de la Universidad de Lyon (Francia), demostraron experimentalmente que el flujo de material granular a través de un orificio resulta independiente de la presión en la base del recipiente contenedor, derrumbando de este modo un antiguo postulado de la Física de Medios Granulares.</description>
+      <description>
+        
+          &lt;p&gt;&lt;strong&gt;Andrés D. Medus.&lt;/strong&gt; Estudiante de doctorado del Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Este artículo ha sido financiado por el proyecto INVOFI de la Asociación Física Argentina.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Investigadores del Grupo de Medios Porosos de la Facultad de Ingeniería de la UBA en colaboración con pares de la Universidad de la Plata y de la Universidad de Lyon (Francia), demostraron experimentalmente que el flujo de material granular a través de un orificio resulta independiente de la presión en la base del recipiente contenedor, derrumbando de este modo un antiguo postulado de la Física de Medios Granulares.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Por el ápice abierto el cono inverso &lt;br&gt;
+Deja caer la cautelosa arena,  &lt;br&gt;
+Oro gradual que se desprende y llena &lt;br&gt;
+El cóncavo cristal de su universo. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;-- &lt;em&gt;El reloj de arena&lt;/em&gt; de Jorge Luis Borges.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Muchos de nosotros, en algún momento de nuestras vidas, hemos sido hipnotizados por el constante fluir de los granos de arena a través del orificio que une los bulbos en un reloj de arena. Este fluir casi imperturbable no se daría si de un líquido se tratase. En ese caso la velocidad de salida del líquido sería dependiente de la presión en el orificio, que a su vez depende de la altura de la columna de líquido restante en el bulbo superior. Sin embargo, para el caso de medios granulares como la arena, se da un extraño fenómeno denominado “efecto Janssen”, por el cual la presión ejercida por los granos que se encuentran encima del orificio, se transmite por fricción hacia los laterales del recipiente contenedor.&lt;/p&gt;
+&lt;p&gt;Como resultado, cuando la altura de la columna de arena es superior al doble del tamaño de la apertura de salida, la presión ejercida en la región próxima al orificio es casi constante e independiente de la cantidad restante. Luego, el flujo de arena a través del orificio será también aproximadamente constante e independiente de la cantidad que reste en el bulbo superior.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/08/cinta-transportadora-CN.png&#34; alt=&#34;Modelo experimental armado.&#34; title=&#34;cinta-transportadora-CN&#34;&gt;&lt;/p&gt;
+&lt;p&gt;De lo dicho hasta aquí se desprende un importante postulado de la Física de los Medios Granulares: si la presión en el fondo de un silo es constante, entonces también lo será el flujo de material granular a través del orificio. “&lt;em&gt;En los últimos 50 años numerosos trabajos de diversas disciplinas utilizan este efecto (presión constante en la base del recipiente) para justificar que el caudal permanece constante durante la descarga. Es decir, presión constante, implica caudal constante. Hasta tal punto está generalizada esta idea, que esta explicación ha sido sostenida aún cuando la columna de granos no es suficiente para alcanzar una presión constante en la base&lt;/em&gt;” nos cuenta la Dra. María Alejandra Aguirre, integrante del equipo que ha demostrado recientemente que este postulado es falso.&lt;/p&gt;
+&lt;p&gt;Para ello, construyeron el dispositivo que puede observarse en la figura, consistente en una caja contenedora de Plexiglas con una abertura de tamaño variable, conteniendo discos del mismo material que son impulsados por una cinta móvil de velocidad regulable. A diferencia de lo que ocurre para un reloj de arena, en este caso el dispositivo está dispuesto en forma horizontal y los discos son impulsados por una cinta móvil y no por la gravedad. Las experiencias realizadas muestran que “&lt;em&gt;el caudal permanece constante aunque la presión en la base varíe y que sólo puede cambiarse si se modifica la velocidad con que los granos atraviesan la apertura&lt;/em&gt;” concluye la Dra. Aguirre, refutando aquel antiguo postulado.&lt;/p&gt;
+&lt;p&gt;Consultada acerca de las posibles aplicaciones de esta investigación, la Dra. Aguirre indica que “&lt;em&gt;puede servir de fundamento para buscar diferentes maneras y/o mecanismos que aumenten la velocidad de salida de granos a fin de incrementar el caudal de descarga en aplicaciones industriales&lt;/em&gt;”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo Original:&lt;/strong&gt; M. A. Aguirre, J. G. Grande, A. Calvo, L. A. Pugnaloni, J.-C Géminard; Phys. Rev. Lett. 104, 238002 (2010) (&lt;a href=&#34;http://prl.aps.org/abstract/PRL/v104/i23/e238002&#34;&gt;http://prl.aps.org/abstract/PRL/v104/i23/e238002&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org/abs/1005.2884&#34;&gt;PDF&lt;/a&gt;).&lt;/p&gt;
+
+        
+      </description>
     </item>
     
   </channel>

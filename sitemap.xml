@@ -338,11 +338,6 @@
   </url>
   
   <url>
-    <loc>https://ciencianet.github.io/categories/fisica/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ciencianet.github.io/tags/modelado-matem%C3%A1tico/</loc>
     <lastmod>2018-01-26T16:04:53+00:00</lastmod>
   </url>
@@ -2198,6 +2193,10 @@
   
   <url>
     <loc>https://ciencianet.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.github.io/series/</loc>
   </url>
   
 </urlset>

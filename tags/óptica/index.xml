@@ -13,9 +13,21 @@
       <pubDate>Tue, 02 Dec 2008 22:00:45 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/post/la-naturaleza-nos-invita-a-jugar-con-la-luz/</guid>
-      <description>Manuel Carlevaro. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.
-Científicos de la Universidad de Utah lograron desentrañar la estructura fotónica tridimensional de las escamas presentes en el caparazón de un escarabajo autóctono de Brasil.
-Su color verde iridiscente es consecuencia de la estructura periódica de cada una de las escamas que conforman su caparazón y no de su pigmentación. Cuando la luz incide sobre él se producen interferencias múltiples dando como resultado sólo la reflexión del color verde.</description>
+      <description>
+        
+          &lt;p&gt;&lt;strong&gt;Manuel Carlevaro.&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.&lt;/p&gt;
+&lt;p&gt;Científicos de la Universidad de Utah lograron desentrañar la estructura fotónica tridimensional de las escamas presentes en el caparazón de un escarabajo autóctono de Brasil.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/12/aluna-fig1-216x300.png&#34; alt=&#34;Lamprocyphus augustus.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Su color verde iridiscente es consecuencia de la estructura periódica de cada una de las escamas que conforman su caparazón y no de su pigmentación. Cuando la luz incide sobre él se producen interferencias múltiples dando como resultado sólo la reflexión del color verde. Cada una de sus escamas actúa como un cristal fotónico natural.&lt;/p&gt;
+&lt;p&gt;Pero ¿qué es un cristal fotónico? La comunidad científica ha denominado con este nombre a los materiales compuestos por varios elementos periódicamente distribuidos que dispersan la luz. Hoy en día hay un gran interés en el estudio de estos nuevos materiales debido a la búsqueda del control de las propiedades ópticas, es decir de la manipulación de la luz y del potencial y amplio espectro de sus aplicaciones, como por ejemplo en nuevas tecnologías de comunicación puramente ópticas o en computadoras ópticas ultrarrápidas diseñadas con circuitos integrados ópticos o chips que funcionen con luz y no con electricidad.&lt;/p&gt;
+&lt;p&gt;La especie que inspiró a Galusha y a Bartl para modelar un cristal fotónico artificial fue el escarabajo Lamprocyphus augustus, cuya característica particular es que su coloración es independiente del ángulo de observación. Este hecho se explica analizando y entendiendo la geometría y composición de una de sus escamas, que está formada por 200 piezas de quitina y cada una de ellas ésta orientada en diferentes direcciones haciendo que la luz que incide con distintos ángulos sobre el caparazón del escarabajo dé como resultado que la luz reflejada sea de un color verde nítido y brillante.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/12/aluna-fig2-300x126.png&#34; alt=&#34;Imagen de un corte transversal de la escama.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;El siguiente paso consistió en determinar con gran precisión la estructura tridimensional de la escama. Para ello se usó un microscopio electrónico de barrido con el fin de adquirir y procesar imágenes, y por otro lado, se recurrió a la focalización de un haz de iones de galio para retirar capas extremadamente delgadas de la escama. Repitiendo sucesivas veces este procedimiento se obtuvieron 150 imágenes de distintas secciones de una misma escama que sirvieron para reproducir, en forma teórica, su estructura 3D.&lt;/p&gt;
+&lt;p&gt;La compleja estructura fotónica tridimensional, que opera en el rango de longitudes de onda visibles, no se obtuvo a través de un problema “pensado” sino emulando la arquitectura de los sistemas biológicos presentes en la naturaleza y tal hallazgo abre las puertas a la creación de nuevos dispositivos ópticos que podrían revolucionar nuestra tecnología actual.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo Original:&lt;/strong&gt; Jeremy W. Galusha, Lauren R. Richey, John S. Gardner, Jennifer N. Cha, and Michael H. Bartl. &lt;a href=&#34;https://doi.org/10.1103/PhysRevE.77.050904&#34;&gt;Discovery of diamond-based photonic crystal structure in beetle scales&lt;/a&gt;. Physycal Review E 77, 050904(R) (2008).&lt;/p&gt;
+
+        
+      </description>
     </item>
     
     <item>
@@ -24,8 +36,21 @@ Su color verde iridiscente es consecuencia de la estructura periódica de cada u
       <pubDate>Wed, 12 Mar 2008 00:46:51 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/post/identificacion-automatica-de-objetos-en-imagenes-con-ruido/</guid>
-      <description>Luis Pugnaloni. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
-Hacer que una computadora detecte objetos en una imagen es un problema central. Pensemos en la necesidad de diferenciar y medir los espacios cultivados, forestados y urbanos a partir de imágenes aéreas o satelitales de todo el país. Investigadores de la Universidad de Buenos Aires presentaron un estudio donde comparan varios métodos de detección de bordes de objetos en imágenes con un tipo de ruido llamado &amp;quot;speckle&amp;quot; que aparece, por ejemplo, al usar luz láser.</description>
+      <description>
+        
+          &lt;p&gt;&lt;strong&gt;Luis Pugnaloni&lt;/strong&gt;. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
+&lt;p&gt;Hacer que una computadora detecte objetos en una imagen es un problema central. Pensemos en la necesidad de diferenciar y medir los espacios cultivados, forestados y urbanos a partir de imágenes aéreas o satelitales de todo el país. Investigadores de la Universidad de Buenos Aires presentaron un estudio donde comparan varios métodos de detección de bordes de objetos en imágenes con un tipo de ruido llamado &amp;quot;speckle&amp;quot; que aparece, por ejemplo, al usar luz láser.&lt;/p&gt;
+&lt;p&gt;El trabajo demuestra que un método basado en el conocimiento del tipo de ruido que afecta a la imagen permite detectar rápida y correctamente las áreas de diferentes partes de la imagen. El trabajo de Juliana Gambini, Marta E. Mejail y Julio Jacobo-Berlles de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires en colaboración con Alejandro C. Frery (de la Universidade Federal de Alagoas, Brasil) presenta 5 métodos de detección de bordes en imágenes con ruido &amp;quot;speckle&amp;quot;. Algunos de estos métodos fueron desarrollados por ellos.&lt;/p&gt;
+&lt;p&gt;El ruido &amp;quot;speckle&amp;quot; aparece en imágenes iluminadas con fuentes de iluminación coherentes. Tal es el caso del láser, el radar de apertura sintética (SAR), el sonar y el ultrasonido (usado para las ecografías). Las imágenes se ven moteadas a causa de la interferencia de reflejos provenientes de diferentes partes del objeto iluminado y de otros objetos cercanos. Detectar los bordes de un contorno que separa dos regiones de una imagen con tal tipo de ruido es particularmente complejo.&lt;/p&gt;
+&lt;p&gt;Gambini y colaboradores usaron un modelo estadístico sobre la distribución aleatoria particular que presenta el ruido &amp;quot;speckle&amp;quot; para así distinguir entre el ruido proveniente de áreas de la imagen con diferente textura. Un algoritmo que les permite detectar los puntos donde el cambio de textura es abrupto les posibilitó identificar en forma eficiente y certera los bordes de cada región de una imagen.&lt;/p&gt;
+&lt;p&gt;Puesto a prueba con otros métodos de detección éste resultó ser el más eficaz. Los autores del trabajo muestran las capacidades de este método de detección usando imágenes aéreas tomadas con un radar de apertura sintética. El trabajo podría significar una importante mejora en la evaluación de áreas cultivadas, crecimiento urbano, desastres naturales, etc. que son examinados a través de imágenes que necesariamente llevan ruido &amp;quot;speckle&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo original:&lt;/strong&gt; &amp;quot;Accuracy of edge detection methods with local information in speckled imagery&amp;quot;, &lt;a href=&#34;https://doi.org/10.1007/s11222-007-9034-y&#34;&gt;Statistics and Computing&lt;/a&gt; , vol. 18, pp 15 (2008).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instituciones:&lt;/strong&gt; &lt;a href=&#34;http://exactas.uba.ar/&#34;&gt;Facultad de Ciencias Exactas y Naturales&lt;/a&gt; (UBA), &lt;a href=&#34;http://www.ic.ufal.br/&#34;&gt;Instituto de Computación&lt;/a&gt; (Universidade Federal de Alagoas, Brasil)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contacto:&lt;/strong&gt; Juliana Gambini (E-mail: &lt;a href=&#34;mailto:jgambini@dc.uba.ar&#34;&gt;jgambini@dc.uba.ar&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Más información:&lt;/strong&gt; &lt;a href=&#34;http://es.wikipedia.org/wiki/Speckle&#34;&gt;Speckle&lt;/a&gt;, &lt;a href=&#34;http://es.wikipedia.org/wiki/Radar_de_apertura_sint%C3%A9tica&#34;&gt;SAR&lt;/a&gt;&lt;/p&gt;
+
+        
+      </description>
     </item>
     
   </channel>

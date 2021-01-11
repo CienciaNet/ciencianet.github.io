@@ -13,8 +13,23 @@
       <pubDate>Fri, 13 Jul 2007 01:48:17 +0000</pubDate>
       
       <guid>https://ciencianet.github.io/post/fisicos-juegan-a-los-flippers-para-mejorar-procesos-industriales/</guid>
-      <description>Luis Pugnaloni. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).
-Un grupo de investigadores publicó un estudio sobre el camino aleatorio que sigue una pelotita que rueda por una mesa inclinada con obstáculos; un fenómeno que importa a los fanáticos de los flippers. Se conoce desde hace más de un siglo que la posición donde cae la pelotita al final de la mesa tiene una distribución de probabilidad con la forma de una campana de Gauss si la pelotita nunca toca los lados de la mesa.</description>
+      <description>
+        
+          &lt;p&gt;&lt;strong&gt;Luis Pugnaloni&lt;/strong&gt;. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
+&lt;p&gt;Un grupo de investigadores publicó un estudio sobre el camino aleatorio que sigue una pelotita que rueda por una mesa inclinada con obstáculos; un fenómeno que importa a los fanáticos de los flippers. Se conoce desde hace más de un siglo que la posición donde cae la pelotita al final de la mesa tiene una distribución de probabilidad con la forma de una campana de Gauss si la pelotita nunca toca los lados de la mesa.&lt;/p&gt;
+&lt;p&gt;Este nuevo estudio muestra que para mesas angostas, donde la pelotita inevitablemente choca con los bordes laterales, esta distribución es uniforme. El fenómeno puede ser usado para la mezcla de materiales granulares en la industria.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/07/galton-439x600.jpg&#34; alt=&#34;Tablero de Galton: Esta fotografía corresponde al tablero usado por los investigadores de la Universidad de Buenos Aires. Puede observase la disposición regular de los obstáculos.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;El trabajo de J. G. Benito, G. Meglio, I. Ippolito, M. Re y A. M. Vidales, una colaboración entre la Universidad Nacional de San Luis, la Universidad de Buenos Aires y la Universidad Nacional de Córdoba, presenta estudios experimentales, de simulación por computadora y teóricos de un dispositivo conocido desde hace más de un siglo como &amp;quot;el tablero de Galton&amp;quot; (ver foto).&lt;/p&gt;
+&lt;p&gt;Un cierto número de clavos clavados a intervalos regulares sobre la mesa entorpecen el camino de una bolita que rueda cuesta abajo sobre la misma. Ya en el siglo XIX el científico británico Sir Francis Galton habí­a mostrado que si uno arroja un gran número de bolitas (una por vez) y las junta en casilleros dispuestos al final de la mesa los casilleros centrales estarían más llenos que los laterales. Esto es, hay mayor probabilidad de que una bolita caiga en un casillero en el centro que el los costados. La forma exacta de la distribución de las bolitas corresponde a una campana de Gauss.&lt;/p&gt;
+&lt;p&gt;J. G. Benito y colaboradores estudiaron el efecto que produce el uso de mesas angostas donde las bolitas rebotan contra los laterales. Todos los estudios anteriores fueron hechos con mesas muy anchas. Tanto los experimentos como las simulaciones muestran que para mesas suficientemente angostas (en comparación con la longitud de la misma) las bolitas se distribuyen en forma uniforme al llegar a la base. De este modo la probabilidad de que una bolita caiga en el centro es la misma de que caiga en el borde de la mesa.&lt;/p&gt;
+&lt;p&gt;Los autores del trabajo proponen que este efecto puede ser usado para mezclar granos de diferentes tipos en un proceso industrial. Es sabido que conseguir una mezcla uniforme de granos (cereales, piedras, peletes, etc.) es muy difí­cil si los granos difieren un poco en tamaño, forma o caracterí­sticas superficiales. Una de estas mesas podría usarse para hacer fluir simultáneamente granos de diferentes tipos de modo que las colisiones con los obstáculos los mezclen unos con otros.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo original:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1007/s10035-007-0036-4&#34;&gt;Granular Matter, vol. 9, pp 159 (2007)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instituciones:&lt;/strong&gt; Laboratorio de Ciencia de Superficies y Medios Porosos, Departamento de Fí­sica (UNSL), Grupo de Medios Porosos, Facultad de Ingenierí­a (UBA), Facultad de Matemá¡tica, Astronomí­a y Fí­sica, (UNC).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contacto:&lt;/strong&gt; A. Vidales (E-mail: &lt;a href=&#34;mailto:avidales@unsl.edu.ar&#34;&gt;avidales@unsl.edu.ar&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Más información:&lt;/strong&gt; &lt;a href=&#34;http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_probabilidad&#34;&gt;Distribución de probabilidad&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
     </item>
     
   </channel>
