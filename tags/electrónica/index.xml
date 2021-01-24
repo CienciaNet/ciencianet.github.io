@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electrónica on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/electr%C3%B3nica/</link>
+    <link>https://ciencianet.com.ar/tags/electr%C3%B3nica/</link>
     <description>Recent content in Electrónica on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Aug 2007 01:32:00 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/electr%C3%B3nica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Aug 2007 01:32:00 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/electr%C3%B3nica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lo técnico y lo humano en el desarrollo en electrónica</title>
-      <link>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</link>
+      <link>https://ciencianet.com.ar/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</link>
       <pubDate>Mon, 13 Aug 2007 01:32:00 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</guid>
+      <guid>https://ciencianet.com.ar/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Diego Vallejo&lt;/strong&gt;: Departamento de Ciencias Básicas, Facultad de Ingeniería, Universidad Nacional de La Plata.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Sin ciencia sería muy difícil mantener un estilo de vida como el que pretendemos tener.&lt;/em&gt;&lt;/strong&gt; ¿Qué cambia en un dispositivo electrónico cuando éste es llevado al espacio exterior? ¿Cómo se modifica un elemento de un circuito eléctrico frente al cambio de un material por otro? Y con una mirada más amplia: ¿qué contexto humano motiva y promueve el anteriormente citado trabajo de investigación? Estos son algunos de los temas conversados con los integrantes del Grupo de Estudio de Materiales y Dispositivos Electrónicos (GEMyDE), una unidad de investigación y desarrollo dependiente de la Facultad de Ingeniería de la Universidad Nacional de La Plata.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/foto0.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/foto0.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Cordialmente, con un mate compartido, entre libros, computadoras y la luz que penetra a través de los cristales del edificio de Electrotecnia de la Universidad Nacional de La Plata, comenzó la entrevista con los integrantes del GEMyDE: el Dr. Eitel Peltzer y Blancá (coordinador del grupo), el Ing. Ariel Cédola (docente investigador) y el Ing. Marcelo Cappelletti (becario y estudiante del doctorado).&lt;/p&gt;
 &lt;h3 id=&#34;i-el-contexto-técnico&#34;&gt;I. El Contexto Técnico&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/imagen-link.jpg&#34; alt=&#34;:left&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/imagen-link.jpg&#34; alt=&#34;:left&#34;&gt;
 –¿Cuáles son los objetivos del GEMyDE?&lt;/p&gt;
 &lt;p&gt;–&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: La idea central es tratar de desarrollar dispositivos electrónicos a través de modelos matemáticos, de manera de poder estudiarlos bajo cualquier medio ambiente y con diferentes materiales. Las actividades del grupo se inician en el año 2002, con una colaboración con la Comisión Nacional de Actividades Espaciales (CONAE).&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Ellos querían saber qué ocurría cuando sobre un dispositivo incide la radiación solar: protones, neutrones, además de luz, que producen disfunciones en el dispositivo. Nosotros estudiamos cuáles son las respuestas del elemento irradiado.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Ariel Cédola&lt;/strong&gt;: Particularmente en los satélites aparecen los efectos de la radiación espacial. Enfocamos nuestro análisis sobre los fotodiodos (que transforman luz en energía eléctrica), estudiando su degradación por el impacto de la radiación.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Marcelo Cappelletti&lt;/strong&gt;: Dado que estos diodos conducen sólo en presencia de radiación, resultan de especial interés para utilizarse como detectores de la misma.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Por otro lado estudiamos la “generación de dispositivos de diseño”, tema que comprende el estudio de la utilización de nuevos materiales dentro de la electrónica.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/foto2.jpeg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/foto2.jpeg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;-¿Cuál es el beneficio para la comunidad de su trabajo?&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Reducir costos, entre otros. Utilizar modelos matemáticos-computacionales con poder predictivo permite eliminar los ciclos de prueba y error que se requieren para la obtención de dichos dispositivos, con la consecuente disminución de los montos involucrados. Desde hace mucho tiempo se conoce la teoría de la interacción de la radiación con la materia. Sin embargo la falta de herramientas computacionales apropiadas limitaba el alcance de las predicciones sobre el comportamiento de los dispositivos electrónicos en esas condiciones. En el pasado la electrónica de un satélite o una nave espacial se triplicaba por seguridad, con el incremento en peso (que debe uno quitar de la tierra, y por tanto, el incremento en costo). Para estudiar estos temas, los integrantes del GEMYDE han decidido desarrollar un programa con código propio (en FORTRAN y Visual C++). Esto les significó una importante inversión en horas de trabajo de análisis y codificación, con la valiosa ventaja de poseer total libertad a la hora de modificarlo e implementar nuevas funcionalidades, y nuevos algoritmos, cosa imposible en los programas de &amp;quot;código cerrado&amp;quot;.&lt;/p&gt;
 &lt;h3 id=&#34;ii-el-contexto-humano&#34;&gt;II. El Contexto Humano&lt;/h3&gt;
 &lt;p&gt;-Estas actividades ocurren en un contexto personal y humano. En ese orden, Dr. Peltzer, recientemente ha sido usted designado Secretario de Ciencia y Técnica de la Universidad. ¿Qué rol le cabe al Secretario dentro de la Universidad?&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: La Universidad de La Plata fue pensada de manera diferente de otras universidades donde sólo se pretendía enseñar. En la Universidad de la Plata se pretende enseñar e investigar. En ese sentido, la Secretaría de Ciencia y Técnica debería estar muy desarrollada, debería establecer una fuerte conexión entre las Facultades, no solamente de la Secretaría con las Facultades, sino fomentar especialmente la conexión de las Facultades entre sí, para tratar de desarrollar tareas multidisciplinarias. Las ciencias deberían estar conectadas entre ellas buscando las respuestas que la sociedad requiere. Obviamente sin ciencia sería muy difícil mantener un estilo de vida como el que pretendemos tener. -En los organismos científicos algunas veces parece notarse que la evaluación de las actividades de los investigadores no promueve estos objetivos.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Nosotros no tenemos una cultura de interdisciplinariedad. Es un desafío, como para que organismos como el CONICET, Secyt, FONCYT interpreten que se puedan establecer tanto nuevos mecanismos de funcionamiento entre grupos como evaluaciones que los puedan contemplar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/foto1.jpeg&#34; alt=&#34;:left&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/foto1.jpeg&#34; alt=&#34;:left&#34;&gt;
 -Para ustedes, en este trabajo, ¿en qué consiste tener éxito?&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Ariel Cédola&lt;/strong&gt;: Bueno, estamos contentos, no importa que no seamos tan numerosos, que no tengamos tantos recursos, pero trabajando de esta manera, con la comunión, con el ritmo, con los objetivos a corto y mediano plazo, pienso que el éxito es cuestión de tiempo, está asegurado. La buena relación que tengamos entre nosotros hace que el clima de trabajo sea bueno, que sea con toda seriedad con todo el compromiso, y eso genera una unión muy fuerte.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Marcelo Cappelletti&lt;/strong&gt;: Eitel nos brinda la libertad para trabajar e incursionar sobre los temas que nos interesan, esto lo hace un ambiente muy favorable.&lt;/p&gt;

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electricidad on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/electricidad/</link>
+    <link>https://ciencianet.com.ar/tags/electricidad/</link>
     <description>Recent content in Electricidad on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 16 Jun 2007 01:57:04 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/electricidad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jun 2007 01:57:04 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/electricidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Wi Tricity? Transferencia de potencia sin cables</title>
-      <link>https://ciencianet.github.io/post/wi-tricity-transferencia-de-potencia-sin-cables/</link>
+      <link>https://ciencianet.com.ar/post/wi-tricity-transferencia-de-potencia-sin-cables/</link>
       <pubDate>Sat, 16 Jun 2007 01:57:04 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/wi-tricity-transferencia-de-potencia-sin-cables/</guid>
+      <guid>https://ciencianet.com.ar/post/wi-tricity-transferencia-de-potencia-sin-cables/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Ramiro Irastorza.&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
 &lt;p&gt;Imagine un futuro en el que sea posible la transmisión de potencia a través del aire: teléfonos celulares (o móviles), robots hogareños, reproductores de mp3, computadoras personales y otros dispositivos electrónicos portátiles que sean capaces de recargar sus baterías por sí solos sin que tengamos que conectar cable ni cargador alguno. Un equipo del MIT (integrado por el departamento de Física, el de Ingeniería Eléctrica y el de Ciencias de la Computación) en conjunto con el &lt;em&gt;Institute for Soldier Nanotechnologies&lt;/em&gt; (ISN) desarrolló experimentalmente un importante paso en esa dirección. Usando bobinados resonantes fuertemente acoplados, demostraron una transferencia no radiante y eficiente (40%) a distancias de hasta ocho veces el radio de los resonadores (ellos mismos la denominaron WiTricity). Desarrollaron un modelo cuantitativo capáz de describir la transferencia de potencia con errores de solo el 5%.&lt;/p&gt;
 &lt;p&gt;La transmisión de potencia sin cable es conocida hace ya varias décadas, quizas el mejor ejemplo sea la radiación electromagnética (ondas de radio). Si bien este tipo de transferencia es buena para la información no es eficiente para la transmisión de potencia. Gran parte de de la misma se perdería en el espacio porque la radiación se emite en todas direcciones. Por el contrario, WiTricity se basa en el uso de objetos resonantes acoplados. Dos objetos resonantes acoplados con la misma frecuencia intercambian energía de manera eficiente (por ejemplo: un transformador), si en cambio no tienen la misma frecuencia de resonancia la interacción es débil. Un ejemplo acústico: imagine una habitación con vasos de vino cada llenados con distintos niveles. Si un cantante de opera emite una nota lo suficientemente alta, será capaz de romper el vaso &amp;quot;afinado&amp;quot; a esa nota mientras que los otros vasos permanecen inadvertidos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/06/witricity.png&#34; alt=&#34;Esquema del dispositivo experimental.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/06/witricity.png&#34; alt=&#34;Esquema del dispositivo experimental.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Este grupo de investigadores se concentró en un sistema de dos bobinados de cobre (uno conectado a la fuente y el receptor a una bombilla de 60W, ver Imagen) acoplados fuertemente a través de sus campos magnéticos (a una frecuencia del orden de los MHz).&lt;/p&gt;
 &lt;p&gt;Lo interesante de esto es que los medios biológicos interactúan muy debilmente con los campos magnéticos , así como también los objetos no acoplados, por lo que sería una forma segura de transmisión. Además, al ser no radiativa, la energía que no se transfiere al bobinado receptor queda limitada en el bobinado fuente.&lt;/p&gt;
 &lt;p&gt;Si bien el principio es conocido hace más de un siglo la demanda de este tipo de transmisión es reciente. No existían dispositivos electrónicos portátiles, laptops, teléfonos celulares, robots, etc. Este tipo de invenciones serviría para recargar las batería de forma automática o, eventualmente, ni si quiera utilizarlas.&lt;/p&gt;

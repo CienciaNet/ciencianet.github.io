@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vehículos autónomos on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/veh%C3%ADculos-aut%C3%B3nomos/</link>
+    <link>https://ciencianet.com.ar/tags/veh%C3%ADculos-aut%C3%B3nomos/</link>
     <description>Recent content in Vehículos autónomos on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Jul 2009 21:25:28 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/veh%C3%ADculos-aut%C3%B3nomos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2009 21:25:28 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/veh%C3%ADculos-aut%C3%B3nomos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Más vale MAV en compu que cien volando</title>
-      <link>https://ciencianet.github.io/post/mas-vale-mav-en-compu-que-cien-volando/</link>
+      <link>https://ciencianet.com.ar/post/mas-vale-mav-en-compu-que-cien-volando/</link>
       <pubDate>Mon, 06 Jul 2009 21:25:28 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/mas-vale-mav-en-compu-que-cien-volando/</guid>
+      <guid>https://ciencianet.com.ar/post/mas-vale-mav-en-compu-que-cien-volando/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Ramiro Irastorza:&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;Recientes investigaciones, inspiradas en el vuelo de insectos, muestran que el uso de alas flexibles, la correcta cinemática, y la elección de la frecuencia de aleteo son factores importantes para optimizar el consumo de energía. Sergio Preidikman, Julio Massa, y Bruno Roccia de la Universidad Nacional de Córdoba, junto a Balakumar Balachandran, Elias Balaras, Marcos Vanella, Timothy Fitzgerald, y Marcelo Valdez de la Universidad de Maryland (USA) han atacado este problema observando la naturaleza; particularmente algunos insectos voladores y ciertas aves pequeñas.&lt;/p&gt;
 &lt;p&gt;La razón para inspirarse en la naturaleza parece evidente: los insectos son pequeños, livianos y al parecer muy eficientes a la hora de usar su energía. Aunque los biólogos han estudiado mucho el tema, existen varios aspectos no resueltos en el vuelo con alas batientes, particularmente, el conocido como “hovering” que corresponde a mantenerse suspendido volando en el mismo lugar. En este trabajo, los investigadores intentan explicar mediante simulaciones numéricas realizadas con la ayuda de computadoras la influencia del complejo flujo de aire alrededor de las alas, y de la flexibilidad de las mismas en el rendimiento aerodinámico de cada ciclo de aleteo.&lt;/p&gt;
 &lt;p&gt;En su evolución natural, los insectos voladores y los pájaros siguieron dos caminos diferentes. Si bien ambos vuelos se basan en alas batientes, la mayoría de las aves no pueden ejecutar ciertos tipos de vuelo como el “hovering”. Un punto curioso y complejo es que en la mayoría de los insectos las alas carecen de músculos y por consiguiente no poseen “actuadores” que permitan el control interno de la misma. En esta dirección apunta la pregunta que se proponen responder los investigadores: ¿Cómo afecta la performance aerodinámica de un ciclo de aleteo la flexibilidad estructural del ala y cuál es el efecto del número de Reynolds del flujo de aire?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/07/ramiro.png&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/07/ramiro.png&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;El &lt;a href=&#34;http://es.wikipedia.org/wiki/N%C3%BAmero_de_Reynolds&#34;&gt;número de Reynolds&lt;/a&gt; (Re) es un número adimensional que caracteriza el flujo: un Re grande corresponde a flujos donde dominan las fuerzas de inercia (proporcionales a la velocidad y a la densidad del flujo), mientras que un número Re bajo es típico de flujos donde dominan las fuerzas disipativas (proporcionales a la viscosidad del flujo). Para comenzar a entender el fenómeno aeroelástico asociado a un ala flexible, los investigadores desarrollaron, en una primera etapa, simulaciones numéricas en dos dimensiones. El modelo estructural bidimensional del ala consiste de dos barras rígidas &lt;em&gt;A&lt;/em&gt; y &lt;em&gt;B&lt;/em&gt; unidas en un extremo por un resorte torsional (&lt;em&gt;kt&lt;/em&gt;) con comportamiento lineal (ver Figura).&lt;/p&gt;
 &lt;p&gt;La flexibilidad se encuentra concentrada en un solo punto del sistema, esto es, la rotula elástica donde se unen las dos barras rígidas &lt;em&gt;A&lt;/em&gt; y &lt;em&gt;B&lt;/em&gt;. El flujo del fluido circundante se considera no lineal e inestacionario, y se estudia para diferentes números de Reynolds bajos y moderados (&lt;em&gt;Re&lt;/em&gt; = 75, 250 y 1000).&lt;/p&gt;
 &lt;p&gt;El movimiento del aleteo de este sistema dinámico está gobernado por un conjunto de ecuaciones que tienen en cuenta la estructura mecánica del sistema y el fluido circundante. En los ciclos de aleteo simulados, se imprimen movimientos traslacionales al brazo B, forzándolo a una oscilación de una frecuencia particular, y se deja libre al brazo &lt;em&gt;A&lt;/em&gt;. La dinámica del sistema puede describirse utilizando sólo una coordenada generalizada: el ángulo de deflexión &lt;em&gt;α&lt;/em&gt;(&lt;em&gt;t&lt;/em&gt;) (ver Figura). También se puede demostrar que &lt;em&gt;α&lt;/em&gt;(&lt;em&gt;t&lt;/em&gt;) está gobernado por una ecuación equivalente a la que gobierna las evolución temporal de un &lt;a href=&#34;http://es.wikipedia.org/wiki/Doble_p%C3%A9ndulo&#34;&gt;péndulo doble&lt;/a&gt;.&lt;/p&gt;

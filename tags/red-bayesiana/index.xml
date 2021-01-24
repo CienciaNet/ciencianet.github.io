@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red bayesiana on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/red-bayesiana/</link>
+    <link>https://ciencianet.com.ar/tags/red-bayesiana/</link>
     <description>Recent content in Red bayesiana on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 03 Feb 2008 00:57:09 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/red-bayesiana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Feb 2008 00:57:09 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/red-bayesiana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Detección de estilos de aprendizaje utilizando redes bayesianas</title>
-      <link>https://ciencianet.github.io/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</link>
+      <link>https://ciencianet.com.ar/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</link>
       <pubDate>Sun, 03 Feb 2008 00:57:09 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</guid>
+      <guid>https://ciencianet.com.ar/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Manuel Carlevaro&lt;/strong&gt;. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.&lt;/p&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;En un trabajo publicado recientemente en &lt;em&gt;Computers &amp;amp; Education&lt;/em&gt;, los investigadores Patricio Garcí­a, Analía Amandi, Silvia Schiaffino y Marcelo Campo, del Instituto de Sistema Tandil (ISISTAN) pertenenciente a la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNCPBA), modelaron una red bayesiana para detectar los diferentes estilos de aprendizaje de alumnos de un curso vía web de Inteligencia Artificial.&lt;/p&gt;
 &lt;p&gt;Un modelo de estilo de aprendizaje clasifica a los estudiantes de acuerdo a cómo se ubican en un número de escalas pertenecientes a las formas en que reciben y procesan la información. Existen diversos modelos propuestos. En este trabajo los autores utilizaron uno propuesto por Felder y Silverman para estudiantes de ingeniería que comprende las siguientes dimensiones: percepción (sensitiva/intuitiva); entrada (visual/verbal); organización (inductiva/deductiva); procesamiento (activo/reflexivo); comprensión (secuencial/global).&lt;/p&gt;
 &lt;p&gt;La detección de estos estilos de aprendizaje es importante en el diseño de un curso vía web, ya que el aprendizaje mejora cuando hay cierta concordancia entre el estilo de aprendizaje del alumno y el estilo utilizado para enseñanza, que comprende: el contenido del curso (textos, ejemplos, exámenes y ejercicios propuestos); la forma en que estos contenidos se presentan al alumno; los mecanismos de interacción entre los alumnos y docentes (salas de chat, foros, preguntas frecuentes, listas de e-mail) y el orden en que los contenidos son organizados y presentados en el curso.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/02/redBayesiana-1024x406.png&#34; alt=&#34;Red bayesiana: Modelización del estilo de aprendizaje de un alumno.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2008/02/redBayesiana-1024x406.png&#34; alt=&#34;Red bayesiana: Modelización del estilo de aprendizaje de un alumno.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Una de las caracterí­sticas más deseables de un sistema educativo ví­a web es que sea adaptativo y personalizado, ya que debe ser utilizado por una amplia variedad de estudiantes con diferentes habilidades y estilos de aprendizaje. Para lograr este objetivo, y reducir la brecha entre los estilos de aprendizaje de los alumnos y el estilo de enseñanza del sistema, es necesario descubrir el estilo de cada alumno y adaptar el curso o asistir al alumno de acuerdo con su estilo.&lt;/p&gt;
 &lt;p&gt;En este trabajo, esta caracterización se realiza a través de una red bayesiana, que permite modelar cualitativa y cuantitativamente la información procedente del comportamiento de los alumnos, obtenidos de archivos que registran sus participaciones en actividades tales como salas de chat y foros.&lt;/p&gt;
 &lt;p&gt;Los investigadores compararon los resultados obtenidos con la red bayesiana con resultados obtenidos con el test utilizado tradicionalmente para detectar los estilos de aprendizaje, observando que la red bayesiana es capaz de detectar el estilo de percepción con alta precisión, mientras que las dimensiones de comprensión y procesamiento muestran algunas discrepancias. Ellos atribuyen estas discrepancias a la poca experiencia de los alumnos en el uso de la web como herramienta para el abordaje de un curso, y confí­an en que mejoramientos del modelo utilizado en la red bayesiana pueden permitir descubrir los estilos de aprendizajes de alumnos con gran precisión. Nuevos resultados utilizando un modelo mejorado y nuevos experimentos serán publicados próximamente en &lt;em&gt;Journal of Computer Assited Learning&lt;/em&gt;.&lt;/p&gt;

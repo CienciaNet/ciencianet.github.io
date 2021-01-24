@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trabajos prácticos on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/trabajos-pr%C3%A1cticos/</link>
+    <link>https://ciencianet.com.ar/tags/trabajos-pr%C3%A1cticos/</link>
     <description>Recent content in Trabajos prácticos on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Jul 2008 23:30:45 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/trabajos-pr%C3%A1cticos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jul 2008 23:30:45 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/trabajos-pr%C3%A1cticos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El rol de los trabajos prácticos de laboratorio en la enseñanza de física</title>
-      <link>https://ciencianet.github.io/post/el-rol-de-los-trabajos-practicos-de-laboratorio-en-la-ensenanza-de-fisica/</link>
+      <link>https://ciencianet.com.ar/post/el-rol-de-los-trabajos-practicos-de-laboratorio-en-la-ensenanza-de-fisica/</link>
       <pubDate>Fri, 11 Jul 2008 23:30:45 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/el-rol-de-los-trabajos-practicos-de-laboratorio-en-la-ensenanza-de-fisica/</guid>
+      <guid>https://ciencianet.com.ar/post/el-rol-de-los-trabajos-practicos-de-laboratorio-en-la-ensenanza-de-fisica/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Luis Pugnaloni&lt;/strong&gt;. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
 &lt;p&gt;El año 2008 ha sido declarado como el Año de la Enseñanza de las Ciencias por los Ministerios de Educación y de Ciencia, Tecnología e Innovación Productiva, con el objetivo de mejorar la enseñanza de las Ciencias Naturales y la Matemática. Entre las preocupaciones de ambos Ministerios se encuentran los pobres resultados obtenidos por los alumnos argentinos en evaluaciones nacionales e internacionales y la disminución de las vocaciones científicas entre los estudiantes que continúan estudios en el nivel universitario, según consta en el &lt;a href=&#34;http://www.educaciencias.gov.ar/archivos/acercade/Documento.pdf&#34;&gt;Plan de Mejoramiento de la Enseñanza de las Ciencias&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;El proyecto de mejora incluye medidas variadas y dispares: la promoción de las ciencias a través de actividades de difusión y divulgación, la creación del portal de internet &lt;a href=&#34;http://www.educaciencias.gov.ar/&#34;&gt;www.educaciencias.gov.ar&lt;/a&gt;, capacitaciones diversas para docentes, la revisión de contenidos y metodologías de enseñanza, y la asignación de dinero para equipamiento de laboratorio y material didáctico para escuelas e institutos de formación docente.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/07/logo_2008_ciencias.gif&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2008/07/logo_2008_ciencias.gif&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Pero aún en el caso en que todas estas medidas resultaran exitosas y los jóvenes emprendieran con entusiasmo el estudio de carreras científicas y tecnológicas, el problema distaría de estar resuelto. ¿Qué ocurrirá cuando estos estudiantes ingresen a la Universidad? Muchos de ellos quedarán en el camino rápidamente y sólo unos pocos obtendrán su título. Para ilustrar esto podemos citar datos oficiales del total de las universidades nacionales: en el año 2002 hubieron en las Universidades Nacionales 1.243.880 alumnos, de los cuales 305.496 fueron nuevos inscriptos, y egresaron sólo 47.475&lt;a href=&#34;#ref1&#34;&gt;1&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;¿Cuáles son los obstáculos que los hacen desistir? ¿Cómo puede mejorarse la enseñanza universitaria de ciencias? Estas y otras preguntas similares, en particular sobre el aprendizaje de física, son planteadas en la Universidad de General Sarmiento (UNGS) por el Grupo de Investigación en Didáctica de la Física, integrado por el físico José Ure y los profesores en física Diego Petrucci, Silvia M. Pérez, Marisol Montino, Gladys Antúnez, Alejandra Aleman.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/07/Labo_ungs.jpg&#34; alt=&#34;Laboratorio: Integrantes del grupo de investigación en un aula de UNGS.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2008/07/Labo_ungs.jpg&#34; alt=&#34;Laboratorio: Integrantes del grupo de investigación en un aula de UNGS.&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;laboratorio&#34;&gt;Laboratorio&lt;/h3&gt;
 &lt;p&gt;Integrantes del grupo de investigación en un aula de UNGSLa física es una asignatura presente en las carreras tanto del área de las ciencias exactas y naturales como tecnológicas, e incluye contenidos de mecánica, ondas, termodinámica y fluidos, entre otros. Está planteada en general mediante el dictado de clases teóricas, la resolución de problemas en papel, y la realización de trabajos prácticos de laboratorio (TPL): experimentos con sistemas simples y ya modelizados, diseñados para la observación de fenómenos y verificación de leyes y/o la medición de observables físicos. Por ejemplo, la medición de la aceleración de la gravedad mediante un péndulo, y el cálculo del error cometido.&lt;/p&gt;
 &lt;p&gt;En los últimos años el grupo se ha dedicado a estudiar el rol que tienen estos TPL en el aprendizaje de los contenidos, ya que a pesar de ser escasamente discutidos como herramientas, su presencia en los cursos es incuestionable para los docentes y constituyen el caballito de batalla de la mayoría de las acciones –emprendidas tanto desde Ministerios como desde Facultades- destinadas al mejoramiento de la enseñanza.&lt;/p&gt;

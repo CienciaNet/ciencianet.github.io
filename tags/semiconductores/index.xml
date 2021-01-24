@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semiconductores on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/semiconductores/</link>
+    <link>https://ciencianet.com.ar/tags/semiconductores/</link>
     <description>Recent content in Semiconductores on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Aug 2010 20:47:16 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/semiconductores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2010 20:47:16 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/semiconductores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Celdas solares con nanohilos</title>
-      <link>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</link>
+      <link>https://ciencianet.com.ar/post/celdas-solares-con-nanohilos/</link>
       <pubDate>Tue, 17 Aug 2010 20:47:16 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</guid>
+      <guid>https://ciencianet.com.ar/post/celdas-solares-con-nanohilos/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Marcelo Cappelletti&lt;/strong&gt;. Facultad de ingeniería. Universidad Nacional de La Plata.&lt;/p&gt;
@@ -22,7 +22,7 @@
 &lt;p&gt;Jorge Caram, Claudia Sandoval, Mónica Tirado y David Comedi de la Universidad Nacional de Tucumán, junto a Josef Czaban, David Thompson y Ray LaPierre de la Universidad de McMaster (Canadá) han estudiado este problema a partir de dispositivos fotovoltaicos de unión p-n que emplean nanohilos de un semiconductor compuesto, el arseniuro de galio (GaAs).&lt;/p&gt;
 &lt;p&gt;Un método típico para evaluar el rendimiento de los dispositivos fotovoltaicos consiste en realizar mediciones de la característica Tensión-Corriente continua. Sin embargo, en este trabajo, los autores proponen una caracterización del dispositivo mucho más completa, mediante un estudio de &lt;a href=&#34;http://es.wikipedia.org/wiki/Espectroscopia_de_impedancia&#34;&gt;espectroscopía de impedancia&lt;/a&gt; de estructuras de nanohilos coraza(shell)-corazón(core) p-n de GaAs, el cual es un método que analiza la dispersión de las propiedades eléctricas en un intervalo amplio de frecuencias (usando corriente alterna).&lt;/p&gt;
 &lt;p&gt;Los dispositivos de nanohilos para aplicaciones fotovoltaicas que han sido investigados, fueron fabricados por el grupo de investigación LaPierre de la Universidad de McMaster, y consisten de coraza-corazón p-n alineados de manera perpendicular al GaAs. El material empleado para el dopaje tipo n fue el telurio (Te) en lugar de silicio (Si), debido al comportamiento &lt;a href=&#34;http://es.wikipedia.org/wiki/Anf%C3%B3tero&#34;&gt;anfótero&lt;/a&gt; que el Si puede presentar en nanohilos de GaAs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/08/cappelletti.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/08/cappelletti.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Se diseñaron dos clases bien diferentes de dispositivos dependiendo del grado de superposición espacial, coraza-corazón p-n, a lo largo del eje del nanohilo. Estas diferentes distribuciones espaciales resultaron ser un punto trascendente para la obtención de importantes conclusiones en cuanto a las características eléctricas en el rango de frecuencias 103–107 Hz.&lt;/p&gt;
 &lt;p&gt;Los resultados obtenidos indican que para frecuencias menores a 104 Hz, cuando se invierte la tensión de polarización desde 1.5 V hasta -1.5 V, la impedancia medida de los dispositivos con mayor superposición coraza-corazón (muestra D en la figura), se comporta de acuerdo a lo esperado para una unión p-n.&lt;/p&gt;
 &lt;p&gt;Por el contrario, los dispositivos con pequeña superposición (muestra A en la figura) no siguen este comportamiento. Además, la respuesta del dispositivo decae abruptamente para frecuencias mayores de 104 Hz. Los autores atribuyeron este efecto a los portadores capturados y liberados desde los niveles de energía profundos de la &lt;a href=&#34;http://es.wikipedia.org/wiki/Banda_prohibida&#34;&gt;banda prohibida&lt;/a&gt; del semiconductor.&lt;/p&gt;

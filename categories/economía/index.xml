@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economía on CienciaNet</title>
-    <link>https://ciencianet.github.io/categories/econom%C3%ADa/</link>
+    <link>https://ciencianet.com.ar/categories/econom%C3%ADa/</link>
     <description>Recent content in Economía on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Nov 2013 00:29:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/econom%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2013 00:29:32 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/categories/econom%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variables financieras y personas de a pie</title>
-      <link>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</link>
+      <link>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</link>
       <pubDate>Fri, 29 Nov 2013 00:29:32 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</guid>
+      <guid>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Daniel Parisi.&lt;/strong&gt; Instituto Tecnológico Buenos Aires y CONICET.&lt;/p&gt;
-&lt;p&gt;[&lt;img src=&#34;https://ciencianet.github.io/images/2013/11/parisi.jpg&#34; alt=&#34;Bolsa de Nueva York&#34;&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;img src=&#34;https://ciencianet.com.ar/images/2013/11/parisi.jpg&#34; alt=&#34;Bolsa de Nueva York&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La fotografía muestra el piso de la Bolsa de Comercio de Nueva York. La dinámica de las personas caminando por ese espacio físico tal vez esté más relacionada de lo que parece con la dinámica de los precios de las acciones que estos mismos agentes generan. En un estudio reciente mostramos que un sistema de peatones simulados exhibe características muy similares a las que se observan en las series de precios de activos financieros o divisas.&lt;/p&gt;
 &lt;p&gt;Existen distintos modelos físico-computacionales que permiten simular y predecir el movimiento de peatones. Uno de estos es el conocido &amp;quot;Modelo de Fuerza Social&amp;quot;. Con este modelo se puede simular, por ejemplo, dos habitaciones conectadas por una puerta y dos grupos de personas que quieren atravesarla en sentidos opuestos. A este sistema se le llama flujo bi-direccional (o contrapuesto) a través de un cuello de botella (la puerta). Se ha observado ya (con este modelo y en la vida real) que el flujo en la puerta presenta oscilaciones: por momentos dominan las personas que cruzan en una dirección y por momentos las que cruzan en sentido opuesto. Estas variaciones (fluctuaciones) han sido comparadas cualitativamente con las subas y bajas de los precios de las acciones de empresas.&lt;/p&gt;
 &lt;p&gt;Sin embargo, que dos cosas se parezcan a simple vista no significa que sean equivalentes desde un punto de vista más riguroso. Inspirados por esta semejanza, implementamos una simulación computacional que consideró dos grupos de peatones: un grupo siempre quiere atravesar la puerta de izquierda a derecha y el otro en el sentido opuesto. Se midió entonces el número de personas por m&lt;sup&gt;2&lt;/sup&gt; (la densidad) en las cercanías de la puerta. Se encontró una relación muy estrecha entre las variaciones de densidad y las variaciones de precio de las acciones en la bolsa. Las variaciones o &amp;quot;retornos&amp;quot; de una variable financiera son el porcentaje que subió o bajó una acción, por ejemplo. Dada una serie temporal de precios, o de densidades de personas cerca de la puerta con flujo contrapuesto, es fácil calcular la serie de los retornos haciendo la diferencia entre un valor y el anterior en el tiempo.&lt;/p&gt;
@@ -34,17 +34,17 @@
     
     <item>
       <title>La política del teletrabajo</title>
-      <link>https://ciencianet.github.io/post/la-politica-del-teletrabajo/</link>
+      <link>https://ciencianet.com.ar/post/la-politica-del-teletrabajo/</link>
       <pubDate>Fri, 21 Dec 2007 01:02:54 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/la-politica-del-teletrabajo/</guid>
+      <guid>https://ciencianet.com.ar/post/la-politica-del-teletrabajo/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Paula Lenguita&lt;/strong&gt; Centro de Estudios e Investigaciones Laborales - Programa de Investigaciones Económicas sobre Tecnología, Trabajo y Empleo (CONICET).&lt;/p&gt;
 &lt;p&gt;Las preocupaciones académicas sobre la dinámica de sujeción laboral en relación a los métodos de producción capitalista es un fenómeno histórico que ha abonado renovadamente los estudios del trabajo. Al interior de ese campo analítico, la Tesis Doctoral titulada “La Política del Teletrabajo. Un estudio comparativo sobre las ideologías y prácticas de control laboral destinadas a los teletrabajadores a domicilio en Argentina” realiza un aporte a la temática del control laboral, centrando la atención en el caso del teletrabajo.&lt;/p&gt;
 &lt;p&gt;El teletrabajo es permeable a nuevos mecanismos de organización productiva, y, por ende, el contexto de emergencia de innovaciones disciplinares sobre los trabajadores. Adoptando una definición preliminar, este nuevo modelo organizacional puede comprenderse por la gestión deslocalizada de la fuerza de trabajo, y la posibilidad derivada de desvinculación geográfica y temporal del puesto de trabajo respecto al mando y al colectivo de trabajo.&lt;/p&gt;
 &lt;p&gt;Paradójicamente, la fragmentación del colectivo de trabajo no es un obstáculo para la cooperación, ya que en su auxilio intervienen la cada vez más versátiles tecnologías de la comunicación y la información. Ahora bien, cómo es posible controlar a los trabajadores que se encuentran distanciados entre sí y, particularmente, de los puestos de supervisión del trabajo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2017/12/lenguita.jpg&#34; alt=&#34;Sandra Handley: Secretaria virtual.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2017/12/lenguita.jpg&#34; alt=&#34;Sandra Handley: Secretaria virtual.:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Las conclusiones de la tesis han permitido considerar la vigencia de dispositivos disciplinares de control directo, por la vía de los recursos electrónicos de seguimiento y monitoreo de actividades y tiempos de empleo de la computadora. Pero a ello se le anexan ciertas modificaciones en los parámetros tradicionales de control laboral, a las que denominamos formas de control indirecto sobre los teletrabajadores: 1) ligada al sistema de trabajo: la implementación de un mecanismo de aislamiento profesional ligado a la remotización del puesto de trabajo, b) ligada al régimen salarial, la proliferación de un mecanismo de inestabilidad salarial ligado a la adopción de un régimen de subcontratación (si bien características de otros tipos de prácticas laborales, sin dudas, elementos explicativo de la lógica de valorización del trabajo a domicilio).&lt;/p&gt;
 &lt;p&gt;En síntesis, las formas de control de los teletrabajadores a domicilio varían en un abanico de prácticas desde formas tradicionales de supervisión electrónica hasta formas más sofisticas de uso y disposición “aislada” de los trabajadores hasta mecanismos, lamentablemente generalizados, de desvalorización del trabajo por la vía de la subcontratación y pérdida de garantías protectorias del trabajador.&lt;/p&gt;
 &lt;p&gt;Los elementos negativos para el trabajador no entran en contradicción con una lógica potencialmente “democratizadora” de la estructura reticular de producción. Si bien estas estrategias de organización son flexibles en su organigrama, esta estructuración no alcanza a quebrar la lógica productiva de todo contexto económico de actividad. Es decir, el teletrabajo más allá de los vínculos horizontales de los intercambios electrónicos está inmerso en un contexto de mandos y jerarquías en la toma de decisiones propio de toda esfera productiva del trabajo.&lt;/p&gt;
@@ -63,16 +63,16 @@
     
     <item>
       <title>La corrupción induce ineficiencia en las empresas</title>
-      <link>https://ciencianet.github.io/post/la-corrupcion-induce-ineficiencia-en-las-empresas/</link>
+      <link>https://ciencianet.com.ar/post/la-corrupcion-induce-ineficiencia-en-las-empresas/</link>
       <pubDate>Fri, 25 May 2007 02:11:24 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/la-corrupcion-induce-ineficiencia-en-las-empresas/</guid>
+      <guid>https://ciencianet.com.ar/post/la-corrupcion-induce-ineficiencia-en-las-empresas/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Manuel Carlevaro&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.&lt;/p&gt;
 &lt;p&gt;Un análisis sobre datos de 80 empresas de electricidad de latinoamérica muestra que aquellas que operan en países más corruptos tienden a ser menos eficientes. Los encargados de organizar las actividades de la empresa emplearían mucho tiempo en &amp;quot;hacer lobby&amp;quot; y descuidarían las áreas técnicas. Para resolver los problemas de producción tienden a contratar más empleados en lugar de organizar mejor el trabajo reduciendo así su eficiencia.&lt;/p&gt;
 &lt;p&gt;El estudio fue realizado por E. Dal Bó, de la Universidad de California-Berkeley (EEUU), y M. A. Rossi, de la Universidad de San Andrés. Los autores presentan un modelo matemático donde asumen, por un lado, que cuanto mayor es la corrupción en un país mayores son los beneficios que se obtienen de actividades no directamente ligadas a la producción de bienes y servicios (lobby). Por otro lado, y esto es algo sorprendente, los autores suponen que la corrupción no mejora ni empeora las ganancias de la empresa ni de sus empleados corruptos. Mediante consideraciones matemáticas muy generales se puede demostrar que a mayor corrupción se obtendrá menor eficiencia en la empresa.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/05/corrupcion.jpg&#34; alt=&#34;Índice de corrupción en latinoamérica: Cuanto menor es el índice mayor es la corrupción. Valores medios sobre el período 1994-2001 según International Country Risk Guide.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/05/corrupcion.jpg&#34; alt=&#34;Índice de corrupción en latinoamérica: Cuanto menor es el índice mayor es la corrupción. Valores medios sobre el período 1994-2001 según International Country Risk Guide.:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La idea es simple; si la corrupción es alta, los directivos de una dada empresa preferirán poner esfuerzo en conseguir un aumento de precios haciendo lobby ante funcionarios de gobierno antes que atender el proceso de producción. Como el modelo se basa en empresas de electricidad que están obligadas a proveer toda la energía que demandan los cientes, la falta de organización será suplantada por los directivos contratando más empleados para satisfacer la demanda. De este modo usan cada vez más empleados para proveer la misma cantidad de energía.&lt;/p&gt;
 &lt;p&gt;Los autores del trabajo apoyan esta teoría con un conjunto de datos de 80 empresas de electricidad de 13 países latinoamericanos. Mediante un cuidado estudio estadístico pueden mostrar que en los países más corruptos (según diferentes índices internacionales de corrupción) las empresas de electricidad son más ineficientes. El análisis descarta que otros efectos que distraen la atención de los directivos de su función principal de coordinar la producción tengan un impacto que justifique la ineficiencia sin recurrir al argumento de la corrupción.&lt;/p&gt;
 &lt;p&gt;Los autores aseguran que el impacto en la economía de un país es muy significativo. Por ejemplo, si Brasil (que tiene una corrupción media) bajara su corrupción a los niveles de Costa Rica (que tiene la más baja corrupción dentro de latinoamérica), podría aumentar un 7% su eficiencia.&lt;/p&gt;

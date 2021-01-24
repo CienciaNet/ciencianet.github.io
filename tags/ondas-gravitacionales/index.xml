@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ondas gravitacionales on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/ondas-gravitacionales/</link>
+    <link>https://ciencianet.com.ar/tags/ondas-gravitacionales/</link>
     <description>Recent content in Ondas gravitacionales on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Apr 2018 15:31:31 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/ondas-gravitacionales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Apr 2018 15:31:31 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/ondas-gravitacionales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materia oscura, ondas gravitacionales y agujeros negros primordiales</title>
-      <link>https://ciencianet.github.io/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</link>
+      <link>https://ciencianet.com.ar/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</link>
       <pubDate>Thu, 19 Apr 2018 15:31:31 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</guid>
+      <guid>https://ciencianet.com.ar/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Gastón Giribet.&lt;/strong&gt; Investigador del Center for Cosmology and Particle Physics de New York University. Profesor de la UBA e Investigador Principal del CONICET.&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;p&gt;Dos artículos sobre esta idea que llamaron mi atención en su momento, allá por marzo de 2016. Éstos son &lt;a href=&#34;#2&#34; title=&#34;2&#34;&gt;[2]&lt;/a&gt; y &lt;a href=&#34;#3&#34; title=&#34;3&#34;&gt;[3]&lt;/a&gt;, ambos publicados en &lt;em&gt;Physical Review Letters&lt;/em&gt;. En esos trabajos se especula que la abundancia de sistemas binarios de agujeros negros podría dar cuenta de parte de la materia oscura que sabemos que existe en el universo. Un sistema binario –en este caso de agujeros negros– es un par de astros que rota uno en torno al otro para entrar, al cabo de tiempos prolongados, en un movimiento espiral que culmina en la coalescencia de ambos y la consecuente producción de ondas gravitacionales.&lt;/p&gt;
 &lt;p&gt;Es eso lo que LIGO observa, esas ondas. Esto permite estimar la tasa de ocurrencia de esos eventos de coalescencia: del orden de las decenas de eventos por cada Giga-Pársec cubo por cada año. Teniendo en cuenta esta tasa, los trabajos de marzo de 2016 afirman que los sistemas binarios de agujeros negros con masas de alrededor de algunas docenas de masas solares podrían ser, en efecto, la huella de la materia oscura &lt;a href=&#34;#2&#34; title=&#34;2&#34;&gt;[2]&lt;/a&gt;. Estos agujeros negros tienen que ser, por supuesto, agujeros negros primordiales; es decir, agujeros negros que no se formaron por el colapso gravitacional tras la muerte de estrellas sino que nacieron mucho antes de que ninguna estrella haya existido, durante las primeras fracciones de segundo del universo, una etapa evolutiva del cosmos en la que la física de partículas fundamentales era la que dominaba la escena.&lt;/p&gt;
 &lt;p&gt;Este origen “primordial” de los agujeros negros que formarían parte de la materia oscura es necesario debido a que sabemos que la materia oscura ha estado en el universo desde sus comienzos; por lo tanto, si no queremos entrar en conflicto con lo que sabemos sobre la cosmología del universo temprano, es mejor que estos objetos hayan estado allí desde el inicio, i.e. que sean primordiales.  &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2018/04/agujeros.png&#34; alt=&#34;Los sistemas binarios de agujeros negros de origen primordial, con masas de alrededor de algunas docenas de masas solares, podrían ser responsables de una parte de la materia oscura.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2018/04/agujeros.png&#34; alt=&#34;Los sistemas binarios de agujeros negros de origen primordial, con masas de alrededor de algunas docenas de masas solares, podrían ser responsables de una parte de la materia oscura.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La idea de que la materia oscura podría estar compuesta de astros masivos no es nueva sino que data de varias décadas. Incluso durante mucho tiempo se la creyó una idea anticuada, ya descartada. Se pensaba hasta no hace más de uno o dos años que la cantidad de agujeros negros primordiales en el universo no podía ser apreciable debido a que, si lo fuera, no podríamos explicar los datos cosmológicos que observamos.&lt;/p&gt;
 &lt;p&gt;Las restricciones observacionales sobre la abundancia de agujeros negros primordiales vienen principalmente de dos fenómenos: los efectos distorsivos de lentes gravitacionales y el efecto que este tipo de astros habría tenido sobre la radiación cósmica de fondo. No haber observado esos efectos hizo pensar a los especialistas por más dos décadas que, de existir, los agujeros negros primordiales debían ser muy pocos como para que su presencia en el cosmos fuera relevante.&lt;/p&gt;
 &lt;p&gt;La historia cambió en 2016-2017, cuando nuevos estudios advirtieron que se habían sobreestimado las cotas para la abundancia de agujeros negros primordiales. Quedaba una posibilidad: Un análisis detallado muestra que existe una ventana de valores de masa, que va de entre 20 a 100 masas solares, para los cuales las cotas no son tan estrictas. Esto es, las observaciones cosmológicas no descartan una abundancia notable de agujeros negros primordiales siempre y cuando la masa de éstos sea de unas pocas decenas de masas solares.&lt;/p&gt;

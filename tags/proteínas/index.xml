@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proteínas on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/prote%C3%ADnas/</link>
+    <link>https://ciencianet.com.ar/tags/prote%C3%ADnas/</link>
     <description>Recent content in Proteínas on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 May 2018 23:15:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/prote%C3%ADnas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 May 2018 23:15:32 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/prote%C3%ADnas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Cómo hace una bacteria para sobrevivir en condiciones extremas? Nuevos avances acerca de cómo un motor molecular regula la dirección de transporte del cromosoma.</title>
-      <link>https://ciencianet.github.io/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</link>
+      <link>https://ciencianet.com.ar/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</link>
       <pubDate>Tue, 01 May 2018 23:15:32 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</guid>
+      <guid>https://ciencianet.com.ar/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Augusto Borges&lt;/strong&gt; y &lt;strong&gt;Osvaldo Chara&lt;/strong&gt;. &lt;a href=&#34;https://sysbioiflysib.wordpress.com/&#34;&gt;SysBio&lt;/a&gt;, Instituto de Física de Líquidos y Sistemas Biológicos (CONICET, UNLP), La Plata, Argentina.&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Supercomputadoras para el diseño de fármacos</title>
-      <link>https://ciencianet.github.io/post/supercomputadoras-para-el-diseno-de-farmacos/</link>
+      <link>https://ciencianet.com.ar/post/supercomputadoras-para-el-diseno-de-farmacos/</link>
       <pubDate>Sat, 14 Feb 2015 22:22:53 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/supercomputadoras-para-el-diseno-de-farmacos/</guid>
+      <guid>https://ciencianet.com.ar/post/supercomputadoras-para-el-diseno-de-farmacos/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Diego Masone&lt;/strong&gt;. CONICET - Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo.&lt;/p&gt;
@@ -60,7 +60,7 @@
 &lt;p&gt;En la segunda mitad del siglo XIX el límite de resolución de un microscopio óptico había sido definido matemáticamente por &lt;a href=&#34;http://es.wikipedia.org/wiki/Ernst_Abbe&#34;&gt;Ernst Karl Abbe&lt;/a&gt; y se había alcanzado el punto en que ya no era posible ir más allá de las observaciones de medio micrómetro (0,0000005 m). Sin embargo el desarrollo del tubo de rayos catódicos impulsó el gran salto en microscopía: usando electrones en lugar de luz visible &lt;a href=&#34;http://es.wikipedia.org/wiki/Gustav_Hertz&#34;&gt;Gustav Ludwig Hertz&lt;/a&gt; demostró teóricamente cómo un pequeño solenoide podía hacer converger haces de electrones de forma análoga a como una lente convergía rayos de luz visible.&lt;/p&gt;
 &lt;p&gt;Aunque originalmente concebido por &lt;a href=&#34;http://es.wikipedia.org/wiki/Le%C3%B3_Szil%C3%A1rd&#34;&gt;Leó Szilárd&lt;/a&gt; en 1933, los ingenieros alemanes &lt;a href=&#34;http://es.wikipedia.org/wiki/Ernst_Ruska&#34;&gt;Ernst Ruska&lt;/a&gt; y &lt;a href=&#34;http://es.wikipedia.org/wiki/Max_Knoll&#34;&gt;Maximillion Knoll&lt;/a&gt; construyeron el primer microscopio electrónico que tenía una resolución de 50 nanómetros (0,000000050 m). Lamentablemente el estallido de la Segunda Guerra Mundial retrasó los avances y sólo después de 20 años de terminada la guerra los microscopios electrónicos fueron capaces de alcanzar 1 nanómetro de resolución (0,000000001 m). Estos fueron los primeros pasos hacia las técnicas de cristalografía por rayos X con las que hoy se estudian las proteínas en gran detalle.&lt;/p&gt;
 &lt;p&gt;En un esfuerzo por almacenar, organizar y compartir información cristalográfica la base de datos de proteínas de libre acceso en internet (véase &lt;a href=&#34;www.pdb.org&#34;&gt;www.pdb.org&lt;/a&gt;) fue creada en los Laboratorios Nacionales de Brookhaven (BLN) en 1971. En sus comienzos contenía sólo 13 estructuras, hoy cuenta con más de 100.000. Esto significa que la humanidad dispone de la información estructural de esta cantidad de proteínas a sólo un click de distancia, muchas de ellas responsables directa o indirectamente de las más horribles patologías y enfermedades. Es sin duda una situación sin precedentes para la investigación biomédica.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2015/02/fig1-290x300.jpg&#34; alt=&#34;Figura 1: Estructura tridimensional de la proteína de la albúmina humana.:left&#34;&gt; Es entonces muy fácil para nosotros descargar de internet una proteína de nuestro agrado y “ver” cómo luce su disposición tridimensional en una computadora de escritorio, como muestra la figura 1. Pero podemos hacer mucho más, y de eso se encarga la biomedicina computacional. Podemos estudiar cómo interacciona nuestra proteína con otras proteínas o cómo lo hace con pequeñas moléculas. Podemos diseñar nuestras propias moléculas en la computadora y simular su interacción con nuestra proteína para por ejemplo, inhibir cierta función relacionada con alguna enfermedad. Es decir, podemos diseñar fármacos virtuales que luego sean probados experimentalmente hasta llegar a convertirse en fármacos reales.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2015/02/fig1-290x300.jpg&#34; alt=&#34;Figura 1: Estructura tridimensional de la proteína de la albúmina humana.:left&#34;&gt; Es entonces muy fácil para nosotros descargar de internet una proteína de nuestro agrado y “ver” cómo luce su disposición tridimensional en una computadora de escritorio, como muestra la figura 1. Pero podemos hacer mucho más, y de eso se encarga la biomedicina computacional. Podemos estudiar cómo interacciona nuestra proteína con otras proteínas o cómo lo hace con pequeñas moléculas. Podemos diseñar nuestras propias moléculas en la computadora y simular su interacción con nuestra proteína para por ejemplo, inhibir cierta función relacionada con alguna enfermedad. Es decir, podemos diseñar fármacos virtuales que luego sean probados experimentalmente hasta llegar a convertirse en fármacos reales.&lt;/p&gt;
 &lt;p&gt;Desde luego, detrás de este proceso computacional están las leyes físicas y químicas que gobiernan los átomos que componen los aminoácidos y que su vez forman las proteínas. La dinámica de moléculas es en términos computacionales un experimento virtual donde hemos incluido todo lo que sabemos sobre fuerzas interatómicas. Es el descomunal poder de cálculo de una máquina quien simula el paso del tiempo para que observemos la evolución de nuestro sistema virtual y podamos dilucidar sus mecanismos de funcionamiento, detectar problemas y proponer modelos. Con este fin se han construido centenares de supercomputadoras de uso académico en diversas universidades del mundo (véase &lt;a href=&#34;www.top500.org&#34;&gt;www.top500.org&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Siguiendo esta línea de investigación hemos desarrollado junto a nuestros colaboradores del Centro Nacional de Supercomputación en Barcelona (véase &lt;a href=&#34;www.bsc.es&#34;&gt;www.bsc.es&lt;/a&gt;), un método de análisis de complejos entre proteínas. Dado un par de proteínas que sabemos se asocian para formar una nueva estructura y de la cual poseemos información cristalográfica detallada, generamos de forma virtual centenares de posibles complejos según un criterio geométrico. Luego, para decidir cuales de ellos son factibles de existir en la naturaleza, utilizamos un tipo muy especial de interacción intermolecular: los enlaces de hidrógeno. Este tipo de interacción resulta sumamente importante durante el reconocimiento molecular como se ha demostrado experimentalmente mediante cálculos de estructura electrónica.&lt;/p&gt;
 &lt;p&gt;De esta forma extendiendo el proceso a una buena cantidad de proteínas distintas, verificamos que los cálculos de energías de interacción que incluían una completa optimización de los enlaces de hidrógenos de las proteínas en su totalidad, introducían una significativa mejora en el discernimiento entre los complejos generados geométricamente. Esto significa que luego de generar en una computadora centenares de complejos entre proteínas de una manera más bien caprichosa, somos capaces de distinguir cuales tienen una buena posibilidad de existir realmente y con un poco de suerte, tendremos un número reducido de candidatos.&lt;/p&gt;
@@ -74,10 +74,10 @@
     
     <item>
       <title>Historia evolutiva de las proteínas</title>
-      <link>https://ciencianet.github.io/post/historia-evolutiva-de-las-proteinas/</link>
+      <link>https://ciencianet.com.ar/post/historia-evolutiva-de-las-proteinas/</link>
       <pubDate>Wed, 11 Mar 2009 21:52:35 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/historia-evolutiva-de-las-proteinas/</guid>
+      <guid>https://ciencianet.com.ar/post/historia-evolutiva-de-las-proteinas/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Bruno De Angelis:&lt;/strong&gt; Departamento de Materiales Didácticos, Editorial de la Universidad Nacional de Quilmes.&lt;/p&gt;
@@ -110,16 +110,16 @@
     
     <item>
       <title>¿Las Acuaporinas favorecen un aumento del Calcio intracelular?</title>
-      <link>https://ciencianet.github.io/post/las-acuaporinas-favorecen-un-aumento-del-calcio-intracelular/</link>
+      <link>https://ciencianet.com.ar/post/las-acuaporinas-favorecen-un-aumento-del-calcio-intracelular/</link>
       <pubDate>Sat, 29 Mar 2008 00:20:13 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/las-acuaporinas-favorecen-un-aumento-del-calcio-intracelular/</guid>
+      <guid>https://ciencianet.com.ar/post/las-acuaporinas-favorecen-un-aumento-del-calcio-intracelular/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Osvaldo Chara&lt;/strong&gt;: Instituto de Física de Líquidos y Sistemas Biológicos (CONICET-UNLP-CIC)&lt;/p&gt;
 &lt;p&gt;Luciano Galizia y colaboradores de la Facultad de Medicina (UBA) demostraron recientemente que las Acuaporinas (proteínas ubicadas en las membranas de las células y que actúan como canales que permiten pasar agua) serían importantes en el aumento de la concentración de Calcio intracelular provocado bajo ciertos procesos osmóticos.&lt;/p&gt;
 &lt;p&gt;Cuando las células son bañadas con una solución de osmolaridad menor que su interior celular, estas responden incrementando su volumen, por ósmosis. A continuación, se activan proteínas en la membrana celular que producen salida de solutos, los cuales producen, nuevamente por ósmosis, salida de agua. Esto reduce el volumen de la célula. Dicha respuesta se denomina Regulación de Volumen Decreciente (RVD). El pasaje de agua en este proceso tiene lugar o bien a través de la bicapa fosfolipídica, o alternativamente mediante &lt;a href=&#34;http://es.wikipedia.org/wiki/Acuaporina&#34;&gt;Acuaporinas&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/03/celulas-768x278.jpg&#34; alt=&#34;Figura: células cargadas con un compuesto fluorescente antes (izquierda) y después (derecha) de ser bañadas con medio hipotónico.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2008/03/celulas-768x278.jpg&#34; alt=&#34;Figura: células cargadas con un compuesto fluorescente antes (izquierda) y después (derecha) de ser bañadas con medio hipotónico.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Ya se conocían, previamente, los siguientes hechos: 1) una de estas Acuaporinas, la AQP2, era importante en el RVD de células renales, 2) el ingreso de agua por ósmosis provocaba un aumento en la concentración intracelular de Calcio y 3) algunos mecanismos relacionados con el RVD dependían de la concentración de Calcio dentro de la célula. En un intento de conectar estos tres hechos, Galizia y colaboradores, del &lt;a href=&#34;http://www.fmed.uba.ar/depto/fisiologia/biomem.htm&#34;&gt;Laboratorio de Biomembranas&lt;/a&gt; de la Facultad de Medicina (Universidad de Buenos Aires) formularon la siguiente pregunta: ¿Cumple la AQP2 algún papel en el aumento de la concentración intracelular de Calcio durante el ingreso de agua por ósmosis? Los resultados de sus estudios fueron publicados recientemente en &lt;em&gt;American Journal of Physiology&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Trabajando con células con y sin AQP2 cargadas con compuestos fluorescentes los autores pudieron medir el volumen celular y la concentración de Calcio intracelular durante un proceso de ósmosis como el descrito arriba. Interesantemente, los autores observaron que sólo en presencia de AQP2, las células muestran un incremento en la concentración intracelular de Calcio durante la ósmosis. Los autores concluyeron que la AQP2 en la membrana de las células sería crítica para incrementar la concentración de Calcio, lo cual es necesario para activar el RVD.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Referencia:&lt;/strong&gt; Galizia L, Flamenco MP, Rivarola V, Capurro C, Ford P. Role of AQP2 in activation of calcium entry by hypotonicity: implications in cell volume regulation. &lt;a href=&#34;http://www.ncbi.nlm.nih.gov/pubmed/18094031?ordinalpos=1&amp;amp;itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&#34;&gt;Am J Physiol Renal Physiol. 2008. 294:F582-F590&lt;/a&gt;.&lt;/p&gt;

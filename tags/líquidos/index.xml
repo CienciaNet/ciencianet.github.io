@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Líquidos on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/l%C3%ADquidos/</link>
+    <link>https://ciencianet.com.ar/tags/l%C3%ADquidos/</link>
     <description>Recent content in Líquidos on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Mar 2010 20:53:28 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/l%C3%ADquidos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2010 20:53:28 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/l%C3%ADquidos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre el movimiento democrático a escala molecular en líquidos a baja temperatura</title>
-      <link>https://ciencianet.github.io/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</link>
+      <link>https://ciencianet.com.ar/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</link>
       <pubDate>Tue, 23 Mar 2010 20:53:28 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</guid>
+      <guid>https://ciencianet.com.ar/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;J. Ariel Rodriguez Fris.&lt;/strong&gt; Universidad Nacional del Sur.&lt;/p&gt;
 &lt;p&gt;El movimiento de los átomos, moléculas e iones que conforman un líquido cuando, en promedio, se desplazan el equivalente a su tamaño a partir de su posición inicial se la denomina relajación estructural. La dinámica de relajación estructural de líquidos a baja temperatura es heterogénea en tiempo y espacio. Es decir que dicha dinámica es muy diferente de una región a otra y además cambia en el tiempo. Cabe aclarar que estas heterogeneidades se hacen más conspicuas con la disminución de la temperatura.&lt;/p&gt;
 &lt;p&gt;El hallazgo de heterogeneidades dinámicas, tanto teóricas como experimentales, en líquidos a baja temperatura brindó una clave para comprender el mecanismo por el cual relajan dichos sistemas. En esta tesis demostramos, mediante simulación por computadoras, que dicha relajación, al menos para los tres líquidos estudiados, se debe a la ocurrencia de eventos que denominamos &lt;em&gt;d-clusters&lt;/em&gt; (por &lt;em&gt;democratic clusters&lt;/em&gt;, o agregados democráticos), los cuales son una clase de heterogeneidades dinámicas no estudiadas hasta el momento.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/03/fris.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/03/fris.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Para caracterizar la dinámica de relajación utilizamos tres modelos de líquidos: uno arquetípico de constituyentes que interaccionan como los gases nobles (como el Argón), otro que emula agua sobreenfriada y, por último, uno que emula dióxido de silicio. Al seguir la dinámica de pequeñas porciones de estos sistemas en función del tiempo, descubrimos que los constituyentes pasan largos períodos de &amp;quot;inactividad&amp;quot;, sin moverse demasiado en promedio (por lo que en estos tiempos el sistema no relaja ya que se halla aproximadamente inmóvil o congelado). Se analizan pequeñas porciones del líquido ya que cada región se comporta diferente debido a las heterogeneidades dinámicas.&lt;/p&gt;
 &lt;p&gt;Por otro lado, vimos que a ciertos tiempos sobreviene una rápida reorganización de aproximadamente el 35 % de los constituyentes formando una agrupación (ó cluster) relativamente compacta. Posteriormente reaparece el período inmóvil y así sucesivamente, alternan. A este tipo de movimiento colectivo, el cual es una nueva clase de heterogeneidades dinámicas, que dura sólo una fracción respecto del gran período inmóvil, lo denominamos &lt;em&gt;d-cluster&lt;/em&gt;. La d por democrático ya que es una importante fracción del total del sistema que se reorganiza.&lt;/p&gt;
 &lt;p&gt;Se destaca el hecho que nuestro trabajo permitió a otros autores, estudiando un polímero a baja temperatura y comparando simulaciones con experimentos, dar soporte experimental a la ocurrencia de estos eventos. En conclusión, nuestro trabajo ayudó a mejorar la comprensión del mecanismo de relajación estructural a baja temperatura de tres líquidos de muy distinta naturaleza, lo cual presupone que dicho mecanismo podría ser entonces común a todos los líquidos.&lt;/p&gt;
@@ -34,15 +34,15 @@
     
     <item>
       <title>Líquido que desafía las reglas</title>
-      <link>https://ciencianet.github.io/post/liquido-que-desafia-las-reglas/</link>
+      <link>https://ciencianet.com.ar/post/liquido-que-desafia-las-reglas/</link>
       <pubDate>Mon, 30 Nov 2009 21:01:34 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/liquido-que-desafia-las-reglas/</guid>
+      <guid>https://ciencianet.com.ar/post/liquido-que-desafia-las-reglas/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Manuel Carlevaro&lt;/strong&gt;. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.&lt;/p&gt;
 &lt;p&gt;Físicos franceses descubrieron un líquido que se &amp;quot;congela&amp;quot; cuando se calienta. Marie Plazanet y colegas de la &lt;a href=&#34;http://www.ujf-grenoble.fr/36392593/0/fiche___pagelibre_accueil/&#34;&gt;Université Joseph Fourier&lt;/a&gt; y del &lt;a href=&#34;http://www.ill.eu/&#34;&gt;Institut Laue-Langevin&lt;/a&gt;, ubicados en Grenoble, encontraron un solución simple formada por dos compuestos orgánicos que se convierte en sólido cuando se calienta a temperaturas entre 45 y 75°C, y se convierte en líquido cuando se enfría nuevamente. El equipo sostiene que los responsables de este comportamiento novedoso son los &lt;a href=&#34;http://es.wikipedia.org/wiki/Puentes_de_hidr%C3%B3geno&#34;&gt;puentes de hidrógeno&lt;/a&gt; .&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/11/puentes.post_.jpg&#34; alt=&#34;Estructuras moleculares de αCD: Estructura de energía mínima con 12 puentes de hidrógeno intramolecular (izquierda) y otra con 4 puentes rotos (derecha).:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/11/puentes.post_.jpg&#34; alt=&#34;Estructuras moleculares de αCD: Estructura de energía mínima con 12 puentes de hidrógeno intramolecular (izquierda) y otra con 4 puentes rotos (derecha).:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Por lo general, un sólido se funde cuando se calienta, y los líquidos se transforman en gas, aunque existen algunas excepciones cuando al calentar se producen algunas reacciones químicas que no son reversibles, tal como la &lt;a href=&#34;http://es.wikipedia.org/wiki/Polimerizaci%C3%B3n&#34;&gt;polimerización&lt;/a&gt;. Sin embargo, una transición reversible en la cual un líquido se solidifica al calentarse nunca había sido observada hasta ahora.&lt;/p&gt;
 &lt;p&gt;Plazanet y sus colegas prepararon una solución líquida conteniendo α-ciclodextrina (αCD), agua y 4-metilpiridina (4MP). Las &lt;a href=&#34;http://es.wikipedia.org/wiki/Ciclodextrina&#34;&gt;ciclodextrinas&lt;/a&gt; son estructuras cíclicas que contienen grupos terminales hidroxilos que pueden formar puentes de hidrógeno con 4MP o moléculas de agua. A temperatura ambiente, hasta 300 gramos de αCD pueden disolverse en un litro de 4MP. La solución resultante es homogénea y transparente, pero se transforma en un sólido blanco lechoso cuando se calienta. La temperatura a la que cambia de fase disminuye a medida que la concentración de αCD aumenta.&lt;/p&gt;
 &lt;p&gt;Estudios de dispersión de neutrones revelaron que la fase sólida es un sistema &amp;quot;sol-gel&amp;quot; en el que la formación de puentes de hidrógeno entre αCD y 4MP producen una estructura rígida ordenada. A menores temperaturas, sin embargo, los puentes de hidrógeno tienden a romperse lo que resulta en que la solución vuelve a la fase líquida. Simulaciones de &lt;a href=&#34;http://es.wikipedia.org/wiki/Din%C3%A1mica_molecular&#34;&gt;dinámica molecular&lt;/a&gt; realizadas por Plazenet y sus colaboradores confirmaron que los anillos de ciclodextrinas se distorsionan a medida que la temperatura se aproxima al punto de solidificación. Los puentes de hidrógeno internos en αCD se rompen y los grupos hidroxilos rotan hacia afuera, lo que permite la formación de una red de uniones entre diferentes moléculas. El equipo ha encontrado que un número de sistemas ciclodextrinas/piridinas también se solidifican al calentarse, y ahora se encuentra estudiando con más detalle el sistema sol-gel para entender mejor el mecanismo de solidificación.&lt;/p&gt;
@@ -54,16 +54,16 @@
     
     <item>
       <title>¿Qué sucede dentro un líquido cuando se transforma en un vidrio?</title>
-      <link>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</link>
+      <link>https://ciencianet.com.ar/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</link>
       <pubDate>Mon, 29 Jun 2009 21:29:16 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</guid>
+      <guid>https://ciencianet.com.ar/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Rodolfo Borzi.&lt;/strong&gt; Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA).&lt;/p&gt;
 &lt;p&gt;Las computadoras nos permiten simular y explorar microscópicamente líquidos y sólidos, y también materiales que parecen tener similitudes con ambos: los llamamos vidrios estructurales. Los vidrios son rígidos, como los cristales, pero con una estructura atómica que parece desordenada, como en los líquidos. Pese a ello, resultados recientes muestran que una cierta forma de orden comienza a establecerse en un líquido antes de vitrificarse.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Una foto del problema&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/06/vidrios.png&#34; alt=&#34;Representación esquemática (en dos dimensiones) de configuraciones típicas de un arreglo cristalino, un gas, un líquido y un vidrio. En el caso del líquido hemos señalado una esfera de radio R y coloreado en celeste los átomos cuyo centro es interior a la misma (ver la sección &#39;El trabajo, en detalle&#39;). El estado de un material dado puede especificarse dando un número (enorme) de estas fotos o configuraciones.:right&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/06/vidrios.png&#34; alt=&#34;Representación esquemática (en dos dimensiones) de configuraciones típicas de un arreglo cristalino, un gas, un líquido y un vidrio. En el caso del líquido hemos señalado una esfera de radio R y coloreado en celeste los átomos cuyo centro es interior a la misma (ver la sección &#39;El trabajo, en detalle&#39;). El estado de un material dado puede especificarse dando un número (enorme) de estas fotos o configuraciones.:right&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Supongamos que tuviéramos una cámara que nos permite sacar fotos microscópicas, con un aumento tal que podemos ver cómo se arreglan los átomos que conforman un material. La temperatura tiende a desordenar a los átomos del sistema (más en los gases, menos en los sólidos cristalinos), de manera que dos fotos tomadas a un mismo material en las mismas condiciones no serán necesariamente iguales. ¿Podríamos conocer las propiedades del material a partir de la información contenida en un conjunto de estas fotos?&lt;/p&gt;
 &lt;p&gt;La respuesta es –si conocemos cómo interactúan entre sí los átomos, y la temperatura— que generalmente sí podemos hacerlo. Esta posibilidad se relaciona con un procedimiento que solemos utilizar para entender cómo se comporta un material: instruimos a una computadora para que genere un conjunto grande de estas fotografías o &lt;em&gt;configuraciones&lt;/em&gt; según una receta. El conjunto de configuraciones constituyen un &lt;em&gt;estado&lt;/em&gt; del sistema. Los estados que mejor conocemos son los más simples de todos: aquellos en los que el paso del tiempo no juega ningún rol. La receta, entonces, suele generar este tipo de estados, que llamamos &lt;em&gt;estados en equilibrio termodinámico&lt;/em&gt;. Sin embargo, este punto de vista es problemático para describir algunos materiales, entre ellos los llamados &lt;em&gt;vidrios estructurales&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Estos vidrios son materiales sólidos que (como el vidrio común, cuyo nombre toman prestado) se obtienen a partir de un líquido enfriado en condiciones tales que no llega a formarse un cristal. El problema que surge puede plantearse de la siguiente forma. Si tomáramos un conjunto de fotos microscópicas de un líquido, veríamos que estas tienen un aspecto muy similar a las de los vidrios (ver recuadro). En ambos materiales podrían verse a los átomos con casi igual grado de apiñamiento (mucho mayor que para un gas). También el grado de desorden atómico sería similar en las fotos del líquido que en las del vidrio. Y sin embargo, el líquido puede fluir, mientras el vidrio es –a efectos prácticos– rígido, como un cristal. A todas luces, aunque sus fotografías no parecen ser muy distintas, las propiedades físicas sí lo son.&lt;/p&gt;
@@ -90,14 +90,14 @@
     
     <item>
       <title>Sempiterna aqua</title>
-      <link>https://ciencianet.github.io/post/sempiterna-aqua/</link>
+      <link>https://ciencianet.com.ar/post/sempiterna-aqua/</link>
       <pubDate>Wed, 03 Oct 2007 01:26:09 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/sempiterna-aqua/</guid>
+      <guid>https://ciencianet.com.ar/post/sempiterna-aqua/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Roberto Fernández Prini.&lt;/strong&gt; INQUIMAE-DQIAQF, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires y Unidad de Actividad Quimica, Comisión Nacional de Energía Atómica.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/10/agua.jpg&#34; alt=&#34;Foto de Aaron Burden en Unsplash.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/10/agua.jpg&#34; alt=&#34;Foto de Aaron Burden en Unsplash.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Las propiedades del agua líquida son consideradas anómalas. Lo son porque se comportan de manera distinta a los demás líquidos. Por ello resulta paradójico que el agua sea el único líquido puro con el que el hombre se encuentra cotidianamente y que se lo piense anómalo. El ejemplo más destacado de esa anomalía puede resumirse en que el sólido (hielo) es menos denso –flota– que el líquido.&lt;/p&gt;
 &lt;p&gt;El agua debe sus propiedades &lt;em&gt;curiosas&lt;/em&gt; a su pequeño tamaño molecular y a la fuerza relativa de las interacciones que existen entre sus moléculas. Mucho se ha especulado sobre el comportamiento de esta importante sustancia dado que H2O es sinónimo de probabilidad de vida. Entonces no es tan llamativo que el coportamiento del agua genere muchas especulaciones y hallazgos que no se han demostrardo fehacientemente.&lt;/p&gt;
 &lt;p&gt;La cantidad de investigaciones que se han realizado sobre los sistemas acuosos, es decir agua que contiene otras moléculas –sales, sustancias orgánicas como la urea o los alcoholes, sustancias de interés biológico como proteínas, acido desoxirribonucleico, etc.–, son numerosísimas y de muy buena calidad. Por lo tanto, queda claro que algo se puede decir con certidumbre sobre esta sustancia. En el agua hay importantes interacciones entre las moléculas, relaciones de atracción y repulsión que forman agregados de existencia efímera que perduran algunos pico segundos (billonésimos de segundo), pero no hay estructuras que permanezcan estáticas, invariables en el tiempo, más allá de ese lapso fugaz.&lt;/p&gt;

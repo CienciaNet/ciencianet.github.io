@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulaciones numéricas on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/simulaciones-num%C3%A9ricas/</link>
+    <link>https://ciencianet.com.ar/tags/simulaciones-num%C3%A9ricas/</link>
     <description>Recent content in Simulaciones numéricas on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Nov 2013 00:29:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/simulaciones-num%C3%A9ricas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2013 00:29:32 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/simulaciones-num%C3%A9ricas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variables financieras y personas de a pie</title>
-      <link>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</link>
+      <link>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</link>
       <pubDate>Fri, 29 Nov 2013 00:29:32 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</guid>
+      <guid>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Daniel Parisi.&lt;/strong&gt; Instituto Tecnológico Buenos Aires y CONICET.&lt;/p&gt;
-&lt;p&gt;[&lt;img src=&#34;https://ciencianet.github.io/images/2013/11/parisi.jpg&#34; alt=&#34;Bolsa de Nueva York&#34;&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;img src=&#34;https://ciencianet.com.ar/images/2013/11/parisi.jpg&#34; alt=&#34;Bolsa de Nueva York&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La fotografía muestra el piso de la Bolsa de Comercio de Nueva York. La dinámica de las personas caminando por ese espacio físico tal vez esté más relacionada de lo que parece con la dinámica de los precios de las acciones que estos mismos agentes generan. En un estudio reciente mostramos que un sistema de peatones simulados exhibe características muy similares a las que se observan en las series de precios de activos financieros o divisas.&lt;/p&gt;
 &lt;p&gt;Existen distintos modelos físico-computacionales que permiten simular y predecir el movimiento de peatones. Uno de estos es el conocido &amp;quot;Modelo de Fuerza Social&amp;quot;. Con este modelo se puede simular, por ejemplo, dos habitaciones conectadas por una puerta y dos grupos de personas que quieren atravesarla en sentidos opuestos. A este sistema se le llama flujo bi-direccional (o contrapuesto) a través de un cuello de botella (la puerta). Se ha observado ya (con este modelo y en la vida real) que el flujo en la puerta presenta oscilaciones: por momentos dominan las personas que cruzan en una dirección y por momentos las que cruzan en sentido opuesto. Estas variaciones (fluctuaciones) han sido comparadas cualitativamente con las subas y bajas de los precios de las acciones de empresas.&lt;/p&gt;
 &lt;p&gt;Sin embargo, que dos cosas se parezcan a simple vista no significa que sean equivalentes desde un punto de vista más riguroso. Inspirados por esta semejanza, implementamos una simulación computacional que consideró dos grupos de peatones: un grupo siempre quiere atravesar la puerta de izquierda a derecha y el otro en el sentido opuesto. Se midió entonces el número de personas por m&lt;sup&gt;2&lt;/sup&gt; (la densidad) en las cercanías de la puerta. Se encontró una relación muy estrecha entre las variaciones de densidad y las variaciones de precio de las acciones en la bolsa. Las variaciones o &amp;quot;retornos&amp;quot; de una variable financiera son el porcentaje que subió o bajó una acción, por ejemplo. Dada una serie temporal de precios, o de densidades de personas cerca de la puerta con flujo contrapuesto, es fácil calcular la serie de los retornos haciendo la diferencia entre un valor y el anterior en el tiempo.&lt;/p&gt;
@@ -34,16 +34,16 @@
     
     <item>
       <title>Sobre el movimiento democrático a escala molecular en líquidos a baja temperatura</title>
-      <link>https://ciencianet.github.io/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</link>
+      <link>https://ciencianet.com.ar/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</link>
       <pubDate>Tue, 23 Mar 2010 20:53:28 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</guid>
+      <guid>https://ciencianet.com.ar/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;J. Ariel Rodriguez Fris.&lt;/strong&gt; Universidad Nacional del Sur.&lt;/p&gt;
 &lt;p&gt;El movimiento de los átomos, moléculas e iones que conforman un líquido cuando, en promedio, se desplazan el equivalente a su tamaño a partir de su posición inicial se la denomina relajación estructural. La dinámica de relajación estructural de líquidos a baja temperatura es heterogénea en tiempo y espacio. Es decir que dicha dinámica es muy diferente de una región a otra y además cambia en el tiempo. Cabe aclarar que estas heterogeneidades se hacen más conspicuas con la disminución de la temperatura.&lt;/p&gt;
 &lt;p&gt;El hallazgo de heterogeneidades dinámicas, tanto teóricas como experimentales, en líquidos a baja temperatura brindó una clave para comprender el mecanismo por el cual relajan dichos sistemas. En esta tesis demostramos, mediante simulación por computadoras, que dicha relajación, al menos para los tres líquidos estudiados, se debe a la ocurrencia de eventos que denominamos &lt;em&gt;d-clusters&lt;/em&gt; (por &lt;em&gt;democratic clusters&lt;/em&gt;, o agregados democráticos), los cuales son una clase de heterogeneidades dinámicas no estudiadas hasta el momento.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/03/fris.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/03/fris.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Para caracterizar la dinámica de relajación utilizamos tres modelos de líquidos: uno arquetípico de constituyentes que interaccionan como los gases nobles (como el Argón), otro que emula agua sobreenfriada y, por último, uno que emula dióxido de silicio. Al seguir la dinámica de pequeñas porciones de estos sistemas en función del tiempo, descubrimos que los constituyentes pasan largos períodos de &amp;quot;inactividad&amp;quot;, sin moverse demasiado en promedio (por lo que en estos tiempos el sistema no relaja ya que se halla aproximadamente inmóvil o congelado). Se analizan pequeñas porciones del líquido ya que cada región se comporta diferente debido a las heterogeneidades dinámicas.&lt;/p&gt;
 &lt;p&gt;Por otro lado, vimos que a ciertos tiempos sobreviene una rápida reorganización de aproximadamente el 35 % de los constituyentes formando una agrupación (ó cluster) relativamente compacta. Posteriormente reaparece el período inmóvil y así sucesivamente, alternan. A este tipo de movimiento colectivo, el cual es una nueva clase de heterogeneidades dinámicas, que dura sólo una fracción respecto del gran período inmóvil, lo denominamos &lt;em&gt;d-cluster&lt;/em&gt;. La d por democrático ya que es una importante fracción del total del sistema que se reorganiza.&lt;/p&gt;
 &lt;p&gt;Se destaca el hecho que nuestro trabajo permitió a otros autores, estudiando un polímero a baja temperatura y comparando simulaciones con experimentos, dar soporte experimental a la ocurrencia de estos eventos. En conclusión, nuestro trabajo ayudó a mejorar la comprensión del mecanismo de relajación estructural a baja temperatura de tres líquidos de muy distinta naturaleza, lo cual presupone que dicho mecanismo podría ser entonces común a todos los líquidos.&lt;/p&gt;

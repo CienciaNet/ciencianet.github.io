@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pertussis on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/pertussis/</link>
+    <link>https://ciencianet.com.ar/tags/pertussis/</link>
     <description>Recent content in Pertussis on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Oct 2010 20:37:52 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/pertussis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Oct 2010 20:37:52 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/pertussis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modelo matemático para la propagación de la tos convulsa en Argentina</title>
-      <link>https://ciencianet.github.io/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</link>
+      <link>https://ciencianet.com.ar/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</link>
       <pubDate>Mon, 25 Oct 2010 20:37:52 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</guid>
+      <guid>https://ciencianet.com.ar/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Paula Bergero&lt;/strong&gt;. Facultad de Ciencias Exactas (UNLP).&lt;/p&gt;
 &lt;p&gt;La tos convulsa, también llamada coqueluche o pertussis, es una enfermedad infecciosa respiratoria inmunoprevenible causada por la bacteria Bordetella pertussis. Se caracteriza por episodios muy intensos de tos que pueden prolongarse por varias semanas, y en el caso de niños pequeños puede causar complicaciones y hasta la muerte. En los adultos los síntomas suelen ser más leves. La enfermedad se transmite de persona a persona a través de gotitas de aerosol dispersadas por la tos de un infectado. La tasa de comunicabilidad es alta: pueden contagiarse entre el 80 y 90 % de las personas susceptibles en contacto con un individuo infectado.&lt;/p&gt;
 &lt;p&gt;Antes de la existencia de vacunas específicas, era la principal causa de muerte en niños. El desarrollo y la inclusión de vacunas en los calendarios nacionales de vacunación redujeron de manera significativa la morbi mortalidad de la enferemdad. En nuestro país el esquema consiste en tres dosis que se administran a los 2, 4 y 6 años de vida, más dos refuerzos que se dan a los 18 meses y al ingreso escolar. Desde el año 2009 se incluye un refuerzo más a los 11 años de edad.&lt;/p&gt;
 &lt;p&gt;Pese a años de utilización de vacunas, la enfermedad no se ha podido erradicar. Más aún, en las últimas dos décadas se ha reportado en varios países un notable aumento en el número de enfermos registrados por año. Mundialmente se estima que hay por año 40 millones de casos, de los cuales 300.000 son fatales, con un 70% de incidencia en menores de 5 años, un 90% en menores de 1 año de los cuales 75% son menores de 6 meses. El 50% de los afectados necesita internación. En nuestro país el número de casos reportados, según la Organización Mundial de la Salud, pasó de 267 en el año 2002 a 1742 en el 2009. Además del aumento de casos se ha registrado un cambio en la proporción de casos según la edad de los pacientes.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/10/Graph1-s.jpg&#34; alt=&#34;:left&#34; title=&#34;Graph1-s&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/10/Graph1-s.jpg&#34; alt=&#34;:left&#34; title=&#34;Graph1-s&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Para explicar el resurgimiento de la tos convulsa se han propuesto varias hipótesis, entre las cuales se cuentan: coberturas de vacunación por debajo de las óptimas; baja efectividad de la vacuna (se estima alrededor del 70% de efectividad luego de la 3ra dosis); corta duración de la inmunidad conferida por vacunación; presencia de nuevas variantes de B. pertussis contra las que las vacunas en uso podrían no ser tan eficaces y cuadros clínicos atípicos sin diagnóstico o con diagnóstico tardío. La importancia de cada uno de estos factores no es igual en todos los países por lo que no se ha podido arribar a una conclusión que permita sentar las bases para mejorar estrategias de control contra la enfermedad.&lt;/p&gt;
 &lt;p&gt;En este marco, los modelos matemáticos predictivos surgen como una herramienta importante que puede contribuir a la toma de decisiones en el área de la salud pública. Si bien se han desarrollado modelos para esta patología en otros países, los mismos no contemplan nuestras particularidades epidemiológicas locales. En esta dirección se encamina el trabajo encabezado por el físico Gabriel Fabricius –especializado en mecánica estadística y física computacional- y la bioquímica Daniela Hozbor, quien dirige un grupo de investigación que aborda distintos aspectos de la epidemiología de la enfermedad y del desarrollo de vacunas. También han participado de este trabajo el bioquímico Aníbal Lodeiro, el físico Augusto Melgarejo y el matemático Alberto Maltz.&lt;/p&gt;
 &lt;h3 id=&#34;el-modelo&#34;&gt;El modelo&lt;/h3&gt;

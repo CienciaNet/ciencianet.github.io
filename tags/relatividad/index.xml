@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relatividad on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/relatividad/</link>
+    <link>https://ciencianet.com.ar/tags/relatividad/</link>
     <description>Recent content in Relatividad on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Jun 2018 18:08:52 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/relatividad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jun 2018 18:08:52 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/relatividad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La torre donde la luz gravita</title>
-      <link>https://ciencianet.github.io/post/la-torre-donde-la-luz-gravita/</link>
+      <link>https://ciencianet.com.ar/post/la-torre-donde-la-luz-gravita/</link>
       <pubDate>Thu, 07 Jun 2018 18:08:52 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/la-torre-donde-la-luz-gravita/</guid>
+      <guid>https://ciencianet.com.ar/post/la-torre-donde-la-luz-gravita/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Gaston Giribet.&lt;/strong&gt; Center for Cosmology and Particle Physics de New York University, Universidad de Buenos Aires y CONICET.&lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;p&gt;La relatividad nos lo explica: Desde la formulación de la teoría especial de la relatividad, en 1905, sabemos que el transcurrir del tiempo no es un fenómeno absoluto. Para diferentes observadores el ínterin entre dos sucesos físicos puede ser distinto. Por ejemplo, puede darse que, según uno de ellos, hayan transcurrido unos pocos minutos entre un proceso A y un proceso B, mientras que para el otro haya ese lapso sido de varios años. Para que esto se dé, alcanza con que la velocidad relativa entre un observador y el otro sea lo suficientemente alta. Cuanto más alta la velocidad con la que un observador se aleja del (o acerque al) otro, más grande será la discrepancia entre el lapso que cada uno medirá entre los mismos eventos.&lt;/p&gt;
 &lt;p&gt;Y cabe aclarar que no se debe esta discrepancia a efectos de la percepción, sino a que el tiempo verdaderamente transcurre de manera diferente para ambos. Este efecto, conocido como dilatación temporal, permite explicar muchos fenómenos físicos que incluso podemos comprobar a escalas terrestres. En particular, explica por qué, cada segundo que pasa, nuestro cuerpo es atravesado por una decena de muones (partículas subatómicas similares a los electrones pero doscientas veces más pesadas).&lt;/p&gt;
 &lt;p&gt;Esos muones, generados en la alta atmósfera, tienen una vida media muy corta. Debido a ello, según nuestro terrícola parecer no debería ese efímero existir alcanzarles para llegar desde la alta atmósfera hasta nosotros. Aun así, lo logran. ¿Cómo? Debido al efecto de la dilatación temporal que acabamos de explicar: Al moverse los muones a gran velocidad respecto de nosotros, la discrepancia entre el tiempo de su existencia que nosotros esperaríamos y el tiempo que ellos mismos experimentan es muy grande. Debido a esto, mientras nosotros esperaríamos que se extinguieran antes de llegar al suelo, el reloj interno de los muones atrasa con respecto a nuestra expectativa, y esto les permite sobrevivir al largo –no tan largo para ellos– viaje y alcanzarnos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2018/06/RebkaFoto-228x300.jpg&#34; alt=&#34;Robert Pound, Harvard University.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2018/06/RebkaFoto-228x300.jpg&#34; alt=&#34;Robert Pound, Harvard University.:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Pero esto no es todo; ni siquiera lo más sorprendente: Hay, además del que acabamos de explicar, un segundo efecto relativista que también produce la dilatación temporal. Este fue propuesto por Einstein un poco más tarde, en 1911, a medio camino entre su teoría especial de 1905 y su teoría general de 1915. A diferencia del efecto de dilatación que describimos arriba, que tiene que ver con la discrepancia entre los lapsos observados por dos experimentalistas que se mueven a gran velocidad uno respecto del otro, existe un efecto de dilatación más desconcertante, por cuanto no tiene que ver con el movimiento relativo entre observadores sino con el lugar en el que ellos se encuentran.&lt;/p&gt;
 &lt;p&gt;Según predijo Einstein en 1911, en las regiones del espacio en las cuales el campo gravitatorio es más intenso, el tiempo transcurre más lento &lt;a href=&#34;#1&#34;&gt;[1]&lt;/a&gt;. Tan cierto cuanto extraño pueda sonar. En particular, en el piso de nuestra habitación, al encontrarse éste más cerca del centro gravitatorio de la tierra, el tiempo transcurre más lento que en el techo. Estrictamente hablando, uno envejece más rápido si duerme en la litera de arriba que en la de abajo. Esto no se debe, aclaremos, a que los relojes o aparatos de medición que empleáremos para medir el paso del tiempo se estropeen. Se trata de una verdadera deformación en el tiempo producida por el campo gravitatorio. En el caso de nuestra habitación, al ser el campo gravitatorio del planeta tierra no muy fuerte y al ser el planeta tanto más grande que el tamaño la habitación misma, el efecto es despreciable y no debemos tenerlo en cuenta a la hora de elegir si dormir arriba o abajo.&lt;/p&gt;
 &lt;p&gt;Para hacernos una idea de cuán sutil es el fenómeno a escalas terrestres, digamos que si decidiéramos hacer un experimento y dispusiéramos para ello un reloj en el techo de la habitación y otro en el suelo con la intención de medir cómo el segundo atrasa respecto al primero, deberíamos esperar cientos de millones de años para que tal retraso alcance a ser notable. Ahora bien, este efecto sí es apreciable en las cercanías de astros muy densos con campos gravitatorios fuertes. Por ejemplo, la radiación que nos llega de las cercanías de los agujeros negros presenta un corrimiento del espectro de la luz emitida que es muestra de esa dilatación temporal. En la superficie misma de los agujeros negros el efecto de letargo temporal debido a la intensidad del campo gravitatorio es tan fuerte que, literalmente, el tiempo allí deja de transcurrir.&lt;/p&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>Memorias del horizonte</title>
-      <link>https://ciencianet.github.io/post/memorias-del-horizonte/</link>
+      <link>https://ciencianet.com.ar/post/memorias-del-horizonte/</link>
       <pubDate>Thu, 22 Mar 2018 15:48:26 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/memorias-del-horizonte/</guid>
+      <guid>https://ciencianet.com.ar/post/memorias-del-horizonte/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Gastón Giribet.&lt;/strong&gt; Investigador del Center for Cosmology and Particle Physics de New York University. Profesor de la UBA e Investigador Principal del CONICET.&lt;/p&gt;
@@ -83,7 +83,7 @@
 &lt;p&gt;La respuesta es simple: Cuando se trata de leyes fundamentales, una inconsistencia lógica, aunque se desarrolle ésta en el futuro remoto, es acuciante hoy. Estamos hablando aquí de teorías fundamentales de la física que presentan incompatibilidades inherentes, teorías sobre las que construimos toda la física que entendemos, toda nuestra concepción del cosmos. Aunque lenta y sutil, con persistencia neurálgica, la pérdida de información de los agujeros negros atenta contra la salud de nuestro saber más básico y es imprescindible el esfuerzo por resolverla.&lt;/p&gt;
 &lt;h3 id=&#34;la-paradoja-y-sus-secuelas&#34;&gt;La paradoja y sus secuelas&lt;/h3&gt;
 &lt;p&gt;Stephen Hawking formuló la primera versión de su paradoja en su artículo &lt;a href=&#34;#1&#34; title=&#34;1&#34;&gt;[1]&lt;/a&gt; de 1976. Y fue él quien advirtió antes que nadie las profundas implicancias conceptuales de su descubrimiento. Como consecuencia de esto, dedicó incansables esfuerzos a resolver el rompecabezas que él mismo supo plantear, esfuerzos que no cesaron hasta sus últimos días de actividad. Al comienzo, y durante los 1980s y 1990s, quizá debido a su sesgo inicial de físico relativista, Hawking interpretó su paradojal resultado como un indicio de que ciertos aspectos de la mecánica cuántica necesitaban ser reformulados para que se volviera esta teoría compatible con la de Einstein. Más tarde, llegado el siglo XXI, probablemente rendido ante la evidencia que la conjetura de Maldacena presentaba a favor de la mecánica cuántica de los agujeros negros &lt;a href=&#34;#3&#34; title=&#34;3&#34;&gt;[3]&lt;/a&gt;, Hawking anunció haber cambiado de parecer y adherir desde entonces a la idea de que es la teoría de Einstein la que debe sufrir modificaciones.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2018/03/stephen.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2018/03/stephen.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Desde el trabajo iniciático de 1976, muchos elaboraron versiones refinadas de la paradoja de la información, ensayaron diferentes respuestas a esas tantas versiones, y propusieron todo tipo de ideas especulativas sobre la estructura del espacio-tiempo para poder resolver el acertijo. Ideas de frontera en la física teórica tales como la teoría de las bolas difusas, la complementariedad de los agujeros negros, la pared de fuego, la correspondencia entre entrelazamiento cuántico y agujeros de gusano, nacen todas a partir del intento por resolver la paradoja de Hawking.&lt;/p&gt;
 &lt;h3 id=&#34;la-última-idea-de-stephen-hawking&#34;&gt;La última idea de Stephen Hawking&lt;/h3&gt;
 &lt;p&gt;En los últimos años, desde mediados de 2015, Hawking y sus colaboradores de la Universidad de Cambridge y de la Universidad de Harvard se vieron atraídos hacia una nueva idea; una idea promisoria a la que Hawking destinó sus exiguos últimos esfuerzos: Los agujeros negros podrían preservar la información de la estrella progenitora almacenándola cerca de su superficie –el denominado horizonte de eventos– para después devolverla al medio interestelar de una manera codificada en la radiación que ellos emiten.&lt;/p&gt;

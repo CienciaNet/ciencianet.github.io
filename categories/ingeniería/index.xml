@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingeniería on CienciaNet</title>
-    <link>https://ciencianet.github.io/categories/ingenier%C3%ADa/</link>
+    <link>https://ciencianet.com.ar/categories/ingenier%C3%ADa/</link>
     <description>Recent content in Ingeniería on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Aug 2010 20:47:16 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/categories/ingenier%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2010 20:47:16 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/categories/ingenier%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Celdas solares con nanohilos</title>
-      <link>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</link>
+      <link>https://ciencianet.com.ar/post/celdas-solares-con-nanohilos/</link>
       <pubDate>Tue, 17 Aug 2010 20:47:16 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/celdas-solares-con-nanohilos/</guid>
+      <guid>https://ciencianet.com.ar/post/celdas-solares-con-nanohilos/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Marcelo Cappelletti&lt;/strong&gt;. Facultad de ingeniería. Universidad Nacional de La Plata.&lt;/p&gt;
@@ -22,7 +22,7 @@
 &lt;p&gt;Jorge Caram, Claudia Sandoval, Mónica Tirado y David Comedi de la Universidad Nacional de Tucumán, junto a Josef Czaban, David Thompson y Ray LaPierre de la Universidad de McMaster (Canadá) han estudiado este problema a partir de dispositivos fotovoltaicos de unión p-n que emplean nanohilos de un semiconductor compuesto, el arseniuro de galio (GaAs).&lt;/p&gt;
 &lt;p&gt;Un método típico para evaluar el rendimiento de los dispositivos fotovoltaicos consiste en realizar mediciones de la característica Tensión-Corriente continua. Sin embargo, en este trabajo, los autores proponen una caracterización del dispositivo mucho más completa, mediante un estudio de &lt;a href=&#34;http://es.wikipedia.org/wiki/Espectroscopia_de_impedancia&#34;&gt;espectroscopía de impedancia&lt;/a&gt; de estructuras de nanohilos coraza(shell)-corazón(core) p-n de GaAs, el cual es un método que analiza la dispersión de las propiedades eléctricas en un intervalo amplio de frecuencias (usando corriente alterna).&lt;/p&gt;
 &lt;p&gt;Los dispositivos de nanohilos para aplicaciones fotovoltaicas que han sido investigados, fueron fabricados por el grupo de investigación LaPierre de la Universidad de McMaster, y consisten de coraza-corazón p-n alineados de manera perpendicular al GaAs. El material empleado para el dopaje tipo n fue el telurio (Te) en lugar de silicio (Si), debido al comportamiento &lt;a href=&#34;http://es.wikipedia.org/wiki/Anf%C3%B3tero&#34;&gt;anfótero&lt;/a&gt; que el Si puede presentar en nanohilos de GaAs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/08/cappelletti.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/08/cappelletti.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Se diseñaron dos clases bien diferentes de dispositivos dependiendo del grado de superposición espacial, coraza-corazón p-n, a lo largo del eje del nanohilo. Estas diferentes distribuciones espaciales resultaron ser un punto trascendente para la obtención de importantes conclusiones en cuanto a las características eléctricas en el rango de frecuencias 103–107 Hz.&lt;/p&gt;
 &lt;p&gt;Los resultados obtenidos indican que para frecuencias menores a 104 Hz, cuando se invierte la tensión de polarización desde 1.5 V hasta -1.5 V, la impedancia medida de los dispositivos con mayor superposición coraza-corazón (muestra D en la figura), se comporta de acuerdo a lo esperado para una unión p-n.&lt;/p&gt;
 &lt;p&gt;Por el contrario, los dispositivos con pequeña superposición (muestra A en la figura) no siguen este comportamiento. Además, la respuesta del dispositivo decae abruptamente para frecuencias mayores de 104 Hz. Los autores atribuyeron este efecto a los portadores capturados y liberados desde los niveles de energía profundos de la &lt;a href=&#34;http://es.wikipedia.org/wiki/Banda_prohibida&#34;&gt;banda prohibida&lt;/a&gt; del semiconductor.&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Más vale MAV en compu que cien volando</title>
-      <link>https://ciencianet.github.io/post/mas-vale-mav-en-compu-que-cien-volando/</link>
+      <link>https://ciencianet.com.ar/post/mas-vale-mav-en-compu-que-cien-volando/</link>
       <pubDate>Mon, 06 Jul 2009 21:25:28 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/mas-vale-mav-en-compu-que-cien-volando/</guid>
+      <guid>https://ciencianet.com.ar/post/mas-vale-mav-en-compu-que-cien-volando/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Ramiro Irastorza:&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
@@ -47,7 +47,7 @@
 &lt;p&gt;Recientes investigaciones, inspiradas en el vuelo de insectos, muestran que el uso de alas flexibles, la correcta cinemática, y la elección de la frecuencia de aleteo son factores importantes para optimizar el consumo de energía. Sergio Preidikman, Julio Massa, y Bruno Roccia de la Universidad Nacional de Córdoba, junto a Balakumar Balachandran, Elias Balaras, Marcos Vanella, Timothy Fitzgerald, y Marcelo Valdez de la Universidad de Maryland (USA) han atacado este problema observando la naturaleza; particularmente algunos insectos voladores y ciertas aves pequeñas.&lt;/p&gt;
 &lt;p&gt;La razón para inspirarse en la naturaleza parece evidente: los insectos son pequeños, livianos y al parecer muy eficientes a la hora de usar su energía. Aunque los biólogos han estudiado mucho el tema, existen varios aspectos no resueltos en el vuelo con alas batientes, particularmente, el conocido como “hovering” que corresponde a mantenerse suspendido volando en el mismo lugar. En este trabajo, los investigadores intentan explicar mediante simulaciones numéricas realizadas con la ayuda de computadoras la influencia del complejo flujo de aire alrededor de las alas, y de la flexibilidad de las mismas en el rendimiento aerodinámico de cada ciclo de aleteo.&lt;/p&gt;
 &lt;p&gt;En su evolución natural, los insectos voladores y los pájaros siguieron dos caminos diferentes. Si bien ambos vuelos se basan en alas batientes, la mayoría de las aves no pueden ejecutar ciertos tipos de vuelo como el “hovering”. Un punto curioso y complejo es que en la mayoría de los insectos las alas carecen de músculos y por consiguiente no poseen “actuadores” que permitan el control interno de la misma. En esta dirección apunta la pregunta que se proponen responder los investigadores: ¿Cómo afecta la performance aerodinámica de un ciclo de aleteo la flexibilidad estructural del ala y cuál es el efecto del número de Reynolds del flujo de aire?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/07/ramiro.png&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/07/ramiro.png&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;El &lt;a href=&#34;http://es.wikipedia.org/wiki/N%C3%BAmero_de_Reynolds&#34;&gt;número de Reynolds&lt;/a&gt; (Re) es un número adimensional que caracteriza el flujo: un Re grande corresponde a flujos donde dominan las fuerzas de inercia (proporcionales a la velocidad y a la densidad del flujo), mientras que un número Re bajo es típico de flujos donde dominan las fuerzas disipativas (proporcionales a la viscosidad del flujo). Para comenzar a entender el fenómeno aeroelástico asociado a un ala flexible, los investigadores desarrollaron, en una primera etapa, simulaciones numéricas en dos dimensiones. El modelo estructural bidimensional del ala consiste de dos barras rígidas &lt;em&gt;A&lt;/em&gt; y &lt;em&gt;B&lt;/em&gt; unidas en un extremo por un resorte torsional (&lt;em&gt;kt&lt;/em&gt;) con comportamiento lineal (ver Figura).&lt;/p&gt;
 &lt;p&gt;La flexibilidad se encuentra concentrada en un solo punto del sistema, esto es, la rotula elástica donde se unen las dos barras rígidas &lt;em&gt;A&lt;/em&gt; y &lt;em&gt;B&lt;/em&gt;. El flujo del fluido circundante se considera no lineal e inestacionario, y se estudia para diferentes números de Reynolds bajos y moderados (&lt;em&gt;Re&lt;/em&gt; = 75, 250 y 1000).&lt;/p&gt;
 &lt;p&gt;El movimiento del aleteo de este sistema dinámico está gobernado por un conjunto de ecuaciones que tienen en cuenta la estructura mecánica del sistema y el fluido circundante. En los ciclos de aleteo simulados, se imprimen movimientos traslacionales al brazo B, forzándolo a una oscilación de una frecuencia particular, y se deja libre al brazo &lt;em&gt;A&lt;/em&gt;. La dinámica del sistema puede describirse utilizando sólo una coordenada generalizada: el ángulo de deflexión &lt;em&gt;α&lt;/em&gt;(&lt;em&gt;t&lt;/em&gt;) (ver Figura). También se puede demostrar que &lt;em&gt;α&lt;/em&gt;(&lt;em&gt;t&lt;/em&gt;) está gobernado por una ecuación equivalente a la que gobierna las evolución temporal de un &lt;a href=&#34;http://es.wikipedia.org/wiki/Doble_p%C3%A9ndulo&#34;&gt;péndulo doble&lt;/a&gt;.&lt;/p&gt;
@@ -63,15 +63,15 @@
     
     <item>
       <title>El futuro de los biocombustibles en Argentina</title>
-      <link>https://ciencianet.github.io/post/el-futuro-de-los-biocombustibles-en-argentina/</link>
+      <link>https://ciencianet.com.ar/post/el-futuro-de-los-biocombustibles-en-argentina/</link>
       <pubDate>Tue, 17 Jun 2008 23:43:06 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/el-futuro-de-los-biocombustibles-en-argentina/</guid>
+      <guid>https://ciencianet.com.ar/post/el-futuro-de-los-biocombustibles-en-argentina/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Manuel Carlevaro&lt;/strong&gt;. Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP) y Universidad Tecnológica Nacional.&lt;/p&gt;
 &lt;p&gt;En un trabajo reciente se analiza la situación actual del mercado de biocombustibles en Argentina y su perspectiva a corto (2010) y mediano plazo (2020). Los investigadores sugieren que el biodiesel tiene mayores posibilidades que el bioetanol. En principio el biodiesel será producido con soja, por su bajo precio, pero se alerta sobre la mayor eficiencia de otras fuentes como el girasol.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2008/06/biodiesel.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2008/06/biodiesel.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Lamersa y K. McCormick de Universidad de Lund (Suecia) junto a J.A. Hilbert del INTA Castelar han publicado un artículo donde se analiza el presente y futuro del mercado de biocombustibles en Argentina. En el mismo se destaca la posición preferencial del biodiesel (sustituto del gasoil) sobre el bioetanol (sustituto de las naftas). Argentina consume preferentemente gasoil (más del 50% del mercado) y las naftas están siendo reemplazadas por el GNC. Por otro lado, los exportadores de aceites vegetales (el material necesario para producir biodiesel) preferirán convertirlo a combustible ya que su exportación implica más del 18% menos en cargas impositivas.&lt;/p&gt;
 &lt;p&gt;Otro factor en favor del crecimiento del biodiesel sobre el bioetanol es el relativo bajo costo de la infraestructura necesaria para la conversión. Instalar una planta de biodiesel cuesta alrededor de un tercio del valor de una planta de bioetanol. Se espera que en unos 3 años Argentina no pueda autoabastecerse en gasoil y el uso de biodiesel resultará de suma importancia. Para esto, sugieren los autores, deberá incentivarse el consumo local de biodiesel que actualmente es producido por las empresas con miras a la exportación al mercado europeo.&lt;/p&gt;
 &lt;p&gt;El Estado Argentino ha establecido como meta que el 5% del diesel consumido en Argentina tiene que ser biodiesel. Para esto será necesario en 2010 convertir el 12% de la soja que se produzca en combustible. La soja es el principal producto agrícola en Argentina y tiene grandes posibilidades de convertirse en el único soporte para la producción de biodiesel. Sin embargo, los investigadores alertan sobre la mejor eficiencia en la conversión de otros cultivos como el girasol. Por otro lado, la diversificación de fuentes para el biodiesel ayudaría a dar mayor flexibilidad a la producción y a reducir los riesgos del monocultivo.&lt;/p&gt;
@@ -88,10 +88,10 @@
     
     <item>
       <title>Ahorro energético domiciliario: Un balance entre diseño arquitectónico y hábitos de vida</title>
-      <link>https://ciencianet.github.io/post/ahorro-energetico-domiciliario-un-balance-entre-diseno-arquitectonico-y-habitos-de-vida/</link>
+      <link>https://ciencianet.com.ar/post/ahorro-energetico-domiciliario-un-balance-entre-diseno-arquitectonico-y-habitos-de-vida/</link>
       <pubDate>Tue, 18 Dec 2007 01:08:32 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/ahorro-energetico-domiciliario-un-balance-entre-diseno-arquitectonico-y-habitos-de-vida/</guid>
+      <guid>https://ciencianet.com.ar/post/ahorro-energetico-domiciliario-un-balance-entre-diseno-arquitectonico-y-habitos-de-vida/</guid>
       <description>
         
           &lt;p&gt;Un trabajo de investigarores de CONICET y de la Universidad Nacional de La Pampa analiza el ahorro energético en un edificio construido especialmene para estudiantes de bajos ingresos. El edificio, ubicado en la localidad de General Pico, está diseñado para hacer un uso eficiente de la energía del sol en forma pasiva.&lt;/p&gt;
@@ -111,32 +111,32 @@
     
     <item>
       <title>Lo técnico y lo humano en el desarrollo en electrónica</title>
-      <link>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</link>
+      <link>https://ciencianet.com.ar/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</link>
       <pubDate>Mon, 13 Aug 2007 01:32:00 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</guid>
+      <guid>https://ciencianet.com.ar/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Diego Vallejo&lt;/strong&gt;: Departamento de Ciencias Básicas, Facultad de Ingeniería, Universidad Nacional de La Plata.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Sin ciencia sería muy difícil mantener un estilo de vida como el que pretendemos tener.&lt;/em&gt;&lt;/strong&gt; ¿Qué cambia en un dispositivo electrónico cuando éste es llevado al espacio exterior? ¿Cómo se modifica un elemento de un circuito eléctrico frente al cambio de un material por otro? Y con una mirada más amplia: ¿qué contexto humano motiva y promueve el anteriormente citado trabajo de investigación? Estos son algunos de los temas conversados con los integrantes del Grupo de Estudio de Materiales y Dispositivos Electrónicos (GEMyDE), una unidad de investigación y desarrollo dependiente de la Facultad de Ingeniería de la Universidad Nacional de La Plata.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/foto0.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/foto0.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Cordialmente, con un mate compartido, entre libros, computadoras y la luz que penetra a través de los cristales del edificio de Electrotecnia de la Universidad Nacional de La Plata, comenzó la entrevista con los integrantes del GEMyDE: el Dr. Eitel Peltzer y Blancá (coordinador del grupo), el Ing. Ariel Cédola (docente investigador) y el Ing. Marcelo Cappelletti (becario y estudiante del doctorado).&lt;/p&gt;
 &lt;h3 id=&#34;i-el-contexto-técnico&#34;&gt;I. El Contexto Técnico&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/imagen-link.jpg&#34; alt=&#34;:left&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/imagen-link.jpg&#34; alt=&#34;:left&#34;&gt;
 –¿Cuáles son los objetivos del GEMyDE?&lt;/p&gt;
 &lt;p&gt;–&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: La idea central es tratar de desarrollar dispositivos electrónicos a través de modelos matemáticos, de manera de poder estudiarlos bajo cualquier medio ambiente y con diferentes materiales. Las actividades del grupo se inician en el año 2002, con una colaboración con la Comisión Nacional de Actividades Espaciales (CONAE).&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Ellos querían saber qué ocurría cuando sobre un dispositivo incide la radiación solar: protones, neutrones, además de luz, que producen disfunciones en el dispositivo. Nosotros estudiamos cuáles son las respuestas del elemento irradiado.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Ariel Cédola&lt;/strong&gt;: Particularmente en los satélites aparecen los efectos de la radiación espacial. Enfocamos nuestro análisis sobre los fotodiodos (que transforman luz en energía eléctrica), estudiando su degradación por el impacto de la radiación.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Marcelo Cappelletti&lt;/strong&gt;: Dado que estos diodos conducen sólo en presencia de radiación, resultan de especial interés para utilizarse como detectores de la misma.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Por otro lado estudiamos la “generación de dispositivos de diseño”, tema que comprende el estudio de la utilización de nuevos materiales dentro de la electrónica.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/foto2.jpeg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/foto2.jpeg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;-¿Cuál es el beneficio para la comunidad de su trabajo?&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Reducir costos, entre otros. Utilizar modelos matemáticos-computacionales con poder predictivo permite eliminar los ciclos de prueba y error que se requieren para la obtención de dichos dispositivos, con la consecuente disminución de los montos involucrados. Desde hace mucho tiempo se conoce la teoría de la interacción de la radiación con la materia. Sin embargo la falta de herramientas computacionales apropiadas limitaba el alcance de las predicciones sobre el comportamiento de los dispositivos electrónicos en esas condiciones. En el pasado la electrónica de un satélite o una nave espacial se triplicaba por seguridad, con el incremento en peso (que debe uno quitar de la tierra, y por tanto, el incremento en costo). Para estudiar estos temas, los integrantes del GEMYDE han decidido desarrollar un programa con código propio (en FORTRAN y Visual C++). Esto les significó una importante inversión en horas de trabajo de análisis y codificación, con la valiosa ventaja de poseer total libertad a la hora de modificarlo e implementar nuevas funcionalidades, y nuevos algoritmos, cosa imposible en los programas de &amp;quot;código cerrado&amp;quot;.&lt;/p&gt;
 &lt;h3 id=&#34;ii-el-contexto-humano&#34;&gt;II. El Contexto Humano&lt;/h3&gt;
 &lt;p&gt;-Estas actividades ocurren en un contexto personal y humano. En ese orden, Dr. Peltzer, recientemente ha sido usted designado Secretario de Ciencia y Técnica de la Universidad. ¿Qué rol le cabe al Secretario dentro de la Universidad?&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: La Universidad de La Plata fue pensada de manera diferente de otras universidades donde sólo se pretendía enseñar. En la Universidad de la Plata se pretende enseñar e investigar. En ese sentido, la Secretaría de Ciencia y Técnica debería estar muy desarrollada, debería establecer una fuerte conexión entre las Facultades, no solamente de la Secretaría con las Facultades, sino fomentar especialmente la conexión de las Facultades entre sí, para tratar de desarrollar tareas multidisciplinarias. Las ciencias deberían estar conectadas entre ellas buscando las respuestas que la sociedad requiere. Obviamente sin ciencia sería muy difícil mantener un estilo de vida como el que pretendemos tener. -En los organismos científicos algunas veces parece notarse que la evaluación de las actividades de los investigadores no promueve estos objetivos.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Eitel Peltzer&lt;/strong&gt;: Nosotros no tenemos una cultura de interdisciplinariedad. Es un desafío, como para que organismos como el CONICET, Secyt, FONCYT interpreten que se puedan establecer tanto nuevos mecanismos de funcionamiento entre grupos como evaluaciones que los puedan contemplar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/foto1.jpeg&#34; alt=&#34;:left&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/foto1.jpeg&#34; alt=&#34;:left&#34;&gt;
 -Para ustedes, en este trabajo, ¿en qué consiste tener éxito?&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Ariel Cédola&lt;/strong&gt;: Bueno, estamos contentos, no importa que no seamos tan numerosos, que no tengamos tantos recursos, pero trabajando de esta manera, con la comunión, con el ritmo, con los objetivos a corto y mediano plazo, pienso que el éxito es cuestión de tiempo, está asegurado. La buena relación que tengamos entre nosotros hace que el clima de trabajo sea bueno, que sea con toda seriedad con todo el compromiso, y eso genera una unión muy fuerte.&lt;/p&gt;
 &lt;p&gt;-&lt;strong&gt;Marcelo Cappelletti&lt;/strong&gt;: Eitel nos brinda la libertad para trabajar e incursionar sobre los temas que nos interesan, esto lo hace un ambiente muy favorable.&lt;/p&gt;
@@ -154,16 +154,16 @@
     
     <item>
       <title>¿Wi Tricity? Transferencia de potencia sin cables</title>
-      <link>https://ciencianet.github.io/post/wi-tricity-transferencia-de-potencia-sin-cables/</link>
+      <link>https://ciencianet.com.ar/post/wi-tricity-transferencia-de-potencia-sin-cables/</link>
       <pubDate>Sat, 16 Jun 2007 01:57:04 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/wi-tricity-transferencia-de-potencia-sin-cables/</guid>
+      <guid>https://ciencianet.com.ar/post/wi-tricity-transferencia-de-potencia-sin-cables/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Ramiro Irastorza.&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
 &lt;p&gt;Imagine un futuro en el que sea posible la transmisión de potencia a través del aire: teléfonos celulares (o móviles), robots hogareños, reproductores de mp3, computadoras personales y otros dispositivos electrónicos portátiles que sean capaces de recargar sus baterías por sí solos sin que tengamos que conectar cable ni cargador alguno. Un equipo del MIT (integrado por el departamento de Física, el de Ingeniería Eléctrica y el de Ciencias de la Computación) en conjunto con el &lt;em&gt;Institute for Soldier Nanotechnologies&lt;/em&gt; (ISN) desarrolló experimentalmente un importante paso en esa dirección. Usando bobinados resonantes fuertemente acoplados, demostraron una transferencia no radiante y eficiente (40%) a distancias de hasta ocho veces el radio de los resonadores (ellos mismos la denominaron WiTricity). Desarrollaron un modelo cuantitativo capáz de describir la transferencia de potencia con errores de solo el 5%.&lt;/p&gt;
 &lt;p&gt;La transmisión de potencia sin cable es conocida hace ya varias décadas, quizas el mejor ejemplo sea la radiación electromagnética (ondas de radio). Si bien este tipo de transferencia es buena para la información no es eficiente para la transmisión de potencia. Gran parte de de la misma se perdería en el espacio porque la radiación se emite en todas direcciones. Por el contrario, WiTricity se basa en el uso de objetos resonantes acoplados. Dos objetos resonantes acoplados con la misma frecuencia intercambian energía de manera eficiente (por ejemplo: un transformador), si en cambio no tienen la misma frecuencia de resonancia la interacción es débil. Un ejemplo acústico: imagine una habitación con vasos de vino cada llenados con distintos niveles. Si un cantante de opera emite una nota lo suficientemente alta, será capaz de romper el vaso &amp;quot;afinado&amp;quot; a esa nota mientras que los otros vasos permanecen inadvertidos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/06/witricity.png&#34; alt=&#34;Esquema del dispositivo experimental.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/06/witricity.png&#34; alt=&#34;Esquema del dispositivo experimental.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Este grupo de investigadores se concentró en un sistema de dos bobinados de cobre (uno conectado a la fuente y el receptor a una bombilla de 60W, ver Imagen) acoplados fuertemente a través de sus campos magnéticos (a una frecuencia del orden de los MHz).&lt;/p&gt;
 &lt;p&gt;Lo interesante de esto es que los medios biológicos interactúan muy debilmente con los campos magnéticos , así como también los objetos no acoplados, por lo que sería una forma segura de transmisión. Además, al ser no radiativa, la energía que no se transfiere al bobinado receptor queda limitada en el bobinado fuente.&lt;/p&gt;
 &lt;p&gt;Si bien el principio es conocido hace más de un siglo la demanda de este tipo de transmisión es reciente. No existían dispositivos electrónicos portátiles, laptops, teléfonos celulares, robots, etc. Este tipo de invenciones serviría para recargar las batería de forma automática o, eventualmente, ni si quiera utilizarlas.&lt;/p&gt;
@@ -177,14 +177,14 @@
     
     <item>
       <title>Almidón de amaranto precocido con aire caliente</title>
-      <link>https://ciencianet.github.io/post/almidon-de-amaranto-precocido-con-aire-caliente/</link>
+      <link>https://ciencianet.com.ar/post/almidon-de-amaranto-precocido-con-aire-caliente/</link>
       <pubDate>Sat, 31 Mar 2007 02:37:01 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/almidon-de-amaranto-precocido-con-aire-caliente/</guid>
+      <guid>https://ciencianet.com.ar/post/almidon-de-amaranto-precocido-con-aire-caliente/</guid>
       <description>
         
           &lt;p&gt;Investigadores de cuatro universidades argentinas estudian las propiedades fisicoquímicas que se pueden dar a una harina de amaranto cruda usando un proceso de precocido en seco. El amaranto es rico en almidón y proteínas y era muy usado por las culturas precolombinas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/03/Amaranthus_cruentus1.jpg&#34; alt=&#34;Amaranthus cruentus: especie cultivada en Río Cuarto para la producción de la harina. Imagen de Kurt Stüber CC BY-SA 3.0:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/03/Amaranthus_cruentus1.jpg&#34; alt=&#34;Amaranthus cruentus: especie cultivada en Río Cuarto para la producción de la harina. Imagen de Kurt Stüber CC BY-SA 3.0:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;R. Gonzalez, E. Tosi, E. Ré, M. C. Añón, A. M. R. Pilosof y K. Martinez usaron harina de amaranto convenientemente molida para obtener un alto contenido de almidón y precocieron la harina con aire a alta temperatura (alrededor de 200 grados centígrados) durante 18 segundos usando un bajo contenido de humedad. Luego realizaron estudios detallados de propiedades fisicoquímicas de la harina como la solubilidad en agua, la capacidad de absorción de agua (fundamental a la hora del amasado), la capacidad de formar geles y las propiedades elásticas y viscosas de estos geles.&lt;/p&gt;
 &lt;p&gt;La harina de amaranto que se utiliza como materia prima es obtenida por la implementación de un sistema de molienda y separación denominado &lt;em&gt;molienda diferencial&lt;/em&gt; desarrollado en el CIDTA. Con la aplicación de esta técnica se obtienen tres harinas: una rica en almidón, otra rica en fibra dietética y una tercera rica en proteínas. La primera de estas es usada para la cocción con aire caliente.&lt;/p&gt;
 &lt;p&gt;Los investigadores consiguieron obtener harinas de amaranto de alto contenido de almidón con baja solubilidad en agua y de carácter sólido y alta consistencia después de cocidas. Estas propiedades son especialmete deseables en aplicaciones industriales. Por otro lado, el cocido en seco es muy rápido y evita el proceso de precocción húmeda que requiere un posterior secado para su posterior procesamiento y comercialización.&lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Láser on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/l%C3%A1ser/</link>
+    <link>https://ciencianet.com.ar/tags/l%C3%A1ser/</link>
     <description>Recent content in Láser on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 15 Mar 2009 21:49:21 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/l%C3%A1ser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2009 21:49:21 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/l%C3%A1ser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Una mirada láser sobre el pasado: instrumentos arqueológicos de roca estudiados mediante microscopía confocal de barrido</title>
-      <link>https://ciencianet.github.io/post/una-mirada-laser-sobre-el-pasado-instrumentos-arqueologicos-de-roca-estudiados-mediante-microscopia-confocal-de-barrido/</link>
+      <link>https://ciencianet.com.ar/post/una-mirada-laser-sobre-el-pasado-instrumentos-arqueologicos-de-roca-estudiados-mediante-microscopia-confocal-de-barrido/</link>
       <pubDate>Sun, 15 Mar 2009 21:49:21 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/una-mirada-laser-sobre-el-pasado-instrumentos-arqueologicos-de-roca-estudiados-mediante-microscopia-confocal-de-barrido/</guid>
+      <guid>https://ciencianet.com.ar/post/una-mirada-laser-sobre-el-pasado-instrumentos-arqueologicos-de-roca-estudiados-mediante-microscopia-confocal-de-barrido/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Paula Bergero.&lt;/strong&gt; Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/03/Philos1.jpg&#34; alt=&#34;Imagen del equipo utilizado.:left&#34;&gt; En general, en el mundo de la arqueología se acepta que pueden diferenciarse las superficies de piedra de objetos arqueológicos cortantes que hayan sido pulidas por su uso sobre distintos materiales (madera, hueso, cuero). Sin embargo, las técnicas tradicionales de identificación microscópicas se consideran actualmente subjetivas y sujetas al sesgo de la observación humana.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/03/Philos1.jpg&#34; alt=&#34;Imagen del equipo utilizado.:left&#34;&gt; En general, en el mundo de la arqueología se acepta que pueden diferenciarse las superficies de piedra de objetos arqueológicos cortantes que hayan sido pulidas por su uso sobre distintos materiales (madera, hueso, cuero). Sin embargo, las técnicas tradicionales de identificación microscópicas se consideran actualmente subjetivas y sujetas al sesgo de la observación humana.&lt;/p&gt;
 &lt;p&gt;A partir de este problema, en las últimas décadas se han desarrollado diversas técnicas más o menos exitosas. En este contexto, en el Laboratorio de Procesamiento Láser del CIOP, con participación del Departamento de Física, la Facultad de Informática de la Universidad Nacional La Plata y el Museo de Antropología de la Universidad Nacional de Córdoba, se desarrolló un conjunto de programas de análisis de imágenes llamado Philos.&lt;/p&gt;
 &lt;p&gt;Este paquete fue diseñado por Damián Gulich, Roxana Cattaneo, Nahuel Lofeudo, Pablo Meilán y Mario Garavaglia. Philos fue creado específicamente para el estudio y la caracterización funcional de instrumentos arqueológicos de roca, como hachas y cuchillos, permitiendo determinar el uso particular que tuvieron. Mediante el escaneo de los filos de los instrumentos con un Microscopio Láser Confocal de Barrido (CLSM) [&lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;] y el posterior análisis con Philos de las imágenes obtenidas es posible entonces estimar automáticamente si un instrumento de roca fue empleado por ejemplo, para cortar carne seca o para tallar madera. ¿Cómo se realiza la identificación? Comparando la imagen obtenida con un conjunto de imágenes de referencia provenientes de una colección experimental con patrones de uso conocidos, hecha para tal propósito.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/03/Philos2.jpg&#34; alt=&#34;Algunos resultados del análisis arqueológico.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/03/Philos2.jpg&#34; alt=&#34;Algunos resultados del análisis arqueológico.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Los autores estudiaron también los requerimientos mínimos de magnificación de la imagen, así como el tiempo de uso de la pieza que resultan necesarios para poder establecer un análisis con valor diagnóstico de la pieza estudiada, información que resulta muy relevante en Arqueología. El uso del CLSM y el paquete Philos presentan ventajas en cuanto a la fiabilidad con respecto a los métodos usados tradicionalmente para el estudio de instrumentos líticos.&lt;/p&gt;
 &lt;p&gt;Los investigadores han aplicado con éxito el software Philos a materiales líticos provenientes de sitios arqueológicos de la Patagonia argentina, donde las estimaciones de uso del paquete de programas fueron confirmadas por la técnica de espectrofotometría infrarroja [&lt;a href=&#34;#2&#34;&gt;2&lt;/a&gt;] de los residuos de materiales pegados a las piezas.&lt;/p&gt;
 &lt;p&gt;Para obtener más información sobre Philos puede consultarse a &lt;a href=&#34;mailto:dgulich@ciop.unlp.edu.ar&#34;&gt;dgulich@ciop.unlp.edu.ar&lt;/a&gt;&lt;/p&gt;

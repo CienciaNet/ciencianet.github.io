@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pájaros on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/p%C3%A1jaros/</link>
+    <link>https://ciencianet.com.ar/tags/p%C3%A1jaros/</link>
     <description>Recent content in Pájaros on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Apr 2013 01:04:14 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/p%C3%A1jaros/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Apr 2013 01:04:14 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/p%C3%A1jaros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Física y biología para develar misterios del control motor durante el canto de las aves</title>
-      <link>https://ciencianet.github.io/post/fisica-y-biologia-para-develar-misterios-del-control-motor-durante-el-canto-de-las-aves/</link>
+      <link>https://ciencianet.com.ar/post/fisica-y-biologia-para-develar-misterios-del-control-motor-durante-el-canto-de-las-aves/</link>
       <pubDate>Thu, 25 Apr 2013 01:04:14 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/fisica-y-biologia-para-develar-misterios-del-control-motor-durante-el-canto-de-las-aves/</guid>
+      <guid>https://ciencianet.com.ar/post/fisica-y-biologia-para-develar-misterios-del-control-motor-durante-el-canto-de-las-aves/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Ana Amador.&lt;/strong&gt; Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. CONICET.&lt;/p&gt;
 &lt;p&gt;El modo en que las aves aprenden a cantar es uno de los pocos ejemplos que existen en el reino animal de aprendizaje vocal, siendo un proceso similar al que seguimos los humanos para aprender a hablar. Además del aprendizaje, la ejecución de un canto es en sí misma una tarea compleja ya que requiere una fina coordinación del sistema respiratorio y el sistema muscular que controla la fuente sonora (similar a las cuerdas vocales de humanos). Debido a esto, es de gran interés el estudio de las instrucciones neuronales utilizadas durante la ejecución de un comportamiento complejo como es el canto.&lt;/p&gt;
 &lt;p&gt;Un trabajo de colaboración entre la Universidad de Buenos Aires (Yonatan Sanz Perl y Gabriel B. Mindlin) y la Universidad de Chicago (Ana Amador y Daniel Margoliash) permitió mostrar, midiendo cómo el sistema neuronal procesa la información recibida, que un ave puede reconocer un canto sintético (simulado por un modelo físico-matemático) como su propio canto.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2013/04/amador-300x211.jpeg&#34; alt=&#34;Diamante mandarín.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2013/04/amador-300x211.jpeg&#34; alt=&#34;Diamante mandarín.:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La reducción del número de variables necesarias propuesta desde la física permitió generar una nueva hipótesis sobre el código neuronal utilizado para el procesamiento y generación del canto. En el Laboratorio de Sistemas Dinámicos de la Facultad de Ciencias Exactas y Naturales (UBA), Gabriel Mindlin y colaboradores generaron un modelo físico para la producción de canto de aves cuyo resultado es un canto sintético que puede compararse con el canto real del ave.&lt;/p&gt;
 &lt;p&gt;Este modelo logró una reducción muy importante del número de variables incluidas en el problema: ajustando sólo dos parámetros fue posible reproducir el canto del diamante mandarín (Taeniopygia Guttata). Si bien los cantos sintéticos y reales eran muy similares, la pregunta del millón era si estos cantos sintéticos sonaban reales para el ave. Para evaluarlo, en este trabajo nos propusimos medir las respuestas neuronales.&lt;/p&gt;
 &lt;p&gt;En el cerebro de las aves canoras, existen núcleos neuronales que responden específicamente al escuchar el canto propio, y no responden al escuchar otros estímulos como ruido o tonos, pero más importante, tampoco responden a cantos de otros individuos de la misma especie (conespecíficos) o al canto del propio ave si es modificado intencionalmente. Es por esto que estas neuronas se conocen como selectivas al canto propio.&lt;/p&gt;

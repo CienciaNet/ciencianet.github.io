@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nanotubos on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/nanotubos/</link>
+    <link>https://ciencianet.com.ar/tags/nanotubos/</link>
     <description>Recent content in Nanotubos on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Mar 2008 00:26:39 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/nanotubos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2008 00:26:39 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/nanotubos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nanotubos contrabandean moléculas anti-VIH dentro de células</title>
-      <link>https://ciencianet.github.io/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</link>
+      <link>https://ciencianet.com.ar/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</link>
       <pubDate>Wed, 19 Mar 2008 00:26:39 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</guid>
+      <guid>https://ciencianet.com.ar/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Manuel Carlevaro:&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET-UNLP) y Universidad Tecnológica Nacional.&lt;/p&gt;
 &lt;p&gt;Nanotubos de carbono han sido utilizados para contrabandear moléculas que bloquean el VIH dentro de células humanas. Aunque es un resultado preliminar, el descubrimiento podría conducir a nuevos tratamientos contra el virus. Una característica de la ribointerferencia, las moléculas de &lt;a href=&#34;http://es.wikipedia.org/wiki/ARN_interferente&#34;&gt;ARN interferente pequeño&lt;/a&gt; (ARNip), han sido sugeridas como tratamiento contra el VIH en el pasado. Su capacidad de destrucción del ARN mensajero permite utilizarlas para bloquear la producción de células superficiales receptoras de proteínas de las que depende el VIH para invadir células del sistema inmunológico conocidas como &lt;a href=&#34;http://es.wikipedia.org/wiki/Linfocito_T&#34;&gt;linfocitos T&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2017/12/nanot-vih.jpg&#34; alt=&#34;Nanotubos portadores: Proteinas receptoras en linfocitos T se muestran en rojo (arriba). Los nanotubos equipados con ARNip apagan la expresión de los receptores (abajo).:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2017/12/nanot-vih.jpg&#34; alt=&#34;Nanotubos portadores: Proteinas receptoras en linfocitos T se muestran en rojo (arriba). Los nanotubos equipados con ARNip apagan la expresión de los receptores (abajo).:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;El problema es cómo introducir el ARNip en las células en primer lugar. La utilización de una burbuja de grasa llamada liposoma funciona bien con células de cáncer pero no parece resultar con linfocitos T. Una alternativa es el uso de virus para introducir ADN que codifica la producción de ARNip, pero esta técnica preocupa a algunos científicos porque es difícil controlar con precisión dónde se incorpora el ADN en el genoma, y la ubicación errónea puede causar cáncer.&lt;/p&gt;
 &lt;p&gt;Ahora, la química Hongjie Dai y colegas de la Universidad de Stanford, en California, han mostrado que el ARNip puede adjuntarse a nanotubos de carbono. Estos nanotubos penetran las membranas de los linfocitos T y depositan el ARNip dentro de las células sin alterar el ADN. Ellos sugieren que algún día una solución de nanotubos equipados con ARNip podrían combatir el VIH luego de ser inyectados en el flujo sanguíneo del paciente.&lt;/p&gt;
 &lt;p&gt;El equipo adjuntó dos tipos de ARNip: uno diseñado para bloquear una proteína receptora llamada CD4 y otra para bloquear un receptor llamado CXCR4. Ambas son utilizados por una variedad del VIH para atacar células. Cuando los nanotubos equipados con ARNip se aplicaron a linfocitos T humanos, el equipo encontró que el 60% de la expresión de CD4 y el 80% de la expresión CXCR4 fueron bloqueadas.&lt;/p&gt;

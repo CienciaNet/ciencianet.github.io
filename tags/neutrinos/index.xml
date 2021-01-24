@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neutrinos on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/neutrinos/</link>
+    <link>https://ciencianet.com.ar/tags/neutrinos/</link>
     <description>Recent content in Neutrinos on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 08 Nov 2011 01:44:34 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/neutrinos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2011 01:44:34 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/neutrinos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La supuesta detección de velocidades superlumínicas de los neutrinos</title>
-      <link>https://ciencianet.github.io/post/la-supuesta-deteccion-de-velocidades-superluminicas-de-los-neutrinos/</link>
+      <link>https://ciencianet.com.ar/post/la-supuesta-deteccion-de-velocidades-superluminicas-de-los-neutrinos/</link>
       <pubDate>Tue, 08 Nov 2011 01:44:34 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/la-supuesta-deteccion-de-velocidades-superluminicas-de-los-neutrinos/</guid>
+      <guid>https://ciencianet.com.ar/post/la-supuesta-deteccion-de-velocidades-superluminicas-de-los-neutrinos/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Gaston E. Giribet.&lt;/strong&gt; Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires y CONICET.&lt;/p&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;La existencia de los neutrinos fue predicha en la década de 1930 por W. Pauli, y éstos fueron observados recién a mediados de la década de 1950. Hace tan solo una década que se consiguió evidencia significativa de que los neutrinos tienen masa (durante mucho tiempo se creyó que no era así) y que debido a la pequeñísima masa que tienen (a lo sumo unos pocos electronvoltios, i.e. cerca de una milmillonésima parte de la masa de un átomo de hidrógeno) se comportan de manera muy curiosa, cambiando sus propiedades con alternancia, oscilando su identidad a medida que viajan.&lt;/p&gt;
 &lt;p&gt;Y como si este deambular esquizofrénico no fuera ya suficiente para merecer nuestra sorpresa, se suma hoy el notable anuncio de los científicos en el Gran Sasso. Si sus mediciones resultaran ciertas, algunos neutrinos viajarían más rápidamente que la luz, excediendo la velocidad de ésta en una parte en cienmil. La forma en la que los físicos dicen haber medido este efecto es sencillo de explicar, aunque muy difícil de implementar experimentalmente dada la gran cantidad de detalles a los que es menester atender: los físicos del laboratorio italiano se disponen a medir con gran exactitud la distancia recorrida por un rayo de neutrinos y medir también el tiempo empleado en recorrer dicha distancia. Luego, la velocidad a la que los neutrinos viajan se obtiene, como sabemos desde el preescolar, al dividir la distancia por el tiempo empleado en recorrerla.&lt;/p&gt;
 &lt;p&gt;Los neutrinos son partículas que interaccionan muy débilmente con la materia, razón por la cual es imposible evitar que rayos de estas partículas escapen tras las paredes de los aceleradores de partículas como producto residual de tales experimentos. Los físicos, lejos de desaprovechar esos neutrinos escapistas, aprovechan los rayos para realizar otros experimentos y entender así sus propiedades. De hecho, fue este el truco empleado para detectarlos en los 50s. Y es esto lo que ocurre también con los neutrinos producidos en el acelerador del CERN, en la frontera franco-suiza.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2011/11/OPERAdetector-300x201.jpg&#34; alt=&#34;Detector del experimento OPERA.:left&#34; title=&#34;Detector del experimento OPERA&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2011/11/OPERAdetector-300x201.jpg&#34; alt=&#34;Detector del experimento OPERA.:left&#34; title=&#34;Detector del experimento OPERA&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Luego de abandonar los detectores de muones del CERN, los neutrinos producidos allí viajan cerca de 732 kilómetros hasta la cordillera de los Apeninos, donde son detectados por el experimento llamado OPERA, que está ubicado bajo 1400 metros de piedra, en el Laboratorio Nacional Gran Sasso de Italia.&lt;/p&gt;
 &lt;p&gt;Debido a la mencionada propiedad de interaccionar débilmente con la materia, los neutrinos ven al macizo Gran Sasso casi transparente, y es esa la razón por la que el experimento se encuentra en las profundidades, cobijado por la piedra, donde prácticamente sólo los neutrinos pueden llegar. Cabe mencionar que no es esta la primera vez que se observa este tipo de comportamiento super-lumínico de los neutrinos. Resultados similares habían ya sido obtenidos por el experimento denominado MINOS, ubicado en Medio Oeste de los Estados Unidos. No obstante, el grado de exactitud de OPERA es mucho mayor y es esto lo que hace tan importante el anuncio.&lt;/p&gt;
 &lt;p&gt;También sería necesario explicar cómo el hecho de que estos neutrinos producidos en el CERN y detectados en el Gran Sasso superen la velocidad de la luz no entra en tajante contradicción con las observaciones de neutrinos provenientes de supernovas lejanas, como es el caso de la supernova SN1987a cuya emisión de anti-neutrinos fue detectada en el momento esperado, en concordancia con los modelos de evolución estelar. Los neutrinos son emitidos pocas horas antes del estallido de luz en una supernova de esas características, y los neutrinos de SN1987a fueron observados precisamente con esa antelación, y no una mayor, a la emisión de luz asociada. Si aquellos neutrinos producidos en la explosión SN1987, acaecida a una distancia de 168.000 años luz de la tierra, hubieran tenido la velocidad que se les adjudica a los neutrinos italianos, entonces habrían aquéllos arribado a la tierra varios años antes.&lt;/p&gt;

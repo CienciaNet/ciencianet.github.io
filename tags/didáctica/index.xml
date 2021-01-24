@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Didáctica on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/did%C3%A1ctica/</link>
+    <link>https://ciencianet.com.ar/tags/did%C3%A1ctica/</link>
     <description>Recent content in Didáctica on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jul 2010 20:51:47 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/did%C3%A1ctica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2010 20:51:47 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/did%C3%A1ctica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cinemática: de los números a las representaciones algebraicas</title>
-      <link>https://ciencianet.github.io/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</link>
+      <link>https://ciencianet.com.ar/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</link>
       <pubDate>Thu, 22 Jul 2010 20:51:47 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</guid>
+      <guid>https://ciencianet.com.ar/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Paula Bergero&lt;/strong&gt;. Facultad de Ciencias Exactas (UNLP).&lt;/p&gt;
 &lt;p&gt;Trabajos previos (Redish; 2005, 2009) muestran que los matemáticos hacen una lectura diferente de las ecuaciones respecto de la que hacen los físicos, quienes incluyen cuestiones como las unidades, la diferencia entre variables, condiciones iniciales y constantes y las cuestiones de notación. El conocimiento de matemática parece entonces necesario pero no suficiente para lograr un aprendizaje en física.&lt;/p&gt;
 &lt;p&gt;Con el objetivo de describir e interpretar los mecanismos de los estudiantes al resolver problemas de física las investigadoras tomaron un cuestionario a alumnos universitarios. En él se pedía, en primer lugar, la resolución de problemas sencillos cinemática (cálculo de velocidades medias, distancias recorridas y tiempos de llegada). Luego se les presentaba la expresión algebraica para la velocidad media y se les pedía que la usaran resolver problemas. En ambos casos se les solicitaba que dijeran cuál era la cuenta que empleaban para responder. Finalmente, se les pedía “despejar” una variable de una fórmula algebraica, fuera de todo planteo físico.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/07/profesor-300x225.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/07/profesor-300x225.jpg&#34; alt=&#34;:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Entre los resultados reportados sorprende la variedad de procedimientos realizados por los alumnos en situaciones tan sencillas, aunque casi la mitad de los encuestados resolvieron la primera parte con la popular “regla de tres”. Pero además este estudio señala cierta independencia entre la capacidad de los alumnos para resolver problemas algebraicos cuando no se asigna ningún sentido físico a las variables y cuando las fórmulas representan un problema físico particular.&lt;/p&gt;
 &lt;p&gt;Si se trata de resolver un problema concreto de física, los alumnos muestran dificultades para trabajar con expresiones algebraicas sin reemplazar todas las cantidades por valores numéricos. Pero paradójicamente pueden operar con estas expresiones “sin datos”, si se encuentran fuera del contexto de un problema.&lt;/p&gt;
 &lt;p&gt;Esta línea de trabajo parece indicar entonces que las dificultades en el uso de la matemática para resolver problemas de física no pueden “patearse fuera de la cancha” adjudicándoselas a deficiencias de bagaje matemático con que los alumnos llegan a los cursos, sino que son propias del uso particular que hace la física de ese lenguaje y no pueden atribuirse únicamente a problemas conceptuales o algebraicos.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Física no lineal on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/f%C3%ADsica-no-lineal/</link>
+    <link>https://ciencianet.com.ar/tags/f%C3%ADsica-no-lineal/</link>
     <description>Recent content in Física no lineal on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 24 Aug 2007 01:30:37 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/f%C3%ADsica-no-lineal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Aug 2007 01:30:37 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/f%C3%ADsica-no-lineal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El problema de Fermi, Pasta y Ulam: “Un pequeño descubrimiento”</title>
-      <link>https://ciencianet.github.io/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</link>
+      <link>https://ciencianet.com.ar/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</link>
       <pubDate>Fri, 24 Aug 2007 01:30:37 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</guid>
+      <guid>https://ciencianet.com.ar/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Fernando Vericat:&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2007/08/maniac-1-300x224.jpg&#34; alt=&#34;MANIAC.:left&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2007/08/maniac-1-300x224.jpg&#34; alt=&#34;MANIAC.:left&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A principios de 1952 la computadora MANIAC-I (Mathematical Analyzer Numerical Integrator And Calculator) fue puesta en servicio en Los Alamos. A mediados de ese mismo año, el físico Enrico Fermi decidió poner a prueba la potencialidad de la misma y propuso considerar la posibilidad de utilizarla como herramienta para investigar problemas dinámicos no lineales mediante “experimentos” numéricos. Con ese fin se asoció con el especialista en computación John Pasta y el matemático Stanislaw Ulam.&lt;/p&gt;
 &lt;p&gt;El problema que eligieron para comenzar puede calificarse de modesto para los estándares actuales de computación: un conjunto de N = 32 masas puntuales iguales que pueden moverse a lo largo de una recta. Cada masa está unida a la anterior y a la siguiente mediante un resorte y los extremos de esta cadena están fijos. Los resortes fueron considerados como cuasi ideales, superponiendo a la fuerza lineal, característica de resortes que se comportan idealmente como osciladores armónicos, una pequeña fuerza perturbativa, cuadrática con la distancia entre las correspondientes masas vecinas.&lt;/p&gt;
 &lt;p&gt;Sabemos de los textos de Física básica que para el sistema no-perturbado, las N acciones, además de la energía total, son también constantes de movimiento. En consecuencia, para un conjunto de acciones dadas, el sistema no puede recorrer toda la superficie de energía total constante sino que la trayectoria estará restringida a una curva específica (la curva que es la intersección de todas las superficies admitidas, una para cada acción).&lt;/p&gt;

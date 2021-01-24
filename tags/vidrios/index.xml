@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vidrios on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/vidrios/</link>
+    <link>https://ciencianet.com.ar/tags/vidrios/</link>
     <description>Recent content in vidrios on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Jun 2009 21:29:16 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/vidrios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2009 21:29:16 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/vidrios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué sucede dentro un líquido cuando se transforma en un vidrio?</title>
-      <link>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</link>
+      <link>https://ciencianet.com.ar/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</link>
       <pubDate>Mon, 29 Jun 2009 21:29:16 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</guid>
+      <guid>https://ciencianet.com.ar/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Rodolfo Borzi.&lt;/strong&gt; Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA).&lt;/p&gt;
 &lt;p&gt;Las computadoras nos permiten simular y explorar microscópicamente líquidos y sólidos, y también materiales que parecen tener similitudes con ambos: los llamamos vidrios estructurales. Los vidrios son rígidos, como los cristales, pero con una estructura atómica que parece desordenada, como en los líquidos. Pese a ello, resultados recientes muestran que una cierta forma de orden comienza a establecerse en un líquido antes de vitrificarse.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Una foto del problema&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2009/06/vidrios.png&#34; alt=&#34;Representación esquemática (en dos dimensiones) de configuraciones típicas de un arreglo cristalino, un gas, un líquido y un vidrio. En el caso del líquido hemos señalado una esfera de radio R y coloreado en celeste los átomos cuyo centro es interior a la misma (ver la sección &#39;El trabajo, en detalle&#39;). El estado de un material dado puede especificarse dando un número (enorme) de estas fotos o configuraciones.:right&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2009/06/vidrios.png&#34; alt=&#34;Representación esquemática (en dos dimensiones) de configuraciones típicas de un arreglo cristalino, un gas, un líquido y un vidrio. En el caso del líquido hemos señalado una esfera de radio R y coloreado en celeste los átomos cuyo centro es interior a la misma (ver la sección &#39;El trabajo, en detalle&#39;). El estado de un material dado puede especificarse dando un número (enorme) de estas fotos o configuraciones.:right&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Supongamos que tuviéramos una cámara que nos permite sacar fotos microscópicas, con un aumento tal que podemos ver cómo se arreglan los átomos que conforman un material. La temperatura tiende a desordenar a los átomos del sistema (más en los gases, menos en los sólidos cristalinos), de manera que dos fotos tomadas a un mismo material en las mismas condiciones no serán necesariamente iguales. ¿Podríamos conocer las propiedades del material a partir de la información contenida en un conjunto de estas fotos?&lt;/p&gt;
 &lt;p&gt;La respuesta es –si conocemos cómo interactúan entre sí los átomos, y la temperatura— que generalmente sí podemos hacerlo. Esta posibilidad se relaciona con un procedimiento que solemos utilizar para entender cómo se comporta un material: instruimos a una computadora para que genere un conjunto grande de estas fotografías o &lt;em&gt;configuraciones&lt;/em&gt; según una receta. El conjunto de configuraciones constituyen un &lt;em&gt;estado&lt;/em&gt; del sistema. Los estados que mejor conocemos son los más simples de todos: aquellos en los que el paso del tiempo no juega ningún rol. La receta, entonces, suele generar este tipo de estados, que llamamos &lt;em&gt;estados en equilibrio termodinámico&lt;/em&gt;. Sin embargo, este punto de vista es problemático para describir algunos materiales, entre ellos los llamados &lt;em&gt;vidrios estructurales&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Estos vidrios son materiales sólidos que (como el vidrio común, cuyo nombre toman prestado) se obtienen a partir de un líquido enfriado en condiciones tales que no llega a formarse un cristal. El problema que surge puede plantearse de la siguiente forma. Si tomáramos un conjunto de fotos microscópicas de un líquido, veríamos que estas tienen un aspecto muy similar a las de los vidrios (ver recuadro). En ambos materiales podrían verse a los átomos con casi igual grado de apiñamiento (mucho mayor que para un gas). También el grado de desorden atómico sería similar en las fotos del líquido que en las del vidrio. Y sin embargo, el líquido puede fluir, mientras el vidrio es –a efectos prácticos– rígido, como un cristal. A todas luces, aunque sus fotografías no parecen ser muy distintas, las propiedades físicas sí lo son.&lt;/p&gt;

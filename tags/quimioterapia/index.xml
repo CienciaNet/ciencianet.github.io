@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quimioterapia on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/quimioterapia/</link>
+    <link>https://ciencianet.com.ar/tags/quimioterapia/</link>
     <description>Recent content in Quimioterapia on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Jun 2007 01:54:52 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/quimioterapia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jun 2007 01:54:52 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/quimioterapia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modelo matemático para el tratamiento de quimioterapia sobre tumores cancerosos</title>
-      <link>https://ciencianet.github.io/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</link>
+      <link>https://ciencianet.com.ar/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</link>
       <pubDate>Wed, 27 Jun 2007 01:54:52 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</guid>
+      <guid>https://ciencianet.com.ar/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</guid>
       <description>
         
-          &lt;p&gt;El cáncer es originado por la mutación en una única célula que exhibe un crecimiento descontrolado, rompiendo la cooperación que mantiene la integridad del organismo. Un modelo matemático permite simular el crecimiento de un tumor de células cancerosas y los efectos que la quimioterapia tiene sobre él.&lt;/p&gt;
+          &lt;p&gt;&lt;strong&gt;Luis Pugnaloni.&lt;/strong&gt; Instituto de Física de Líquidos y Sistemas Biológicos (CONICET - UNLP).&lt;/p&gt;
+&lt;p&gt;El cáncer es originado por la mutación en una única célula que exhibe un crecimiento descontrolado, rompiendo la cooperación que mantiene la integridad del organismo. Un modelo matemático permite simular el crecimiento de un tumor de células cancerosas y los efectos que la quimioterapia tiene sobre él.&lt;/p&gt;
 &lt;p&gt;El trabajo de S. Menchón y C. Condat, de la Facultad de Matemática, Astronomía y Física de la Universidad Nacional de Córdoba, presenta un modelo mesoscópico de comportamiento de un tumor. Los casilleros de una gran grilla se llenan con números que representan la cantidad de células cancerosas vivas, células cancerosas muertas y nutrientes disponibles en una región del tejido afectado. Una simulación por computadora se ocupa de ir cambiando estos valores según las células se alimentan reproducen, migran de una región a otra y mueren. Las células se reproducen cuando la cantidad de alimentos es abundante y migran o mueren cuando los alimentos escasean. El tejido así simulado es alimentado por un vaso sanguíneo próximo que suministra nutrientes en forma constante.&lt;/p&gt;
 &lt;p&gt;La simulación muestra que, en determinadas condiciones, durante su crecimiento, un tumor desarrolla una forma redondeada con células proliferativas (que se reproducen mucho) sobre su superficie dado que allí hay más nutrientes. Hacia en el centro del tumor las células disponen de menos alimento dado que las de la periferia lo consumen rápidamente y por lo tanto no consiguen reproducirse e incluso mueren. El tamaño del tumor crece inicialmente en forma exponencial.  &lt;/p&gt;
 &lt;p&gt;Más interesante aún, los autores simulan el efecto de la introducción de una droga mezclada entre los nutrientes que tiene el efecto de inducir la muerte de las células cancerosas. Aquí resulta fundamental el hecho de que algunas células cancerosas suelen ser intrínsecamente resistentes a la droga. Cuando esto sucede, las simulaciones muestran que estas células regeneran el tumor atacado por la droga que ya no será sensible al tratamiento dado que las células que lo forman nacieron de madres resistentes. También es posible que algunas células adquieran resistencia después de que el tumor sea expuesto a la droga a causa de mutaciones genéticas. Las simulaciones muestran que la resistencia adquirida suele ser un mejor mecanismo de defensa del tumor que la resistencia intrínseca ya que los tumores crecen más rápidamente en el primer caso.&lt;/p&gt;

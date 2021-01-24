@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redes complejas on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/redes-complejas/</link>
+    <link>https://ciencianet.com.ar/tags/redes-complejas/</link>
     <description>Recent content in Redes complejas on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Oct 2010 20:34:18 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/redes-complejas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2010 20:34:18 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/redes-complejas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estabilidad como un mecanismo de selección natural en redes interactuantes</title>
-      <link>https://ciencianet.github.io/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</link>
+      <link>https://ciencianet.com.ar/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</link>
       <pubDate>Tue, 26 Oct 2010 20:34:18 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</guid>
+      <guid>https://ciencianet.com.ar/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Pablo Gleiser&lt;/strong&gt;. Centro Atómico Bariloche.&lt;/p&gt;
@@ -22,7 +22,7 @@
 &lt;p&gt;En el otro extremo, un enfoque posible es el de considerar un modelo abstracto con un número mínimo de parámetros. Con este enfoque es posible obtener resultados muy generales, que permiten describir cuáles son los ingredientes fundamentales necesarios para que se pueda observar un fenómeno dado. Éste es precisamente el enfoque que Juan Perotti, Orlando Billoni, Francisco Tamarit y Sergio Cannas, de la Facultad de Matemática, Astronomía y Física de la Universidad Nacional de Córdoba, han seguido en el artículo titulado &amp;quot;Estabilidad como un mecanismo de selección natural en redes interactuantes&amp;quot; que ha sido publicado recientemente en la revista &amp;quot;Papers in Physics&amp;quot;.&lt;/p&gt;
 &lt;p&gt;En este trabajo ellos proponen un mecanismo para la formación de redes complejas basado en un algoritmo con dos ingredientes fundamentales que se encuentran acoplados entre sí: crecimiento y estabilidad de la red. En el modelo, los nodos de la red tienen estados dinámicos que cambian con el tiempo. A través de las interacciones de la red los nodos llegan a un estado estable. Esto es, un estado en el que una pequeña perturbación no altera el estado del sistema. Una alteración posible es la incorporación de un nuevo nodo a la red, que trae como consecuencia la presencia de nuevas conexiones que modifican el estado de los otros nodos en la red y pueden desestabilizar al sistema.&lt;/p&gt;
 &lt;p&gt;Por ejemplo, en un sistema biológico podría pensarse en un ecosistema donde una nueva especie se hace presente. El efecto de esta nueva especie podría ser sólo el incremento del número de especies, o ésta podría alterar al ecosistema llevando a la extinción de muchas especies. Estos ingredientes son tenidos en cuenta en el modelo, por lo que la incorporación de un nuevo nodo sólo se acepta si se dan las condiciones matemáticas para que el sistema permanezca estable.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2010/10/estabilidad-red.post_.jpg&#34; alt=&#34;:left&#34; title=&#34;estabilidad-red.post&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2010/10/estabilidad-red.post_.jpg&#34; alt=&#34;:left&#34; title=&#34;estabilidad-red.post&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Los estudios realizados sobre el modelo muestran que las reglas que tienen en cuenta el crecimiento y la estabilidad de la red establecen una limitación sobre las posibles estructuras de red que se pueden obtener. Los autores analizaron las redes obtenidas con el modelo y observaron características presentes en redes reales, tales como redes biológicas de células. Por ejemplo, las redes obtenidas con el modelo presentan un grán número de nodos con pocas conexiones y unos pocos nodos con un gran número de conexiones. Los nodos con pocas conexiones forman pequeños módulos, donde los nodos están muy conectados entre sí, y cumplen un rol funcional de estabilizar la red. Por otro lado los nodos con un gran número de conexiones establecen un nexo entre los módulos, lo que permite reducir la distancia entre nodos en diferentes módulos.&lt;/p&gt;
 &lt;p&gt;La generalidad del modelo también permite hacer un análisis de los resultados obtenidos en el contexto de redes ecológicas. Los autores señalan que la incorporación de ingredientes específicos tales como el envejecimiento de los nodos y una capacidad limitada de establecer conexiones con otro nodos permitirá extender el alcance del modelo a nuevos sistemas tales como las redes tróficas.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Trabajo Original:&lt;/strong&gt; Juan I. Perotti, Orlando V. Billoni, Francisco A. Tamarit, Sergio A. Cannas, &lt;a href=&#34;https://doi.org/10.4279/pip.020005&#34;&gt;Stability as a natural selection mechanism on interacting networks&lt;/a&gt;. Papers in Physics 2, 020005 (2010).&lt;/p&gt;

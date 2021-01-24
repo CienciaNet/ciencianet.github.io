@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peatones on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/peatones/</link>
+    <link>https://ciencianet.com.ar/tags/peatones/</link>
     <description>Recent content in Peatones on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Nov 2013 00:29:32 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/peatones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2013 00:29:32 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/peatones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variables financieras y personas de a pie</title>
-      <link>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</link>
+      <link>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</link>
       <pubDate>Fri, 29 Nov 2013 00:29:32 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/variables-financieras-y-personas-de-a-pie/</guid>
+      <guid>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Daniel Parisi.&lt;/strong&gt; Instituto Tecnológico Buenos Aires y CONICET.&lt;/p&gt;
-&lt;p&gt;[&lt;img src=&#34;https://ciencianet.github.io/images/2013/11/parisi.jpg&#34; alt=&#34;Bolsa de Nueva York&#34;&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;img src=&#34;https://ciencianet.com.ar/images/2013/11/parisi.jpg&#34; alt=&#34;Bolsa de Nueva York&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La fotografía muestra el piso de la Bolsa de Comercio de Nueva York. La dinámica de las personas caminando por ese espacio físico tal vez esté más relacionada de lo que parece con la dinámica de los precios de las acciones que estos mismos agentes generan. En un estudio reciente mostramos que un sistema de peatones simulados exhibe características muy similares a las que se observan en las series de precios de activos financieros o divisas.&lt;/p&gt;
 &lt;p&gt;Existen distintos modelos físico-computacionales que permiten simular y predecir el movimiento de peatones. Uno de estos es el conocido &amp;quot;Modelo de Fuerza Social&amp;quot;. Con este modelo se puede simular, por ejemplo, dos habitaciones conectadas por una puerta y dos grupos de personas que quieren atravesarla en sentidos opuestos. A este sistema se le llama flujo bi-direccional (o contrapuesto) a través de un cuello de botella (la puerta). Se ha observado ya (con este modelo y en la vida real) que el flujo en la puerta presenta oscilaciones: por momentos dominan las personas que cruzan en una dirección y por momentos las que cruzan en sentido opuesto. Estas variaciones (fluctuaciones) han sido comparadas cualitativamente con las subas y bajas de los precios de las acciones de empresas.&lt;/p&gt;
 &lt;p&gt;Sin embargo, que dos cosas se parezcan a simple vista no significa que sean equivalentes desde un punto de vista más riguroso. Inspirados por esta semejanza, implementamos una simulación computacional que consideró dos grupos de peatones: un grupo siempre quiere atravesar la puerta de izquierda a derecha y el otro en el sentido opuesto. Se midió entonces el número de personas por m&lt;sup&gt;2&lt;/sup&gt; (la densidad) en las cercanías de la puerta. Se encontró una relación muy estrecha entre las variaciones de densidad y las variaciones de precio de las acciones en la bolsa. Las variaciones o &amp;quot;retornos&amp;quot; de una variable financiera son el porcentaje que subió o bajó una acción, por ejemplo. Dada una serie temporal de precios, o de densidades de personas cerca de la puerta con flujo contrapuesto, es fácil calcular la serie de los retornos haciendo la diferencia entre un valor y el anterior en el tiempo.&lt;/p&gt;

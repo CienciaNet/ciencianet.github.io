@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aedes aegypti on CienciaNet</title>
-    <link>https://ciencianet.github.io/tags/aedes-aegypti/</link>
+    <link>https://ciencianet.com.ar/tags/aedes-aegypti/</link>
     <description>Recent content in Aedes aegypti on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 08 Sep 2013 00:45:02 +0000</lastBuildDate><atom:link href="https://ciencianet.github.io/tags/aedes-aegypti/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2013 00:45:02 +0000</lastBuildDate><atom:link href="https://ciencianet.com.ar/tags/aedes-aegypti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La complejidad del desarrollo del mosquito Aedes aegypti</title>
-      <link>https://ciencianet.github.io/post/la-complejidad-del-desarrollo-del-mosquito-aedes-aegypti/</link>
+      <link>https://ciencianet.com.ar/post/la-complejidad-del-desarrollo-del-mosquito-aedes-aegypti/</link>
       <pubDate>Sun, 08 Sep 2013 00:45:02 +0000</pubDate>
       
-      <guid>https://ciencianet.github.io/post/la-complejidad-del-desarrollo-del-mosquito-aedes-aegypti/</guid>
+      <guid>https://ciencianet.com.ar/post/la-complejidad-del-desarrollo-del-mosquito-aedes-aegypti/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Paula Bergero.&lt;/strong&gt; Facultad de Ciencias Exactas (UNLP).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Modeling the complex hatching and development of Aedes aegypti in temperate climates&lt;/strong&gt; es una publicación aparecida en la revista &lt;em&gt;Ecological Modelling&lt;/em&gt; en 2013, producto de un proyecto interdisciplinar, donde conviven teoría y experimentación. El trabajo fue llevado adelante por Victoria Romeo Aznar, Marcelo Otero, y Hernán G. Solari, del Departamento de Física, junto a María Sol De Majo y Sylvia Fischer, del Departamento de Ecología, Genética y Evolución, ambas instituciones de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires.&lt;/p&gt;
 &lt;p&gt;Los autores presentan y discuten aquí un modelo estocástico y compartimental para el Aedes aegypti (mosquito doméstico, responsable de la transmisión de Dengue y Fiebre amarilla) con la idea de primeramente elucidar y luego predecir los fenómenos biológicos relacionados con la eclosión de los huevos y el desarrollo del mosquito (ver el esquema del modelo en la Figura). El trabajo está enmarcado en contexto de la eco-epidemiología matemática, es decir, el desarrollo de métodos matemáticos -tanto de modelado como de inferencia estadística- que permitan el estudio de procesos epidémicos.&lt;/p&gt;
 &lt;p&gt;Este tipo de tratamientos incluyen en general múltiples aspectos: la biología de la enfermedad en el huésped y vector, la dispersión de vectores, las variables climáticas que pudieran estar influyendo en los procesos, cuestiones geográficas locales, movilidad de personas, entre otros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ciencianet.github.io/images/2013/09/paper_solari1-616x472.jpg&#34; alt=&#34;Los compartimentos representan las respectivas poblaciones. Las transiciones se representan con flechas.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ciencianet.com.ar/images/2013/09/paper_solari1-616x472.jpg&#34; alt=&#34;Los compartimentos representan las respectivas poblaciones. Las transiciones se representan con flechas.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;En los últimos años los autores han desarrollado un modelo llamado aedesBA, previo al presentado en trabajo que reseñamos aquí, que describe el comportamiento de poblaciones de Aedes aegypti en la ciudad de Buenos Aires. Según describen, se trata de un &lt;em&gt;“developmental model”&lt;/em&gt;, es decir, un modelo que ha sido diseñado con el objeto de ser usado en el proceso de construcción de conocimiento teórico. El aedesBA fue confrontado con datos reales de postura de huevos en el barrio de Mataderos en un año con clima regular, generando un perfil de actividad compatible con las observaciones.&lt;/p&gt;
 &lt;p&gt;Posteriormente fue usado para analizar la posibilidad de un brote de dengue en Buenos Aires, prediciendo una circulación no epidémica del virus que –a pesar de las expectativas en sentido contrario de las autoridades del sistema sanitario- fue efectivamente reportado en 2009, un año de notable sequía en la región. Sin embargo, el aedesBA no tenía en cuenta los registros de lluvias, correspondiendo la predicción correspondía a un año de clima normal y no de sequía, por lo cual podía pensarse que el éxito predictivo del modelo se debía a motivos erróneos.&lt;/p&gt;
 &lt;p&gt;Tampoco consideraba la alimentación del mosquito adulto como un factor limitante. En este sentido, el nuevo modelo se adentra en la complejidad del problema: incorpora el efecto de las lluvias en el mecanismo regulatorio de la población de mosquitos. Así, considera dos factores climáticos que pueden influir en ambientes de clima templado: las lluvias y las temperaturas diarias. La lluvia tiene el efecto disparador de la eclosión de los huevos y por lo tanto modula la densidad de larvas, aunque también se considera en el modelo una tasa de eclosión independiente de las precipitaciones, como ocurría en el aedesBA. Por otra parte, la mortalidad y el desarrollo de las larvas en su estadio posterior (pupa), dependen aquí de la disponibilidad de nutrientes en el ambiente, que es modelado mediante una población de bacterias que crece regulada por la temperatura.&lt;/p&gt;
