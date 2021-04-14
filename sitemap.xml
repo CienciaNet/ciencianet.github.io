@@ -4,12 +4,52 @@
   
   <url>
     <loc>https://ciencianet.com.ar/</loc>
-    <lastmod>2021-01-30T10:52:14-03:00</lastmod>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://ciencianet.com.ar/categories/</loc>
-    <lastmod>2021-01-30T10:52:14-03:00</lastmod>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/tags/fermilab/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/categories/f%C3%ADsica/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/tags/modelo-est%C3%A1ndar/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/tags/mu%C3%B3n/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/tags/nueva-f%C3%ADsica/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/post/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/post/sobre-la-medicion-reciente-del-muon/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/tags/</loc>
+    <lastmod>2021-04-14T15:13:35-03:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +73,7 @@
   </url>
   
   <url>
-    <loc>https://ciencianet.com.ar/post/</loc>
-    <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ciencianet.com.ar/categories/sociedad/</loc>
-    <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/</loc>
     <lastmod>2021-01-30T10:52:14-03:00</lastmod>
   </url>
   
@@ -104,11 +134,6 @@
   
   <url>
     <loc>https://ciencianet.com.ar/tags/einstein/</loc>
-    <lastmod>2018-08-19T23:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/f%C3%ADsica/</loc>
     <lastmod>2018-08-19T23:49:23+00:00</lastmod>
   </url>
   
@@ -403,6 +428,21 @@
   </url>
   
   <url>
+    <loc>https://ciencianet.com.ar/categories/anuncio/</loc>
+    <lastmod>2017-12-29T00:21:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/post/ciencianet-nuevamente-en-linea/</loc>
+    <lastmod>2017-12-29T00:21:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ciencianet.com.ar/tags/divulgaci%C3%B3n/</loc>
+    <lastmod>2017-12-29T00:21:29+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ciencianet.com.ar/tags/chagas/</loc>
     <lastmod>2016-07-17T22:02:42+00:00</lastmod>
   </url>
@@ -410,11 +450,6 @@
   <url>
     <loc>https://ciencianet.com.ar/post/matematicas-para-estudiar-el-corazon-perdida-de-correlaciones-de-largo-alcance-en-el-ritmo-cardiaco-de-enfermos-de-chagas/</loc>
     <lastmod>2016-07-17T22:02:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/divulgaci%C3%B3n/</loc>
-    <lastmod>2016-07-11T22:05:30+00:00</lastmod>
   </url>
   
   <url>
@@ -775,11 +810,6 @@
   <url>
     <loc>https://ciencianet.com.ar/post/la-complejidad-del-desarrollo-del-mosquito-aedes-aegypti/</loc>
     <lastmod>2013-09-08T00:45:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/anuncio/</loc>
-    <lastmod>2013-08-26T00:49:10+00:00</lastmod>
   </url>
   
   <url>
