@@ -6,7 +6,29 @@
     <description>Recent content on CienciaNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 May 2021 19:56:13 -0300</lastBuildDate><atom:link href="https://ciencianet.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 18:36:17 -0300</lastBuildDate><atom:link href="https://ciencianet.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una mirada física al juego del fútbol: ¡que el borracho no te saque la pelota!</title>
+      <link>https://ciencianet.com.ar/post/una_mirada_fisica_al_juego_del_futbol/</link>
+      <pubDate>Tue, 15 Jun 2021 18:36:17 -0300</pubDate>
+      
+      <guid>https://ciencianet.com.ar/post/una_mirada_fisica_al_juego_del_futbol/</guid>
+      <description>
+        
+          &lt;h4 id=&#34;juan-pablo-álvarez-y-emilio-a-winograd&#34;&gt;Juan Pablo Álvarez y Emilio A. Winograd.&lt;/h4&gt;
+&lt;p&gt;⊣ Foto de &lt;a href=&#34;https://unsplash.com/@jaenix?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Jannik Skorna&lt;/a&gt; en &lt;a href=&#34;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt; ⊢&lt;/p&gt;
+&lt;p&gt;La toma de decisiones basada en el análisis de grandes volúmenes de datos es una actividad cada vez más frecuente en todas las disciplinas y el deporte, en particular, sigue esa misma tendencia. El béisbol, básquet y fútbol americano son ejemplos pioneros y paradigmáticos de ello. La forma en que se analizan los jugadores y las acciones del juego en estos deportes han modificado notablemente el espectáculo. En nuestro fútbol, también las decisiones basadas en datos son cada vez más habituales y su uso está bastante extendido en lo que concierne al fichaje de jugadores. Sin embargo, su aplicación a los partidos en sí está más retrasada que en otros deportes, principalmente por tratarse de un juego con dinámica compleja, con situaciones con baja repetitividad, con baja cantidad de recompensas (goles) y sujeto a acciones imprevisibles.&lt;/p&gt;
+&lt;p&gt;Sin embargo, por más complejo que sea, el fútbol no responde a la dinámica de lo impensado en lo que al juego se refiere. En la ciencia, sabemos que la dinámica de procesos con variables aleatorias puede ser predicha. Ejemplos abundan en todas las disciplinas, desde el movimiento browniano explicado en uno de los célebres trabajos de Einstein en 1905, pasando por las predicciones climáticas, aplicaciones a la economía, entre tantas otras. Esto también se expresa en el trabajo publicado por Chacoma, Almeira, Perotti, y Billoni, del Instituto de Física Enrique Gaviola, en Physical Review E, &amp;quot;Modeling ball possession dynamics in the game of Football&amp;quot; [&lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;], donde logran mostrar que, a pesar de su complejidad, en el fútbol es posible identificar y modelar patrones del juego de forma relativamente sencilla.&lt;/p&gt;
+&lt;p&gt;Utilizando la reciente recopilación de eventos que ocurrieron durante 1941 partidos de las cinco mayores ligas de Europa, de la Copa Mundial 2018 y de la Eurocopa 2016 [&lt;a href=&#34;#2&#34;&gt;2&lt;/a&gt;], Chacoma y colaboradores analizan, principalmente, cómo es la dinámica del juego durante la tenencia del balón. Allí logran identificar que, en la mayoría de los casos, hay solo dos o tres jugadores involucrados, y que el evento más habitual es el pase, seguido por las acciones uno contra uno (duelos). Estos últimos son los mayores responsables de las pérdidas de balón. Las observaciones las utilizan para alimentar un modelo de tres agentes (jugadores), donde dos compañeros de equipo se enfrentan a un rival, quien intenta hacerse con el balón. Este modelo logran reducirlo a un sistema unidimensional de marcha aleatoria, donde la marcha (la jugada) finaliza cuando el agente (el defensor) se aproxima a la barrera absorbente (el balón). A pesar de su simplicidad, este modelo captura adecuadamente los comportamientos estadísticos de las longitudes de los pases, los tiempos de posesión y del número de pases realizados y sirve de base para el diseño de entrenamientos específicos en la búsqueda de mejorar aspectos relacionados con la posesión del balón.&lt;/p&gt;
+&lt;p&gt;Sería interesante analizar cuáles de estos hallazgos son aplicables al fútbol argentino y sudamericano. En el juego de posesión, el pase es un elemento central y es parte esencial del modelo descrito. Las características de nuestro fútbol, presumiblemente más friccionado, con mayor cantidad de interrupciones, de pases largos a disputar con el rival y más propenso a las acciones individuales, ¿responde al mismo comportamiento? Andrés Chacoma, primer autor del estudio, intuye que no deberían existir diferencias significativas, aunque destaca la necesidad de obtener y analizar datos de esas ligas para responder esta inquietud.&lt;/p&gt;
+&lt;h2 id=&#34;referencias&#34;&gt;Referencias:&lt;/h2&gt;
+&lt;p&gt;&lt;a id=&#34;1&#34;&gt; 1. &lt;/a&gt; Chacoma, A., N. Almeira, J. I. Perotti, and O. V. Billoni. &amp;quot;Modeling ball possession dynamics in the game of football.&amp;quot; &lt;a href=&#34;https://doi.org/10.1103/PhysRevE.102.042120&#34;&gt;Physical Review E 102, no. 4 (2020): 042120&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;2&#34;&gt; 2. &lt;/a&gt; Pappalardo, Luca, Paolo Cintia, Alessio Rossi, Emanuele Massucco, Paolo Ferragina, Dino Pedreschi, and Fosca Giannotti. &amp;quot;A public data set of spatio-temporal match events in soccer competitions.&amp;quot; &lt;a href=&#34;https://doi.org/10.1038/s41597-019-0247-7&#34;&gt;Scientific data 6, no. 1 (2019): 1-15&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Desarrollo matemático permite mejorar la interpretación de imágenes médicas</title>
       <link>https://ciencianet.com.ar/post/desarrollo-matematico-mejora-imagenes-medicas/</link>
