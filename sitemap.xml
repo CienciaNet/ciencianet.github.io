@@ -1,2302 +1,1391 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ciencianet.com.ar/</loc>
-    <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/</loc>
-    <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/defensa/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/post/los-plasticos-pueden-ser-tan-valiosos-como-el-diamante/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/pl%C3%A1sticos/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/post/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/qu%C3%ADmica/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/tecnolog%C3%ADa/</loc>
+    <lastmod>2022-08-27T12:36:17-03:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/deporte/</loc>
     <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/f%C3%ADsica/</loc>
     <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/f%C3%BAtbol/</loc>
     <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/marcha-aleatoria/</loc>
     <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/post/</loc>
-    <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/</loc>
-    <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/una_mirada_fisica_al_juego_del_futbol/</loc>
     <lastmod>2021-06-15T18:36:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/desarrollo-matematico-mejora-imagenes-medicas/</loc>
     <lastmod>2021-05-20T19:56:13-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/fractal/</loc>
     <lastmod>2021-05-20T19:56:13-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/im%C3%A1gen/</loc>
     <lastmod>2021-05-20T19:56:13-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/medicina/</loc>
     <lastmod>2021-05-20T19:56:13-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/salud/</loc>
     <lastmod>2021-05-20T19:56:13-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/fermilab/</loc>
     <lastmod>2021-04-14T15:13:35-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/modelo-est%C3%A1ndar/</loc>
     <lastmod>2021-04-14T15:13:35-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/mu%C3%B3n/</loc>
     <lastmod>2021-04-14T15:13:35-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/nueva-f%C3%ADsica/</loc>
     <lastmod>2021-04-14T15:13:35-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/sobre-la-medicion-reciente-del-muon/</loc>
     <lastmod>2021-04-14T15:13:35-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/comunicaci%C3%B3n/</loc>
     <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/comunicar-la-ciencia/</loc>
     <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/divulgaci%C3%B3n-cient%C3%ADfica/</loc>
     <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/periodismo/</loc>
     <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/sociedad/</loc>
     <lastmod>2021-01-30T10:52:14-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/coronavirus/</loc>
     <lastmod>2020-01-31T20:35:28-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/epidemia/</loc>
     <lastmod>2020-01-31T20:35:28-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/modelos-matem%C3%A1ticos/</loc>
     <lastmod>2020-01-31T20:35:28-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/neumonia-de-wuhan-que-dicen-los-modelos-matematicos/</loc>
     <lastmod>2020-01-31T20:35:28-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/felicitaciones-ud-ha-ganado-un-premio/</loc>
     <lastmod>2018-09-09T22:13:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/mujeres-en-ciencia/</loc>
     <lastmod>2018-09-09T22:13:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/premios-en-ciencias/</loc>
     <lastmod>2018-09-09T22:13:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/agujero-negro/</loc>
     <lastmod>2018-08-19T23:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cosmolog%C3%ADa/</loc>
     <lastmod>2018-08-19T23:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/einstein/</loc>
     <lastmod>2018-08-19T23:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-teoria-de-la-relatividad-y-el-centro-galactico/</loc>
     <lastmod>2018-08-19T23:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/relatividad-general/</loc>
     <lastmod>2018-08-19T23:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/einstein-tucuman-y-el-infinito/</loc>
     <lastmod>2018-07-04T03:53:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tucum%C3%A1n/</loc>
     <lastmod>2018-07-04T03:53:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/curvatura-del-espacio-tiempo/</loc>
     <lastmod>2018-06-07T18:08:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/gravitaci%C3%B3n/</loc>
     <lastmod>2018-06-07T18:08:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-torre-donde-la-luz-gravita/</loc>
     <lastmod>2018-06-07T18:08:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/luz/</loc>
     <lastmod>2018-06-07T18:08:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/relatividad/</loc>
     <lastmod>2018-06-07T18:08:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/bacterias/</loc>
-    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/biof%C3%ADsica/</loc>
-    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/biolog%C3%ADa/</loc>
-    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/modelo-matem%C3%A1tico/</loc>
-    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/motores-moleculares/</loc>
-    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/prote%C3%ADnas/</loc>
-    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/como-hace-una-bacteria-para-sobrevivir-en-condiciones-extremas-nuevos-avances-acerca-de-como-un-motor-molecular-regula-la-direccion-de-transporte-del-cromosoma/</loc>
     <lastmod>2018-05-01T23:15:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/bacterias/</loc>
+    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/biof%C3%ADsica/</loc>
+    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/biolog%C3%ADa/</loc>
+    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/modelo-matem%C3%A1tico/</loc>
+    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/motores-moleculares/</loc>
+    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/prote%C3%ADnas/</loc>
+    <lastmod>2018-05-01T23:15:32+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/claudia-patricia-massolo/</loc>
     <lastmod>2018-04-28T14:59:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/f%C3%ADsica-nuclear/</loc>
     <lastmod>2018-04-28T14:59:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/materia-condensada/</loc>
     <lastmod>2018-04-28T14:59:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/patricia-massolo/</loc>
     <lastmod>2018-04-28T14:59:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/radiactividad-en-medio-ambiente/</loc>
     <lastmod>2018-04-28T14:59:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/agujeros-negros-primordiales/</loc>
     <lastmod>2018-04-19T15:31:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/astrof%C3%ADsica/</loc>
     <lastmod>2018-04-19T15:31:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/materia-oscura/</loc>
     <lastmod>2018-04-19T15:31:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/materia-oscura-ondas-gravitacionales-y-agujeros-negros-primordiales/</loc>
     <lastmod>2018-04-19T15:31:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/ondas-gravitacionales/</loc>
     <lastmod>2018-04-19T15:31:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/an%C3%A1lisis-de-textos/</loc>
     <lastmod>2018-04-15T00:32:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/diagnostico-de-estados-psicoticos-y-teorias-del-sueno-usando-analisis-automatico-del-habla/</loc>
     <lastmod>2018-04-15T00:32:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/inteligencia-artificial/</loc>
     <lastmod>2018-04-15T00:32:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/neurociencias/</loc>
     <lastmod>2018-04-15T00:32:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/psiquiatr%C3%ADa/</loc>
     <lastmod>2018-04-15T00:32:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/cosmovisi%C3%B3n/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/educaci%C3%B3n/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/epistemolog%C3%ADa/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/filosof%C3%ADa/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/mecanicismo/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/neoplatonismo/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/organicismo/</loc>
-    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/de-que-signo-sos-viaje-en-el-tiempo-por-algunas-concepciones-del-mundo/</loc>
     <lastmod>2018-04-06T15:14:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/cosmovisi%C3%B3n/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/educaci%C3%B3n/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/epistemolog%C3%ADa/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/filosof%C3%ADa/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/mecanicismo/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/neoplatonismo/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/organicismo/</loc>
+    <lastmod>2018-04-06T15:14:29+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/agujeros-negros/</loc>
     <lastmod>2018-03-22T15:48:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/mec%C3%A1nica-cu%C3%A1ntica/</loc>
     <lastmod>2018-03-22T15:48:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/memorias-del-horizonte/</loc>
     <lastmod>2018-03-22T15:48:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/stephen-hawking/</loc>
     <lastmod>2018-03-22T15:48:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/alimentos/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/interdisciplina/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/intoxicaci%C3%B3n-por-plomo/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/plombemia/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/qu%C3%ADmica/</loc>
-    <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/salud/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/saturnismo/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/una-dieta-demasiado-pesada-ingesta-de-plomo-en-ninos/</loc>
     <lastmod>2018-02-16T16:53:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/cianobacterias/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/estacionalidad/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/fisica/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/modelado-matem%C3%A1tico/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/ritmos-circadianos/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/synechococcus/</loc>
-    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/que-estacion-te-va-mejor-cambios-estacionales-de-luz-y-competencia-de-cianobacterias/</loc>
     <lastmod>2018-01-26T16:04:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/cianobacterias/</loc>
+    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/estacionalidad/</loc>
+    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/fisica/</loc>
+    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/modelado-matem%C3%A1tico/</loc>
+    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/ritmos-circadianos/</loc>
+    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/synechococcus/</loc>
+    <lastmod>2018-01-26T16:04:53+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/chagas/</loc>
     <lastmod>2016-07-17T22:02:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/matematicas-para-estudiar-el-corazon-perdida-de-correlaciones-de-largo-alcance-en-el-ritmo-cardiaco-de-enfermos-de-chagas/</loc>
     <lastmod>2016-07-17T22:02:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/divulgaci%C3%B3n/</loc>
     <lastmod>2016-07-11T22:05:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/planificacion-y-gestion-de-la-comunicacion-desde-el-lugar-del-cientifico-el-caso-conicet-2007-2015/</loc>
     <lastmod>2016-07-11T22:05:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/dengue/</loc>
     <lastmod>2016-01-28T22:12:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/epidemia-de-dengue-2015-2016-evitemos-transmitir-la-enfermedad-al-mosquito/</loc>
     <lastmod>2016-01-28T22:12:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/epidemiolog%C3%ADa/</loc>
     <lastmod>2016-01-28T22:12:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cristalograf%C3%ADa/</loc>
     <lastmod>2015-02-14T22:22:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/modelos-computacionales/</loc>
     <lastmod>2015-02-14T22:22:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/supercomputadoras-para-el-diseno-de-farmacos/</loc>
     <lastmod>2015-02-14T22:22:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/atascos/</loc>
     <lastmod>2015-01-15T23:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/flujo-intermitente-de-sistemas-particulados-y-transicion-de-atasco/</loc>
     <lastmod>2015-01-15T23:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/materia-granular/</loc>
     <lastmod>2015-01-15T23:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/transici%C3%B3n-de-fase/</loc>
     <lastmod>2015-01-15T23:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/agua/</loc>
     <lastmod>2015-01-08T23:05:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/almeja/</loc>
     <lastmod>2015-01-08T23:05:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/contaminaci%C3%B3n/</loc>
     <lastmod>2015-01-08T23:05:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/ecolog%C3%ADa/</loc>
     <lastmod>2015-01-08T23:05:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/patagonia/</loc>
     <lastmod>2015-01-08T23:05:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/un-centinela-en-aguas-patagonicas/</loc>
     <lastmod>2015-01-08T23:05:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/inform%C3%A1tica/</loc>
-    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/opini%C3%B3n/</loc>
-    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/sociedad/</loc>
-    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/sofware-libre/</loc>
-    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/quien-se-beneficia-cuando-usamos-una-computadora/</loc>
     <lastmod>2014-12-31T23:07:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/inform%C3%A1tica/</loc>
+    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/opini%C3%B3n/</loc>
+    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/sociedad/</loc>
+    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/sofware-libre/</loc>
+    <lastmod>2014-12-31T23:07:34+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-comunicacion-por-sms-un-aliado-en-la-ensenanza-de-la-lengua/</loc>
     <lastmod>2014-10-23T23:13:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/sms/</loc>
     <lastmod>2014-10-23T23:13:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tel%C3%A9fono/</loc>
     <lastmod>2014-10-23T23:13:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/biotecnolog%C3%ADa/</loc>
     <lastmod>2014-10-01T23:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/develando-los-misterios-de-la-germinacion-alemania-y-la-ciudad-de-santa-fe-comparten-investigaciones-en-el-ial/</loc>
     <lastmod>2014-10-01T23:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/metabolismo/</loc>
     <lastmod>2014-10-01T23:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/plantas/</loc>
     <lastmod>2014-10-01T23:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/aprendizaje/</loc>
     <lastmod>2014-03-24T23:32:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/did%C3%A1ctica-de-las-ciencias/</loc>
     <lastmod>2014-03-24T23:32:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/investigar-y-divulgar-para-aprender-ciencia/</loc>
     <lastmod>2014-03-24T23:32:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/regeneraci%C3%B3n-de-tejidos/</loc>
     <lastmod>2014-03-07T23:55:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/regeneracion-de-tejidos-entrevista-a-osvaldo-chara/</loc>
     <lastmod>2014-03-07T23:55:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/aceites/</loc>
     <lastmod>2014-02-25T00:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/biocatalizadores/</loc>
     <lastmod>2014-02-25T00:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/biotecnolog%C3%ADa/</loc>
     <lastmod>2014-02-25T00:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/enzimas/</loc>
     <lastmod>2014-02-25T00:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/gen%C3%A9tica/</loc>
     <lastmod>2014-02-25T00:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/las-enzimas-una-alternativa-bio-al-refinado-de-aceites/</loc>
     <lastmod>2014-02-25T00:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/epidemiolog%C3%ADa/</loc>
     <lastmod>2014-01-08T00:12:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/fiebre-amarilla/</loc>
     <lastmod>2014-01-08T00:12:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/una-reconstruccion-matematicamente-asistida-del-foco-inicial-de-la-epidemia-de-fiebre-amarilla-en-buenos-aires-1871/</loc>
     <lastmod>2014-01-08T00:12:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/bajas-temperaturas/</loc>
     <lastmod>2013-12-31T00:19:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/bajas-temperaturas-en-la-plata/</loc>
     <lastmod>2013-12-31T00:19:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/magnetismo/</loc>
     <lastmod>2013-12-31T00:19:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/agronom%C3%ADa/</loc>
     <lastmod>2013-12-28T00:24:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-agronegocio-de-la-soja-en-la-argentina-problemas-socioeconomicos-medioambientales-y-alternativas/</loc>
     <lastmod>2013-12-28T00:24:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/glifosato/</loc>
     <lastmod>2013-12-28T00:24:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/monocultivo/</loc>
     <lastmod>2013-12-28T00:24:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/soja/</loc>
     <lastmod>2013-12-28T00:24:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/sustentabilidad/</loc>
     <lastmod>2013-12-28T00:24:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-microbioma-humano/</loc>
     <lastmod>2013-12-06T00:26:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/inmunolog%C3%ADa/</loc>
     <lastmod>2013-12-06T00:26:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/microbioma/</loc>
     <lastmod>2013-12-06T00:26:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/econom%C3%ADa/</loc>
     <lastmod>2013-11-29T00:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/finanzas/</loc>
     <lastmod>2013-11-29T00:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/peatones/</loc>
     <lastmod>2013-11-29T00:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/simulaciones-num%C3%A9ricas/</loc>
     <lastmod>2013-11-29T00:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/variables-financieras-y-personas-de-a-pie/</loc>
     <lastmod>2013-11-29T00:29:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/algarrobo/</loc>
     <lastmod>2013-10-04T00:32:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/propagacion-de-algarrobo-blanco-mediante-la-tecnica-de-miniestacas/</loc>
     <lastmod>2013-10-04T00:32:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/antropolog%C3%ADa/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/libro/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/memoria/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/nuevo-libro-de-ana-guglielmucci-la-consagracion-de-la-memoria/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/pol%C3%ADticas-p%C3%BAblicas/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/sociolog%C3%ADa/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/terrorismo-de-estado/</loc>
     <lastmod>2013-10-03T00:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/aedes-aegypti/</loc>
     <lastmod>2013-09-08T00:45:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/denge/</loc>
     <lastmod>2013-09-08T00:45:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-complejidad-del-desarrollo-del-mosquito-aedes-aegypti/</loc>
     <lastmod>2013-09-08T00:45:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/anuncio/</loc>
     <lastmod>2013-08-26T00:49:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/ciencianet-gana-proyecto-de-conicet-y-expande-su-politica-editorial/</loc>
     <lastmod>2013-08-26T00:49:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/astronom%C3%ADa/</loc>
     <lastmod>2013-06-24T00:53:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/proyecto-choiols-la-astronomia-como-vehiculo-para-la-emancipacion/</loc>
     <lastmod>2013-06-24T00:53:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/canto/</loc>
     <lastmod>2013-04-25T01:04:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/fisica-y-biologia-para-develar-misterios-del-control-motor-durante-el-canto-de-las-aves/</loc>
     <lastmod>2013-04-25T01:04:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/p%C3%A1jaros/</loc>
     <lastmod>2013-04-25T01:04:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/sistema-neuronal/</loc>
     <lastmod>2013-04-25T01:04:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/nanobiotecnologia-y-nanomedicina/</loc>
     <lastmod>2013-04-11T01:09:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/nanociencia/</loc>
     <lastmod>2013-04-11T01:09:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/nanotecnolog%C3%ADa/</loc>
     <lastmod>2013-04-11T01:09:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cartogramas/</loc>
     <lastmod>2013-03-09T01:11:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/de-la-difusion-de-particulas-a-la-difusion-de-la-informacion-visualizando-datos-geoestadisticos-mediante-cartogramas/</loc>
     <lastmod>2013-03-09T01:11:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/infograf%C3%ADa/</loc>
     <lastmod>2013-03-09T01:11:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-conjetura-de-maldacena/</loc>
     <lastmod>2013-02-06T01:15:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/maldacena/</loc>
     <lastmod>2013-02-06T01:15:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-ideologia-de-la-ensenanza-de-las-ciencias/</loc>
     <lastmod>2012-11-09T01:20:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/bos%C3%B3n-de-higgs/</loc>
     <lastmod>2012-09-05T01:24:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-ultimo-elemento-el-boson-de-higgs/</loc>
     <lastmod>2012-09-05T01:24:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/epidemias/</loc>
-    <lastmod>2012-05-14T01:26:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/de-donde-vienen-las-oscilaciones-epidemicas/</loc>
     <lastmod>2012-05-14T01:26:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/nn/</loc>
-    <lastmod>2012-03-20T01:31:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/post/pautas-eticas-para-el-quehacer-academico-cientifico-en-la-facultad-de-ciencias-exactas-y-naturales-uba/</loc>
-    <lastmod>2012-03-20T01:31:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/uba/</loc>
-    <lastmod>2012-03-20T01:31:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/epidemias/</loc>
+    <lastmod>2012-05-14T01:26:48+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/%C3%A9tica/</loc>
     <lastmod>2012-03-20T01:31:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/nn/</loc>
+    <lastmod>2012-03-20T01:31:49+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/post/pautas-eticas-para-el-quehacer-academico-cientifico-en-la-facultad-de-ciencias-exactas-y-naturales-uba/</loc>
+    <lastmod>2012-03-20T01:31:49+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/uba/</loc>
+    <lastmod>2012-03-20T01:31:49+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/mosquito/</loc>
     <lastmod>2012-02-22T01:33:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/top-ten-la-revista-physics-world-presenta-su-seleccion-de-los-10-principales-avances-del-2011/</loc>
     <lastmod>2012-02-22T01:33:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/energ%C3%ADa-solar/</loc>
     <lastmod>2011-11-09T01:42:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/fr%C3%ADo/</loc>
     <lastmod>2011-11-09T01:42:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/hielo-solar-una-heladera-que-funciona-con-el-calor-del-sol-segunda-parte/</loc>
     <lastmod>2011-11-09T01:42:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/tecnolog%C3%ADa/</loc>
     <lastmod>2011-11-09T01:42:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-supuesta-deteccion-de-velocidades-superluminicas-de-los-neutrinos/</loc>
     <lastmod>2011-11-08T01:44:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/neutrinos/</loc>
     <lastmod>2011-11-08T01:44:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/expansi%C3%B3n-del-universo/</loc>
     <lastmod>2011-11-04T01:47:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-expansion-acelerada-del-universo-y-el-premio-nobel-de-fisica-de-2011/</loc>
     <lastmod>2011-11-04T01:47:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/grb110328a-no-seria-un-grb-curiosa-emision-de-rayos-gama-proveniente-de-la-constelacion-del-dragon/</loc>
     <lastmod>2011-05-14T01:49:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/rayos-gama/</loc>
     <lastmod>2011-05-14T01:49:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/dulces-melodias-con-cuantas-de-azucar/</loc>
     <lastmod>2011-04-09T01:55:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/m%C3%BAsica/</loc>
     <lastmod>2011-04-09T01:55:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/neurociencia/</loc>
     <lastmod>2011-04-09T01:55:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/percepci%C3%B3n/</loc>
     <lastmod>2011-04-09T01:55:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/procesos-cognitivos/</loc>
     <lastmod>2011-04-09T01:55:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/cambios-y-permanencias-en-la-ciencia-argentina/</loc>
     <lastmod>2011-04-08T01:58:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/pol%C3%ADtica-cient%C3%ADfica/</loc>
     <lastmod>2011-04-08T01:58:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-valor-de-la-educacion-universitaria-publica-y-gratuita/</loc>
     <lastmod>2011-02-15T02:01:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/about/</loc>
     <lastmod>2011-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/grafeno/</loc>
     <lastmod>2010-12-14T02:05:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/sobre-la-pista-del-grafeno-en-argentina-efectos-electromecanicos-en-la-nanoescala/</loc>
     <lastmod>2010-12-14T02:05:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/avances-en-la-lucha-contra-la-placa-dental/</loc>
     <lastmod>2010-12-06T20:28:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/estad%C3%ADstica/</loc>
     <lastmod>2010-12-04T20:29:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/gobierno/</loc>
     <lastmod>2010-12-04T20:29:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/indec/</loc>
     <lastmod>2010-12-04T20:29:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/informe-de-la-uba-sobre-el-indec/</loc>
     <lastmod>2010-12-04T20:29:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/ciencia/</loc>
-    <lastmod>2010-11-29T20:30:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/democratizaci%C3%B3n/</loc>
-    <lastmod>2010-11-29T20:30:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/democratizar-la-ciencia-dialogo-reflexividad-y-apertura/</loc>
     <lastmod>2010-11-29T20:30:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/ciencia/</loc>
+    <lastmod>2010-11-29T20:30:15+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/democratizaci%C3%B3n/</loc>
+    <lastmod>2010-11-29T20:30:15+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/supernova-sn-1979c-el-agujero-negro-mas-joven/</loc>
     <lastmod>2010-11-23T20:32:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/estabilidad-como-un-mecanismo-de-seleccion-natural-en-redes-interactuantes/</loc>
     <lastmod>2010-10-26T20:34:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/grafos/</loc>
     <lastmod>2010-10-26T20:34:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/redes-complejas/</loc>
     <lastmod>2010-10-26T20:34:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/modelo-matematico-para-la-propagacion-de-la-tos-convulsa-en-argentina/</loc>
     <lastmod>2010-10-25T20:37:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/pertussis/</loc>
     <lastmod>2010-10-25T20:37:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tos-convulsa/</loc>
     <lastmod>2010-10-25T20:37:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/dimensiones/</loc>
-    <lastmod>2010-10-21T20:36:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/evento/</loc>
-    <lastmod>2010-10-21T20:36:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-dimension-importa/</loc>
     <lastmod>2010-10-21T20:36:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/dimensiones/</loc>
+    <lastmod>2010-10-21T20:36:18+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/evento/</loc>
+    <lastmod>2010-10-21T20:36:18+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/foro/</loc>
     <lastmod>2010-09-29T20:39:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/resena-de-la-iv-reunion-binacional-de-ecologia/</loc>
     <lastmod>2010-09-29T20:39:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/reuni%C3%B3n-cient%C3%ADfica/</loc>
     <lastmod>2010-09-29T20:39:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/escuela-internacional-de-gravedad-cuantica/</loc>
     <lastmod>2010-09-04T20:42:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/gravedad-cu%C3%A1ntica/</loc>
     <lastmod>2010-09-04T20:42:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/teor%C3%ADa-de-cuerdas/</loc>
     <lastmod>2010-09-04T20:42:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/los-cientificos-ante-las-pseudociencias/</loc>
     <lastmod>2010-08-31T20:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/pseudociencias/</loc>
     <lastmod>2010-08-31T20:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/celdas-solares-con-nanohilos/</loc>
     <lastmod>2010-08-17T20:47:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/ingenier%C3%ADa/</loc>
     <lastmod>2010-08-17T20:47:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/semiconductores/</loc>
     <lastmod>2010-08-17T20:47:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/flujo/</loc>
     <lastmod>2010-08-05T20:48:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/material-granular/</loc>
     <lastmod>2010-08-05T20:48:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/reciente-avance-en-fisica-de-medios-granulares/</loc>
     <lastmod>2010-08-05T20:48:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/cinematica-de-los-numeros-a-las-representaciones-algebraicas/</loc>
     <lastmod>2010-07-22T20:51:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/did%C3%A1ctica/</loc>
     <lastmod>2010-07-22T20:51:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/l%C3%ADquidos/</loc>
     <lastmod>2010-03-23T20:53:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/sobre-el-movimiento-democratico-a-escala-molecular-en-liquidos-a-baja-temperatura/</loc>
     <lastmod>2010-03-23T20:53:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/vibrato/</loc>
-    <lastmod>2010-03-09T20:54:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/que-nota-escuchamos-durante-un-vibrato/</loc>
     <lastmod>2010-03-09T20:54:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/vibrato/</loc>
+    <lastmod>2010-03-09T20:54:39+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-evolucion-de-los-lenguajes-y-la-fisica-contemporanea/</loc>
     <lastmod>2010-02-16T20:55:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/lenguajes/</loc>
     <lastmod>2010-02-16T20:55:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/es-realmente-posible-la-divulgacion-cientifica-fragmentos-de-una-entrevista-a-pierre-thuillier/</loc>
     <lastmod>2010-02-04T20:57:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-taller-de-ensenanza-de-fisica-de-la-unlp-como-innovacion-diseno-desarrollo-y-evaluacion/</loc>
     <lastmod>2009-12-16T20:58:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cambios-de-fase/</loc>
     <lastmod>2009-11-30T21:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/liquido-que-desafia-las-reglas/</loc>
     <lastmod>2009-11-30T21:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/puentes-de-hidr%C3%B3geno/</loc>
     <lastmod>2009-11-30T21:01:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/radiactividad/</loc>
     <lastmod>2009-10-09T21:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/uno-de-los-derechos-humanos-es-conocer-la-composicion-de-nuestros-alimentos/</loc>
     <lastmod>2009-10-09T21:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/monopolos-magn%C3%A9ticos/</loc>
     <lastmod>2009-09-13T21:05:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/monopolos-magneticos-y-cuerdas-de-dirac-en-un-material/</loc>
     <lastmod>2009-09-13T21:05:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-musica-de-las-esferas/</loc>
     <lastmod>2009-08-28T21:08:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/biomim%C3%A9tica/</loc>
     <lastmod>2009-07-06T21:25:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/mec%C3%A1nica-computacional/</loc>
-    <lastmod>2009-07-06T21:25:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/mas-vale-mav-en-compu-que-cien-volando/</loc>
     <lastmod>2009-07-06T21:25:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/mec%C3%A1nica-computacional/</loc>
+    <lastmod>2009-07-06T21:25:28+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/veh%C3%ADculos-aut%C3%B3nomos/</loc>
     <lastmod>2009-07-06T21:25:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-ciclo-de-vida-de-los-plaguicidas-organofosforados-en-los-agronegocios-para-la-produccion-sustentable-en-la-argentina/</loc>
     <lastmod>2009-07-03T21:27:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/plaguicidas/</loc>
     <lastmod>2009-07-03T21:27:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/vidrios/</loc>
-    <lastmod>2009-06-29T21:29:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/que-sucede-dentro-un-liquido-cuando-se-transforma-en-un-vidrio/</loc>
     <lastmod>2009-06-29T21:29:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/desarrollo/</loc>
-    <lastmod>2009-06-19T21:30:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/vidrios/</loc>
+    <lastmod>2009-06-29T21:29:16+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/ciencia-que-ciencia/</loc>
     <lastmod>2009-06-19T21:30:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/desarrollo/</loc>
+    <lastmod>2009-06-19T21:30:21+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/extensi%C3%B3n/</loc>
     <lastmod>2009-05-21T21:33:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/historia/</loc>
     <lastmod>2009-05-21T21:33:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/instituto-de-f%C3%ADsica-unlp/</loc>
     <lastmod>2009-05-21T21:33:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/la-plata/</loc>
     <lastmod>2009-05-21T21:33:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/universidad/</loc>
     <lastmod>2009-05-21T21:33:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/universidad-y-sociedad-extension-universitaria-en-fisica-en-la-unlp/</loc>
     <lastmod>2009-05-21T21:33:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/ciruj%C3%ADa/</loc>
     <lastmod>2009-04-15T21:36:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/f%C3%ADstula-enterocut%C3%A1nea/</loc>
     <lastmod>2009-04-15T21:36:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/hacer-el-vacio-en-cirujia/</loc>
     <lastmod>2009-04-15T21:36:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-discurso-periodistico-sobre-la-actuacion-de-los-nuevos-movimientos-sociales/</loc>
     <lastmod>2009-04-01T21:38:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/medios-de-comunicaci%C3%B3n/</loc>
     <lastmod>2009-04-01T21:38:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/mendoza/</loc>
     <lastmod>2009-04-01T21:38:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/movimientos-sociales/</loc>
     <lastmod>2009-04-01T21:38:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/todo-lo-que-ud-siempre-quiso-saber-sobre-el-dengue-y-no-se-animaron-a-contarle/</loc>
     <lastmod>2009-03-31T21:40:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/epistemolog%C3%ADa/</loc>
-    <lastmod>2009-03-30T21:43:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/reduccionismo/</loc>
-    <lastmod>2009-03-30T21:43:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/es-la-quimica-una-rama-de-la-fisica/</loc>
     <lastmod>2009-03-30T21:43:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/epistemolog%C3%ADa/</loc>
+    <lastmod>2009-03-30T21:43:25+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/reduccionismo/</loc>
+    <lastmod>2009-03-30T21:43:25+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/arqueolog%C3%ADa/</loc>
     <lastmod>2009-03-15T21:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/im%C3%A1genes/</loc>
     <lastmod>2009-03-15T21:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/l%C3%A1ser/</loc>
     <lastmod>2009-03-15T21:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/una-mirada-laser-sobre-el-pasado-instrumentos-arqueologicos-de-roca-estudiados-mediante-microscopia-confocal-de-barrido/</loc>
     <lastmod>2009-03-15T21:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/bnct-neutrones-aceleradores-y-oncologia/</loc>
     <lastmod>2009-03-15T21:44:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/c%C3%A1ncer/</loc>
     <lastmod>2009-03-15T21:44:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tecnolog%C3%ADa-nuclear/</loc>
     <lastmod>2009-03-15T21:44:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/biof%C3%ADsica/</loc>
     <lastmod>2009-03-11T21:52:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/evoluci%C3%B3n/</loc>
     <lastmod>2009-03-11T21:52:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/historia-evolutiva-de-las-proteinas/</loc>
     <lastmod>2009-03-11T21:52:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-interdisciplina-revisitada/</loc>
     <lastmod>2009-03-09T21:54:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/difracci%C3%B3n/</loc>
-    <lastmod>2009-02-27T21:55:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/es-posible-controlar-la-luz-difractada-por-una-red-de-difraccion/</loc>
     <lastmod>2009-02-27T21:55:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/difracci%C3%B3n/</loc>
+    <lastmod>2009-02-27T21:55:10+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/parto/</loc>
     <lastmod>2009-02-16T21:58:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/prevencion-de-infecciones-perinatales-por-streptococcus-beta-hemolitico-grupo-b-en-argentina/</loc>
     <lastmod>2009-02-16T21:58:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/rayos-x/</loc>
-    <lastmod>2009-01-13T21:59:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/tribolog%C3%ADa/</loc>
-    <lastmod>2009-01-13T21:59:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/puede-la-friccion-generar-rayos-x/</loc>
     <lastmod>2009-01-13T21:59:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/rayos-x/</loc>
+    <lastmod>2009-01-13T21:59:08+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/tribolog%C3%ADa/</loc>
+    <lastmod>2009-01-13T21:59:08+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cristal-fot%C3%B3nico/</loc>
     <lastmod>2008-12-02T22:00:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-naturaleza-nos-invita-a-jugar-con-la-luz/</loc>
     <lastmod>2008-12-02T22:00:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/%C3%B3ptica/</loc>
     <lastmod>2008-12-02T22:00:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/chimango/</loc>
     <lastmod>2008-11-20T22:04:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/comportamiento/</loc>
     <lastmod>2008-11-20T22:04:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-inteligente-chimango/</loc>
     <lastmod>2008-11-20T22:04:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/etolog%C3%ADa/</loc>
     <lastmod>2008-11-20T22:04:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/percepcion-publica-de-la-nanotecnologia-un-viaje-al-nanomundo/</loc>
     <lastmod>2008-10-28T22:06:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/formaci%C3%B3n-de-opini%C3%B3n/</loc>
     <lastmod>2008-10-16T22:08:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/formacion-de-opinion-lideres-vs-medios-de-comunicacion/</loc>
     <lastmod>2008-10-16T22:08:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-trabajo-cientifico-en-los-grandes-emprendimientos/</loc>
     <lastmod>2008-09-29T22:09:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/lhc/</loc>
     <lastmod>2008-09-29T22:09:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/cuando-investigadores-en-fisica-piensan-en-la-educacion-y-la-divulgacion-de-la-ciencia/</loc>
     <lastmod>2008-09-26T22:12:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-lhc-la-maquina-del-fin-del-mundo/</loc>
     <lastmod>2008-09-14T22:12:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/capilaridad-diferencias-de-presion-transpiracion-y-nuevo-mecanismo-para-el-transporte-de-agua-en-plantas-vasculares/</loc>
     <lastmod>2008-09-10T22:15:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/gravedad/</loc>
     <lastmod>2008-09-08T22:17:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/peso-y-gravedad-dificultad-en-la-construccion-de-conceptos/</loc>
     <lastmod>2008-09-08T22:17:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/representaciones/</loc>
     <lastmod>2008-09-08T22:17:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/frentes-termicos-en-el-borde-de-la-plataforma-continental-patagonica/</loc>
     <lastmod>2008-08-13T22:20:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/geof%C3%ADsica/</loc>
     <lastmod>2008-08-13T22:20:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/mar-argentino/</loc>
     <lastmod>2008-08-13T22:20:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/plataforma-continental/</loc>
     <lastmod>2008-08-13T22:20:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/becarios/</loc>
     <lastmod>2008-08-12T23:22:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/jovenes-cientificos-precarizados/</loc>
     <lastmod>2008-08-12T23:22:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/becarios/</loc>
     <lastmod>2008-08-07T23:24:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/conicet/</loc>
     <lastmod>2008-08-07T23:24:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-rol-de-los-trabajos-practicos-de-laboratorio-en-la-ensenanza-de-fisica/</loc>
     <lastmod>2008-07-11T23:30:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/trabajos-pr%C3%A1cticos/</loc>
     <lastmod>2008-07-11T23:30:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-estilo-de-vida-sano-apaga-los-genes-que-causan-cancer/</loc>
     <lastmod>2008-06-21T23:38:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/estilo-de-vida/</loc>
     <lastmod>2008-06-21T23:38:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/biodisel/</loc>
     <lastmod>2008-06-17T23:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-futuro-de-los-biocombustibles-en-argentina/</loc>
     <lastmod>2008-06-17T23:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/energ%C3%ADa/</loc>
     <lastmod>2008-06-17T23:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/gasoil/</loc>
     <lastmod>2008-06-17T23:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/girasol/</loc>
     <lastmod>2008-06-17T23:43:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/electr%C3%B3n/</loc>
     <lastmod>2008-05-22T23:46:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/experimentos-con-rayos-que-hicieron-historia/</loc>
     <lastmod>2008-05-22T23:46:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cultura/</loc>
     <lastmod>2008-04-25T23:57:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/museo/</loc>
     <lastmod>2008-04-25T23:57:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/museo-interactivo-de-ciencias-puerto-ciencia/</loc>
     <lastmod>2008-04-25T23:57:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/ciencianet-gano-un-subsidio-de-la-afa/</loc>
     <lastmod>2008-04-20T00:05:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/post/publicaciones-mas-cientificas-reflexiones-sobre-el-flujo-de-conocimiento-dinero-e-influencias-en-la-ciencia/</loc>
-    <lastmod>2008-04-02T00:07:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/publicaci%C3%B3n/</loc>
     <lastmod>2008-04-02T00:07:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/post/publicaciones-mas-cientificas-reflexiones-sobre-el-flujo-de-conocimiento-dinero-e-influencias-en-la-ciencia/</loc>
+    <lastmod>2008-04-02T00:07:32+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/sistema-cient%C3%ADfico/</loc>
     <lastmod>2008-04-02T00:07:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/acuaporinas/</loc>
-    <lastmod>2008-03-29T00:20:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/membrana-celular/</loc>
-    <lastmod>2008-03-29T00:20:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/las-acuaporinas-favorecen-un-aumento-del-calcio-intracelular/</loc>
     <lastmod>2008-03-29T00:20:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/acuaporinas/</loc>
+    <lastmod>2008-03-29T00:20:13+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/membrana-celular/</loc>
+    <lastmod>2008-03-29T00:20:13+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cambio-clim%C3%A1tico/</loc>
     <lastmod>2008-03-19T00:37:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/conversion-de-tierras-y-la-deuda-de-carbono-de-biocombustibles/</loc>
     <lastmod>2008-03-19T00:37:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/deuda-de-carbono/</loc>
     <lastmod>2008-03-19T00:37:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/efecto-invernadero/</loc>
     <lastmod>2008-03-19T00:37:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/bacteri%C3%B3fagos/</loc>
     <lastmod>2008-03-19T00:34:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/infecciones/</loc>
     <lastmod>2008-03-19T00:34:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/nuevos-virus-para-tratar-enfermedades-bacteriales/</loc>
     <lastmod>2008-03-19T00:34:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/virus/</loc>
     <lastmod>2008-03-19T00:34:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/arena/</loc>
     <lastmod>2008-03-19T00:30:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/bolas-de-acero-hacen-salpicaduras-en-la-arena/</loc>
     <lastmod>2008-03-19T00:30:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/nanotubos/</loc>
     <lastmod>2008-03-19T00:26:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/nanotubos-contrabandean-moleculas-anti-vih-dentro-de-celulas/</loc>
     <lastmod>2008-03-19T00:26:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/vih/</loc>
     <lastmod>2008-03-19T00:26:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/hormigas-argentinas/</loc>
     <lastmod>2008-03-19T00:22:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/hormigas-argentinas-forman-supercolonias-familiares/</loc>
     <lastmod>2008-03-19T00:22:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-grafeno-continua-sorprendiendo/</loc>
     <lastmod>2008-03-18T00:43:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/materiales/</loc>
     <lastmod>2008-03-18T00:43:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/identificacion-automatica-de-objetos-en-imagenes-con-ruido/</loc>
     <lastmod>2008-03-12T00:46:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/imagen/</loc>
     <lastmod>2008-03-12T00:46:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/speckle/</loc>
     <lastmod>2008-03-12T00:46:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/hielo-solar-una-heladera-que-funciona-con-el-calor-del-sol/</loc>
     <lastmod>2008-02-12T00:53:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/deteccion-de-estilos-de-aprendizaje-utilizando-redes-bayesianas/</loc>
     <lastmod>2008-02-03T00:57:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/red-bayesiana/</loc>
     <lastmod>2008-02-03T00:57:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-politica-del-teletrabajo/</loc>
     <lastmod>2007-12-21T01:02:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/relaciones-laborales/</loc>
     <lastmod>2007-12-21T01:02:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/teletrabajo/</loc>
     <lastmod>2007-12-21T01:02:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tics/</loc>
     <lastmod>2007-12-21T01:02:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/ahorro-energetico-domiciliario-un-balance-entre-diseno-arquitectonico-y-habitos-de-vida/</loc>
     <lastmod>2007-12-18T01:08:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/arquitectura/</loc>
     <lastmod>2007-12-18T01:08:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/eficiencia-energ%C3%A9tica/</loc>
     <lastmod>2007-12-18T01:08:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/museo-interactivo-de-ciencia-tecnologia-y-sociedad-imaginario/</loc>
     <lastmod>2007-11-29T01:09:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/medicos-fumadores-haz-lo-que-yo-digo/</loc>
     <lastmod>2007-11-28T01:12:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tabaquismo/</loc>
     <lastmod>2007-11-28T01:12:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/ciencia-tecnologia-y-sociedad/</loc>
     <lastmod>2007-11-15T01:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/amino%C3%A1cidos/</loc>
     <lastmod>2007-10-31T01:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/transportando-aminoacidos-en-las-celulas-del-corazon/</loc>
     <lastmod>2007-10-31T01:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/biomateriales/</loc>
     <lastmod>2007-10-24T01:19:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/modificacion-de-superficies-de-polimeros-con-haces-de-iones-pesados/</loc>
     <lastmod>2007-10-24T01:19:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/pol%C3%ADmeros/</loc>
     <lastmod>2007-10-24T01:19:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/ciencia-hoy/</loc>
     <lastmod>2007-10-19T01:24:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/divulgacion-cientifica-y-tecnologica-un-ejemplo/</loc>
     <lastmod>2007-10-19T01:24:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/sempiterna-aqua/</loc>
     <lastmod>2007-10-03T01:26:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cerebro/</loc>
     <lastmod>2007-10-01T01:27:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-cerebro-predice-nuestra-percepcion-del-mundo-exterior/</loc>
     <lastmod>2007-10-01T01:27:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/percepci%C3%B3n-sensorial/</loc>
     <lastmod>2007-10-01T01:27:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/caos/</loc>
     <lastmod>2007-08-24T01:30:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-problema-de-fermi-pasta-y-ulam-un-pequeno-descubrimiento/</loc>
     <lastmod>2007-08-24T01:30:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/f%C3%ADsica-no-lineal/</loc>
     <lastmod>2007-08-24T01:30:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/simulaciones-computacionales/</loc>
     <lastmod>2007-08-24T01:30:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/electr%C3%B3nica/</loc>
     <lastmod>2007-08-13T01:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/lo-tecnico-y-lo-humano-en-el-desarrollo-en-electronica/</loc>
     <lastmod>2007-08-13T01:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/tecnolog%C3%ADa/</loc>
-    <lastmod>2007-08-13T01:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/cerro-azul/</loc>
-    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/geolog%C3%ADa/</loc>
-    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/la-pampa/</loc>
-    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/mioceno-superior/</loc>
-    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/como-se-formo-el-cerro-azul-en-la-provincia-de-la-pampa/</loc>
     <lastmod>2007-08-08T01:39:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/cerro-azul/</loc>
+    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/geolog%C3%ADa/</loc>
+    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/la-pampa/</loc>
+    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/mioceno-superior/</loc>
+    <lastmod>2007-08-08T01:39:30+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/otros-efectos-interesantes-del-viagra/</loc>
     <lastmod>2007-07-16T01:42:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/ritmo-circadiano/</loc>
     <lastmod>2007-07-16T01:42:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/sildenafil/</loc>
     <lastmod>2007-07-16T01:42:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/viagra/</loc>
     <lastmod>2007-07-16T01:42:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/fisicos-juegan-a-los-flippers-para-mejorar-procesos-industriales/</loc>
     <lastmod>2007-07-13T01:48:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/galton/</loc>
     <lastmod>2007-07-13T01:48:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/cristales-de-yeso-gigantes-en-naica-mexico/</loc>
     <lastmod>2007-07-13T01:44:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cristales-gigantes/</loc>
     <lastmod>2007-07-13T01:44:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/cuevas-de-naica/</loc>
     <lastmod>2007-07-13T01:44:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/modelo-matematico-para-el-tratamiento-de-quimioterapia-sobre-tumores-cancerosos/</loc>
     <lastmod>2007-06-27T01:54:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/quimioterapia/</loc>
     <lastmod>2007-06-27T01:54:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/simulaci%C3%B3n-computacional/</loc>
     <lastmod>2007-06-27T01:54:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/electricidad/</loc>
-    <lastmod>2007-06-16T01:57:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/transmisi%C3%B3n-inal%C3%A1mbrica/</loc>
-    <lastmod>2007-06-16T01:57:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/wi-tricity-transferencia-de-potencia-sin-cables/</loc>
     <lastmod>2007-06-16T01:57:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/electricidad/</loc>
+    <lastmod>2007-06-16T01:57:04+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/transmisi%C3%B3n-inal%C3%A1mbrica/</loc>
+    <lastmod>2007-06-16T01:57:04+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/vacuna-contra-el-chagas-pero-para-animales-domesticos/</loc>
     <lastmod>2007-06-08T02:02:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/veterinaria/</loc>
     <lastmod>2007-06-08T02:02:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/vinchuca/</loc>
     <lastmod>2007-06-08T02:02:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/categories/bioqu%C3%ADmica/</loc>
-    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/lactobacilos/</loc>
-    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/liposomas/</loc>
-    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ciencianet.com.ar/tags/proteinas/</loc>
-    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/delivery-farmacologico-celular-liposomas-cubiertos-con-proteinas-de-lactobacilus/</loc>
     <lastmod>2007-06-02T02:05:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ciencianet.com.ar/categories/bioqu%C3%ADmica/</loc>
+    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/lactobacilos/</loc>
+    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/liposomas/</loc>
+    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ciencianet.com.ar/tags/proteinas/</loc>
+    <lastmod>2007-06-02T02:05:03+00:00</lastmod>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/corrupci%C3%B3n/</loc>
     <lastmod>2007-05-25T02:11:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/eficiencia/</loc>
     <lastmod>2007-05-25T02:11:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/empresas/</loc>
     <lastmod>2007-05-25T02:11:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-corrupcion-induce-ineficiencia-en-las-empresas/</loc>
     <lastmod>2007-05-25T02:11:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/atraccion-y-desorden-entre-proteinas-y-fosfolipidos-un-estudio-experimental-de-termodinamica-de-superficies/</loc>
     <lastmod>2007-05-16T02:14:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/las-senales-de-calcio-intracelular-un-lenguaje-en-la-intimidad-de-las-celulas-un-estudio-matematico/</loc>
     <lastmod>2007-04-27T02:21:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/el-oxigeno-y-las-hemo-proteinas-una-danza-estudiada-por-simulacion/</loc>
     <lastmod>2007-04-25T02:25:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/hemo-prote%C3%ADnas/</loc>
     <lastmod>2007-04-25T02:25:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/adsorcion-de-proteinas-del-suero-sanguineo-a-nanotubos-de-carbono/</loc>
     <lastmod>2007-04-24T02:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/categories/fisicoqu%C3%ADmica/</loc>
     <lastmod>2007-04-24T02:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/la-forma-de-las-nanoparticulas-afecta-el-modo-en-que-fluyen/</loc>
     <lastmod>2007-04-16T02:35:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/almidon-de-amaranto-precocido-con-aire-caliente/</loc>
     <lastmod>2007-03-31T02:37:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/reptiles-moleculares/</loc>
     <lastmod>2007-03-28T02:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/simulaci%C3%B3n-num%C3%A9rica/</loc>
     <lastmod>2007-03-28T02:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/nanosondas-calentadas-destruyen-celulas-de-cancer-de-mama-en-ratones/</loc>
     <lastmod>2007-03-18T02:41:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/tumor/</loc>
     <lastmod>2007-03-18T02:41:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/pendulo-oscila-lejos-de-la-energia-oscura/</loc>
     <lastmod>2007-03-17T02:45:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/post/electrones-forman-un-cristal-liquido/</loc>
     <lastmod>2007-03-15T02:48:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/l%C3%ADquido-de-electrones/</loc>
     <lastmod>2007-03-15T02:48:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/ads/cft/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/tags/index/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ciencianet.com.ar/series/</loc>
   </url>
-  
 </urlset>
